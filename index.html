@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Geoportal RMP</title>
+  <meta name="description" content="Geoportal da Região Metropolitana de Piracicaba – limites territoriais, Censo 2022, uso e cobertura da terra (MapBiomas), temperatura de superfície, relevo, hidrografia e sistema viário.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23266b6b'/%3E%3Cpath d='M16 6c-4 0-7 3-7 7 0 5 7 13 7 13s7-8 7-13c0-4-3-7-7-7z' fill='%23fff'/%3E%3Ccircle cx='16' cy='13' r='2.6' fill='%23266b6b'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="css/style.css?v=14">
+</head>
+<body>
+  <!-- ================= Barra superior ================= -->
+  <header class="topo">
+    <a class="marca" href="./" aria-label="Geoportal RMP – início">
+      <svg viewBox="0 0 40 40" aria-hidden="true">
+        <circle cx="20" cy="20" r="19" fill="#e9f4ef"/>
+        <path d="M20 8c-5 0-9 4-9 9 0 6.5 9 15 9 15s9-8.5 9-15c0-5-4-9-9-9z" fill="#3f9a78"/>
+        <circle cx="20" cy="17" r="3.4" fill="#fff"/>
+      </svg>
+      <span><b>Geoportal RMP</b><small>Região Metropolitana de Piracicaba</small></span>
+    </a>
+    <button id="btn-menu" class="btn-menu" aria-label="Abrir menu" aria-expanded="false" aria-controls="nav">☰</button>
+    <nav id="nav" class="nav" aria-label="Seções do geoportal">
+      <button class="nav-item ativo" data-aba="camadas">Camadas</button>
+      <button class="nav-item" data-aba="download">Download</button>
+      <button class="nav-item" data-aba="monte">Monte seu mapa</button>
+      <button class="nav-item" data-aba="info">Mais informações</button>
+    </nav>
+    <button id="btn-link" class="pilula" title="Copiar o link desta vista do mapa">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <span>Copiar link</span>
+    </button>
+  </header>
+
+  <main class="layout">
+    <!-- ================= Painel lateral ================= -->
+    <aside id="painel" class="painel">
+
+      <!-- ---------- Aba CAMADAS ---------- -->
+      <div id="painel-camadas" class="painel-aba">
+        <div class="painel-cab">
+          <label class="rotulo" for="sel-mun" style="margin-top:0">Município</label>
+          <select id="sel-mun"><option value="">Toda a RMP (24 municípios)</option></select>
+          <section class="cartoes" id="resumo"></section>
+          <details class="bloco perfil">
+            <summary>Perfil do município</summary>
+            <div id="info-mun" class="info-mun"></div>
+          </details>
+        </div>
+
+        <!-- Tema 1 · Limites territoriais -->
+        <details class="tema" style="--cor-tema:#3f8fa8" open>
+          <summary>
+            <span class="tema-ico"><svg viewBox="0 0 24 24"><path d="M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2z M9 4v14 M15 6v14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></span>
+            <span class="tema-tit"><b>Limites Territoriais</b><small>Municípios e divisão censitária</small></span>
+          </summary>
+          <div class="tema-corpo">
+            <label class="chk"><input type="checkbox" id="chk-mun" checked><span>Limites municipais</span></label>
+            <label class="chk"><input type="checkbox" id="chk-mun-cor" checked><span>Municípios coloridos</span></label>
+            <label class="chk"><input type="checkbox" id="chk-rot" checked><span>Nomes dos municípios</span></label>
+            <label class="rotulo" for="rng-mun-cor">Transparência das cores <span id="val-mun-cor">30%</span></label>
+            <input type="range" id="rng-mun-cor" min="0" max="100" value="30">
+            <label class="rotulo" for="rng-fundo">Transparência do mapa de fundo <span id="val-fundo">40%</span></label>
+            <input type="range" id="rng-fundo" min="0" max="100" value="40">
+            <p class="nota">IBGE – Malha Municipal 2024 e Composição das Regiões Metropolitanas 2025. Os setores censitários estão em <b>Demografia</b>.</p>
+          </div>
+        </details>
+
+        <!-- Tema 2 · Demografia -->
+        <details class="tema" style="--cor-tema:#e0883a">
+          <summary>
+            <span class="tema-ico"><svg viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.2" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 20c0-3.5 2.7-6 6-6s6 2.5 6 6" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="17" cy="9" r="2.4" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M16 14c3 0 5 2 5 5" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></span>
+            <span class="tema-tit"><b>Demografia</b><small>Censo 2022 por setor censitário</small></span>
+          </summary>
+          <div class="tema-corpo">
+            <label class="chk"><input type="checkbox" id="chk-set"><span>Setores censitários</span></label>
+            <label class="rotulo" for="sel-var">Variável</label>
+            <select id="sel-var"></select>
+            <p id="desc-var" class="nota"></p>
+            <label class="rotulo" for="sel-classe">Classificação</label>
+            <select id="sel-classe">
+              <option value="quantil">Quantis (5 classes)</option>
+              <option value="jenks">Quebras naturais (Jenks)</option>
+              <option value="igual">Intervalos iguais</option>
+            </select>
+            <label class="rotulo" for="rng-opac">Opacidade <span id="val-opac">75%</span></label>
+            <input type="range" id="rng-opac" min="0" max="100" value="75">
+            <div id="legenda" class="legenda"></div>
+          </div>
+        </details>
+
+        <!-- Tema 3 · Economia -->
+        <details class="tema" style="--cor-tema:#b5b13f">
+          <summary>
+            <span class="tema-ico"><svg viewBox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></span>
+            <span class="tema-tit"><b>Economia e Infraestrutura</b><small>PIB, empresas, equipamentos urbanos e vias</small></span>
+          </summary>
+          <div class="tema-corpo">
+            <details class="bloco" id="bloco-eco" open>
+              <summary>Indicadores econômicos por município</summary>
+              <div id="eco-indisp" class="aviso" hidden>Dados econômicos ainda não processados (scripts/preparar_economia.py).</div>
+              <label class="chk"><input type="checkbox" id="chk-eco"><span>Mostrar no mapa</span></label>
+              <label class="rotulo" for="sel-eco">Indicador</label>
+              <select id="sel-eco"></select>
+              <p id="desc-eco" class="nota"></p>
+              <label class="rotulo" for="rng-eco">Opacidade <span id="val-eco">80%</span></label>
+              <input type="range" id="rng-eco" min="0" max="100" value="80">
+              <div id="legenda-eco" class="legenda"></div>
+              <div id="eco-mun" class="uso-mun"></div>
+            </details>
+
+            <details class="bloco" id="bloco-equip">
+              <summary>Equipamentos urbanos</summary>
+              <div id="equip-indisp" class="aviso" hidden>Equipamentos ainda não processados (scripts/preparar_equipamentos.py).</div>
+              <label class="chk"><input type="checkbox" id="chk-equip"><span>Mostrar no mapa</span></label>
+              <div id="lista-equip" class="lista-equip"></div>
+              <p class="nota">Escolas e creches: INEP – Catálogo de Escolas 2023 (em funcionamento). Saúde: CNES/Ministério da Saúde (estabelecimentos ativos). Demais: OpenStreetMap – colaborativo, pode estar incompleto. Clique num ponto para ver os detalhes.</p>
+              <div id="equip-mun" class="uso-mun"></div>
+            </details>
+
+            <details class="bloco">
+              <summary>Sistema viário</summary>
+              <label class="chk"><input type="checkbox" id="chk-rodovias"><span>Rodovias e avenidas principais</span></label>
+              <label class="chk"><input type="checkbox" id="chk-ruas"><span>Ruas, avenidas e estradas</span></label>
+              <p class="nota" id="nota-ruas">Ruas e estradas aparecem ao aproximar o mapa (zoom 13 ou mais) e são carregadas por município. Fonte: OpenStreetMap.</p>
+              <div id="legenda-vias" class="legenda"></div>
+            </details>
+          </div>
+        </details>
+
+        <!-- Tema 4 · Meio ambiente -->
+        <details class="tema" style="--cor-tema:#4fa87e">
+          <summary>
+            <span class="tema-ico"><svg viewBox="0 0 24 24"><path d="M5 19c0-8 5-14 15-14 0 10-6 15-14 15M5 19l7-7" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            <span class="tema-tit"><b>Meio Ambiente</b><small>Uso da terra, clima urbano, relevo e água</small></span>
+          </summary>
+          <div class="tema-corpo">
+            <!-- Uso da terra -->
+            <details class="bloco" id="bloco-uso" open>
+              <summary>Uso e cobertura da terra · MapBiomas</summary>
+              <div id="uso-indisp" class="aviso" hidden></div>
+              <div id="uso-controles">
+                <div class="segmentado" role="radiogroup" aria-label="Ano do MapBiomas">
+                  <label><input type="radio" name="uso-ano" value="" checked><span>Desligado</span></label>
+                  <label><input type="radio" name="uso-ano" value="1990"><span>1990</span></label>
+                  <label><input type="radio" name="uso-ano" value="2025"><span>2025</span></label>
+                  <label><input type="radio" name="uso-ano" value="transicao"><span>Mudanças</span></label>
+                </div>
+                <label class="chk" id="lbl-so-mud" hidden><input type="checkbox" id="chk-so-mud"><span>Mostrar só as áreas que mudaram</span></label>
+                <label class="rotulo" for="rng-uso">Opacidade <span id="val-uso">85%</span></label>
+                <input type="range" id="rng-uso" min="0" max="100" value="85">
+                <div id="legenda-uso" class="legenda"></div>
+                <div id="legenda-trans" class="legenda" hidden></div>
+                <p class="nota">MapBiomas Coleção 11, 30 m. Clique no mapa para ver a classe em 1990 e 2025 e o tipo de mudança.</p>
+                <div id="uso-mun" class="uso-mun"></div>
+                <div id="trans-mun" class="uso-mun"></div>
+              </div>
+            </details>
+
+            <!-- Temperatura de superfície -->
+            <details class="bloco" id="bloco-ts">
+              <summary>Temperatura de superfície 2025 · área urbana</summary>
+              <div id="ts-indisp" class="aviso" hidden>Dados de temperatura ainda não processados.</div>
+              <label class="chk"><input type="checkbox" id="chk-ts"><span>Classes de ΔTS (diferença térmica intraurbana)</span></label>
+              <label class="rotulo" for="rng-ts">Opacidade <span id="val-ts">90%</span></label>
+              <input type="range" id="rng-ts" min="0" max="100" value="90">
+              <div id="legenda-ts" class="legenda"></div>
+              <p class="nota" id="nota-ts">Landsat 8/9, estação seca (abr–set) de 2025. ΔTS = temperatura do pixel menos a mediana da área urbana do próprio município.</p>
+
+              <div class="sub-tit">Por setor censitário urbano</div>
+              <label class="chk"><input type="checkbox" id="chk-ts-set"><span>Média por setor censitário</span></label>
+              <select id="sel-ts-set" aria-label="Variável de temperatura por setor"></select>
+              <p id="desc-ts-set" class="nota"></p>
+              <div id="legenda-ts-set" class="legenda"></div>
+              <div id="ts-mun" class="uso-mun"></div>
+            </details>
+
+            <!-- Relevo -->
+            <details class="bloco">
+              <summary>Relevo</summary>
+              <label class="chk"><input type="checkbox" id="chk-hipso"><span>Hipsometria e sombreamento</span></label>
+              <label class="chk"><input type="checkbox" id="chk-curvas"><span>Curvas de nível (50 m)</span></label>
+              <div id="legenda-relevo" class="legenda"></div>
+              <p class="nota">Copernicus DEM GLO-30. Clique no mapa para ver a altitude.</p>
+            </details>
+
+            <!-- Hidrografia -->
+            <details class="bloco">
+              <summary>Hidrografia</summary>
+              <label class="chk"><input type="checkbox" id="chk-rios"><span>Rios, córregos e canais</span></label>
+              <label class="chk"><input type="checkbox" id="chk-massas"><span>Represas e lagos</span></label>
+              <p class="nota">Fonte: OpenStreetMap.</p>
+            </details>
+          </div>
+        </details>
+      </div>
+
+      <!-- ---------- Aba MONTE SEU MAPA ---------- -->
+      <div id="painel-monte" class="painel-aba" hidden>
+        <h2 class="painel-tit">Monte seu mapa</h2>
+        <p class="nota" style="margin-top:0">Escolha as camadas na aba <b>Camadas</b>, enquadre a área no mapa e preencha os elementos abaixo. A imagem usa exatamente a vista atual.</p>
+
+        <label class="rotulo" for="mm-titulo">Título</label>
+        <input type="text" id="mm-titulo" class="campo" value="Região Metropolitana de Piracicaba">
+        <label class="rotulo" for="mm-subtitulo">Subtítulo</label>
+        <input type="text" id="mm-subtitulo" class="campo" placeholder="ex.: População total por setor censitário (2022)">
+        <label class="rotulo" for="mm-autor">Autoria / organização</label>
+        <input type="text" id="mm-autor" class="campo" placeholder="ex.: Nome do autor · Instituição">
+
+        <div class="rotulo">Elementos do mapa</div>
+        <label class="chk"><input type="checkbox" id="mm-legenda" checked><span>Legenda</span></label>
+        <label class="chk"><input type="checkbox" id="mm-norte" checked><span>Indicação do norte</span></label>
+        <label class="chk"><input type="checkbox" id="mm-escala" checked><span>Escala gráfica</span></label>
+        <label class="chk"><input type="checkbox" id="mm-fontes" checked><span>Fontes dos dados e data</span></label>
+
+        <div class="rotulo">Camadas na legenda</div>
+        <div id="mm-camadas" class="mm-camadas"></div>
+
+        <label class="rotulo" for="mm-qualidade">Qualidade da imagem</label>
+        <select id="mm-qualidade">
+          <option value="2">Alta (2× a tela – para impressão)</option>
+          <option value="1">Normal (tamanho da tela)</option>
+        </select>
+
+        <button id="mm-gerar" class="botao">Gerar mapa</button>
+        <div id="mm-status" class="nota" role="status"></div>
+        <div id="mm-previa" class="mm-previa" hidden>
+          <img id="mm-img" alt="Prévia do mapa montado">
+          <a id="mm-baixar" class="botao" download="mapa_rmp.jpg">Baixar JPG</a>
+        </div>
+      </div>
+    </aside>
+
+    <div id="mapa" class="mapa" role="region" aria-label="Mapa"></div>
+    <button id="btn-painel" class="btn-painel" aria-label="Mostrar/ocultar camadas">Camadas</button>
+
+    <!-- ================= Página DOWNLOAD ================= -->
+    <section id="pagina-download" class="pagina" hidden>
+      <div class="faixa faixa-curta">
+        <div class="faixa-txt">
+          <h2>Download de dados</h2>
+          <p>Todas as camadas do geoportal em WGS 84 (EPSG:4326), prontas para QGIS, ArcGIS ou R/Python.</p>
+        </div>
+      </div>
+      <div class="conteudo">
+        <div class="filtro-dl">
+          <input type="search" id="dl-busca" class="campo" placeholder="Buscar camada ou formato…" aria-label="Buscar nos downloads">
+        </div>
+        <div id="lista-downloads"></div>
+        <p class="nota">Os links apontam para a pasta <code>dados/</code> do geoportal. Quando os dados estiverem na nuvem, basta preencher <code>url</code> de cada item em <code>js/config.js</code> (ou trocar <code>BASE_DOWNLOAD</code>).</p>
+      </div>
+    </section>
+
+    <!-- ================= Página MAIS INFORMAÇÕES ================= -->
+    <section id="pagina-info" class="pagina" hidden>
+      <div class="faixa">
+        <div class="faixa-txt">
+          <p class="faixa-lead">O Geoportal RMP reúne, em um só lugar, dados geográficos abertos sobre os 24 municípios da Região Metropolitana de Piracicaba – limites territoriais, demografia, economia e meio ambiente – para apoiar pesquisa, planejamento e gestão pública.</p>
+        </div>
+        <div class="contadores" id="contadores"></div>
+      </div>
+      <div class="conteudo">
+        <div class="grade-info">
+          <article class="caixa">
+            <h3>Sobre o geoportal</h3>
+            <p class="a-preencher">[Texto de apresentação: objetivos, público, contexto do projeto.]</p>
+          </article>
+          <article class="caixa">
+            <h3>Autoria e equipe</h3>
+            <div class="pessoa"><span class="avatar">?</span><div><b class="a-preencher">[Nome]</b><small class="a-preencher">[Função · Instituição]</small></div></div>
+            <div class="pessoa"><span class="avatar">?</span><div><b class="a-preencher">[Nome]</b><small class="a-preencher">[Função · Instituição]</small></div></div>
+          </article>
+          <article class="caixa">
+            <h3>Como citar</h3>
+            <p class="a-preencher">[SOBRENOME, Nome. Geoportal da Região Metropolitana de Piracicaba. Ano. Disponível em: &lt;endereço&gt;.]</p>
+          </article>
+          <article class="caixa">
+            <h3>Contato</h3>
+            <p class="a-preencher">[e-mail · instituição · repositório no GitHub]</p>
+          </article>
+        </div>
+
+        <article class="caixa">
+          <h3>Fontes dos dados</h3>
+          <table class="tab-fontes">
+            <thead><tr><th>Tema</th><th>Camada</th><th>Fonte</th><th>Licença</th></tr></thead>
+            <tbody>
+              <tr><td>Limites Territoriais</td><td>Municípios e composição da RMP</td><td>IBGE – Malha Municipal 2024; Composição das RMs 2025</td><td>Dado público</td></tr>
+              <tr><td>Demografia</td><td>Setores censitários e variáveis</td><td>IBGE – Censo Demográfico 2022</td><td>Dado público</td></tr>
+              <tr><td>Economia e Infraestrutura</td><td>PIB, valor adicionado por setor</td><td>IBGE – PIB dos Municípios</td><td>Dado público</td></tr>
+              <tr><td>Economia e Infraestrutura</td><td>Empresas, pessoal ocupado, salário médio</td><td>IBGE – Cadastro Central de Empresas (CEMPRE)</td><td>Dado público</td></tr>
+              <tr><td>Economia e Infraestrutura</td><td>Estabelecimentos de saúde</td><td>CNES – Ministério da Saúde (API de dados abertos)</td><td>Dado público</td></tr>
+              <tr><td>Economia e Infraestrutura</td><td>Escolas e creches</td><td>INEP – Catálogo de Escolas 2023 (distribuído pelo IPEA/geobr)</td><td>Dado público</td></tr>
+              <tr><td>Economia e Infraestrutura</td><td>Universidades, praças, cultura, esporte, segurança, serviços públicos</td><td>OpenStreetMap</td><td>ODbL – © colaboradores do OSM</td></tr>
+              <tr><td>Economia e Infraestrutura</td><td>Sistema viário</td><td>OpenStreetMap</td><td>ODbL – © colaboradores do OSM</td></tr>
+              <tr><td>Meio Ambiente</td><td>Uso e cobertura da terra 1990/2025 e transições</td><td>MapBiomas Brasil – Coleção 11</td><td>CC-BY 4.0</td></tr>
+              <tr><td>Meio Ambiente</td><td>Temperatura de superfície 2025</td><td>Landsat 8/9 C2 L2 (USGS/NASA) via Microsoft Planetary Computer</td><td>Domínio público</td></tr>
+              <tr><td>Meio Ambiente</td><td>Relevo (MDE, curvas)</td><td>Copernicus DEM GLO-30 (ESA)</td><td>Uso livre com atribuição</td></tr>
+              <tr><td>Meio Ambiente</td><td>Hidrografia</td><td>OpenStreetMap</td><td>ODbL – © colaboradores do OSM</td></tr>
+            </tbody>
+          </table>
+        </article>
+
+        <article class="caixa">
+          <h3>Notas metodológicas</h3>
+          <ul class="lista">
+            <li><b>Temperatura de superfície:</b> mediana da estação seca (abr–set) de 2025, Landsat 8/9 (órbita 220), apenas setores urbanos; ΔTS = TS − mediana urbana do município.</li>
+            <li><b>Transições de uso:</b> comparação pixel a pixel entre 1990 e 2025; parte das trocas entre classes agrícolas reflete rotação de culturas e incerteza do mapeamento.</li>
+            <li><b>Economia:</b> PIB per capita calculado com a população do Censo 2022; valor adicionado por setor do último ano já publicado pelo IBGE; emprego e salário referem-se ao emprego formal (CEMPRE).</li>
+            <li><b>Equipamentos urbanos:</b> escolas e creches vêm do Catálogo de Escolas do INEP (2023, sem as paralisadas); saúde vem do CNES (estabelecimentos ativos com coordenadas); universidades, praças e demais equipamentos vêm do OpenStreetMap e podem estar incompletos (universidades agrupadas por campus).</li>
+            <li><b>Hidrografia e vias:</b> o OpenStreetMap é colaborativo e pode estar incompleto em áreas rurais.</li>
+            <li class="a-preencher">[Outras notas, limitações e histórico de versões.]</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <div id="carregando" class="carregando">Carregando dados…</div>
+  <div id="aviso-flutuante" class="aviso-flutuante" role="status" hidden></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- aumente o ?v= ao alterar os arquivos, para o navegador não usar a versão em cache -->
+  <script src="js/config.js?v=14"></script>
+  <script src="js/app.js?v=14"></script>
+  <script src="js/interface.js?v=14"></script>
+  <script src="js/monte-mapa.js?v=14"></script>
+</body>
+</html>

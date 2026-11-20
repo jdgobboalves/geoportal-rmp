@@ -1,0 +1,286 @@
+﻿CD_MUN,NM_MUN,cat,km2,categoria
+3500600,Águas de São Pedro,1,0.9799,Vegetação nativa mantida
+3500600,Águas de São Pedro,2,0.446,Agropecuária mantida (mesma classe)
+3500600,Águas de São Pedro,3,0.747,Área urbana / não vegetada mantida
+3500600,Águas de São Pedro,5,0.0323,Vegetação nativa → agropecuária
+3500600,Águas de São Pedro,6,0.0158,Vegetação nativa → urbano / não veg.
+3500600,Águas de São Pedro,7,0.7867,Agropecuária → urbano / não vegetado
+3500600,Águas de São Pedro,8,0.2504,Regeneração de vegetação nativa
+3500600,Águas de São Pedro,9,0.3424,Troca de uso na agropecuária
+3500600,Águas de São Pedro,11,0.0091,Perda de água
+3500600,Águas de São Pedro,12,0.005,Outras transições
+3502002,Analândia,1,76.5698,Vegetação nativa mantida
+3502002,Analândia,2,60.322,Agropecuária mantida (mesma classe)
+3502002,Analândia,3,2.0179,Área urbana / não vegetada mantida
+3502002,Analândia,4,0.2105,Água mantida
+3502002,Analândia,5,21.7925,Vegetação nativa → agropecuária
+3502002,Analândia,6,0.3951,Vegetação nativa → urbano / não veg.
+3502002,Analândia,7,3.1466,Agropecuária → urbano / não vegetado
+3502002,Analândia,8,11.5775,Regeneração de vegetação nativa
+3502002,Analândia,9,144.9327,Troca de uso na agropecuária
+3502002,Analândia,10,0.4027,Ganho de água
+3502002,Analândia,11,0.1872,Perda de água
+3502002,Analândia,12,5.2044,Outras transições
+3503307,Araras,1,41.9124,Vegetação nativa mantida
+3503307,Araras,2,319.6325,Agropecuária mantida (mesma classe)
+3503307,Araras,3,17.8838,Área urbana / não vegetada mantida
+3503307,Araras,4,6.9366,Água mantida
+3503307,Araras,5,25.3374,Vegetação nativa → agropecuária
+3503307,Araras,6,1.3936,Vegetação nativa → urbano / não veg.
+3503307,Araras,7,21.7427,Agropecuária → urbano / não vegetado
+3503307,Araras,8,22.4891,Regeneração de vegetação nativa
+3503307,Araras,9,182.6852,Troca de uso na agropecuária
+3503307,Araras,10,2.4068,Ganho de água
+3503307,Araras,11,3.7241,Perda de água
+3503307,Araras,12,0.3256,Outras transições
+3510401,Capivari,1,19.0364,Vegetação nativa mantida
+3510401,Capivari,2,192.488,Agropecuária mantida (mesma classe)
+3510401,Capivari,3,7.4596,Área urbana / não vegetada mantida
+3510401,Capivari,4,0.6605,Água mantida
+3510401,Capivari,5,6.618,Vegetação nativa → agropecuária
+3510401,Capivari,6,0.0521,Vegetação nativa → urbano / não veg.
+3510401,Capivari,7,8.6094,Agropecuária → urbano / não vegetado
+3510401,Capivari,8,10.1068,Regeneração de vegetação nativa
+3510401,Capivari,9,76.3718,Troca de uso na agropecuária
+3510401,Capivari,10,0.4686,Ganho de água
+3510401,Capivari,11,1.1368,Perda de água
+3510401,Capivari,12,0.6871,Outras transições
+3511706,Charqueada,1,15.603,Vegetação nativa mantida
+3511706,Charqueada,2,96.8785,Agropecuária mantida (mesma classe)
+3511706,Charqueada,3,2.1823,Área urbana / não vegetada mantida
+3511706,Charqueada,4,0.272,Água mantida
+3511706,Charqueada,5,3.6258,Vegetação nativa → agropecuária
+3511706,Charqueada,6,0.0282,Vegetação nativa → urbano / não veg.
+3511706,Charqueada,7,3.0897,Agropecuária → urbano / não vegetado
+3511706,Charqueada,8,4.2009,Regeneração de vegetação nativa
+3511706,Charqueada,9,49.2554,Troca de uso na agropecuária
+3511706,Charqueada,10,0.0962,Ganho de água
+3511706,Charqueada,11,0.2662,Perda de água
+3511706,Charqueada,12,0.7779,Outras transições
+3512209,Conchal,1,12.8538,Vegetação nativa mantida
+3512209,Conchal,2,39.2257,Agropecuária mantida (mesma classe)
+3512209,Conchal,3,3.0715,Área urbana / não vegetada mantida
+3512209,Conchal,4,0.5415,Água mantida
+3512209,Conchal,5,26.333,Vegetação nativa → agropecuária
+3512209,Conchal,6,0.4493,Vegetação nativa → urbano / não veg.
+3512209,Conchal,7,4.0176,Agropecuária → urbano / não vegetado
+3512209,Conchal,8,2.2823,Regeneração de vegetação nativa
+3512209,Conchal,9,92.1048,Troca de uso na agropecuária
+3512209,Conchal,10,0.4327,Ganho de água
+3512209,Conchal,11,0.8139,Perda de água
+3512209,Conchal,12,1.1424,Outras transições
+3512407,Cordeirópolis,1,5.1574,Vegetação nativa mantida
+3512407,Cordeirópolis,2,77.0789,Agropecuária mantida (mesma classe)
+3512407,Cordeirópolis,3,4.177,Área urbana / não vegetada mantida
+3512407,Cordeirópolis,4,1.2265,Água mantida
+3512407,Cordeirópolis,5,4.7422,Vegetação nativa → agropecuária
+3512407,Cordeirópolis,6,0.3734,Vegetação nativa → urbano / não veg.
+3512407,Cordeirópolis,7,9.4555,Agropecuária → urbano / não vegetado
+3512407,Cordeirópolis,8,4.3156,Regeneração de vegetação nativa
+3512407,Cordeirópolis,9,29.4174,Troca de uso na agropecuária
+3512407,Cordeirópolis,10,0.6464,Ganho de água
+3512407,Cordeirópolis,11,1.18,Perda de água
+3512407,Cordeirópolis,12,0.1386,Outras transições
+3512704,Corumbataí,1,43.3482,Vegetação nativa mantida
+3512704,Corumbataí,2,113.4942,Agropecuária mantida (mesma classe)
+3512704,Corumbataí,3,0.6791,Área urbana / não vegetada mantida
+3512704,Corumbataí,4,0.1463,Água mantida
+3512704,Corumbataí,5,18.3102,Vegetação nativa → agropecuária
+3512704,Corumbataí,6,0.0557,Vegetação nativa → urbano / não veg.
+3512704,Corumbataí,7,1.522,Agropecuária → urbano / não vegetado
+3512704,Corumbataí,8,11.6309,Regeneração de vegetação nativa
+3512704,Corumbataí,9,87.7475,Troca de uso na agropecuária
+3512704,Corumbataí,10,0.2801,Ganho de água
+3512704,Corumbataí,11,0.5617,Perda de água
+3512704,Corumbataí,12,1.5773,Outras transições
+3514908,Elias Fausto,1,5.366,Vegetação nativa mantida
+3514908,Elias Fausto,2,105.4569,Agropecuária mantida (mesma classe)
+3514908,Elias Fausto,3,1.4138,Área urbana / não vegetada mantida
+3514908,Elias Fausto,4,1.1888,Água mantida
+3514908,Elias Fausto,5,5.3871,Vegetação nativa → agropecuária
+3514908,Elias Fausto,6,0.0017,Vegetação nativa → urbano / não veg.
+3514908,Elias Fausto,7,4.794,Agropecuária → urbano / não vegetado
+3514908,Elias Fausto,8,4.6009,Regeneração de vegetação nativa
+3514908,Elias Fausto,9,72.5624,Troca de uso na agropecuária
+3514908,Elias Fausto,10,0.5775,Ganho de água
+3514908,Elias Fausto,11,1.2244,Perda de água
+3514908,Elias Fausto,12,0.2718,Outras transições
+3521101,Ipeúna,1,33.0153,Vegetação nativa mantida
+3521101,Ipeúna,2,90.1821,Agropecuária mantida (mesma classe)
+3521101,Ipeúna,3,1.5564,Área urbana / não vegetada mantida
+3521101,Ipeúna,4,0.3453,Água mantida
+3521101,Ipeúna,5,11.3642,Vegetação nativa → agropecuária
+3521101,Ipeúna,6,0.0963,Vegetação nativa → urbano / não veg.
+3521101,Ipeúna,7,2.6538,Agropecuária → urbano / não vegetado
+3521101,Ipeúna,8,3.6101,Regeneração de vegetação nativa
+3521101,Ipeúna,9,46.6809,Troca de uso na agropecuária
+3521101,Ipeúna,10,0.0938,Ganho de água
+3521101,Ipeúna,11,0.288,Perda de água
+3521101,Ipeúna,12,0.6068,Outras transições
+3521408,Iracemápolis,1,4.3536,Vegetação nativa mantida
+3521408,Iracemápolis,2,72.7969,Agropecuária mantida (mesma classe)
+3521408,Iracemápolis,3,2.6507,Área urbana / não vegetada mantida
+3521408,Iracemápolis,4,1.9342,Água mantida
+3521408,Iracemápolis,5,1.28,Vegetação nativa → agropecuária
+3521408,Iracemápolis,7,5.5694,Agropecuária → urbano / não vegetado
+3521408,Iracemápolis,8,5.7725,Regeneração de vegetação nativa
+3521408,Iracemápolis,9,19.7508,Troca de uso na agropecuária
+3521408,Iracemápolis,10,0.4278,Ganho de água
+3521408,Iracemápolis,11,0.8075,Perda de água
+3521408,Iracemápolis,12,0.0597,Outras transições
+3526704,Leme,1,22.3489,Vegetação nativa mantida
+3526704,Leme,2,176.9619,Agropecuária mantida (mesma classe)
+3526704,Leme,3,13.324,Área urbana / não vegetada mantida
+3526704,Leme,4,3.0277,Água mantida
+3526704,Leme,5,20.4957,Vegetação nativa → agropecuária
+3526704,Leme,6,0.1098,Vegetação nativa → urbano / não veg.
+3526704,Leme,7,14.4622,Agropecuária → urbano / não vegetado
+3526704,Leme,8,12.6491,Regeneração de vegetação nativa
+3526704,Leme,9,137.1223,Troca de uso na agropecuária
+3526704,Leme,10,0.7767,Ganho de água
+3526704,Leme,11,2.1889,Perda de água
+3526704,Leme,12,0.4457,Outras transições
+3526902,Limeira,1,23.8339,Vegetação nativa mantida
+3526902,Limeira,2,235.8317,Agropecuária mantida (mesma classe)
+3526902,Limeira,3,39.3912,Área urbana / não vegetada mantida
+3526902,Limeira,4,3.1981,Água mantida
+3526902,Limeira,5,23.297,Vegetação nativa → agropecuária
+3526902,Limeira,6,0.8897,Vegetação nativa → urbano / não veg.
+3526902,Limeira,7,41.4169,Agropecuária → urbano / não vegetado
+3526902,Limeira,8,18.4104,Regeneração de vegetação nativa
+3526902,Limeira,9,192.6189,Troca de uso na agropecuária
+3526902,Limeira,10,0.5902,Ganho de água
+3526902,Limeira,11,2.0331,Perda de água
+3526902,Limeira,12,0.6707,Outras transições
+3530904,Mombuca,1,11.5004,Vegetação nativa mantida
+3530904,Mombuca,2,78.4547,Agropecuária mantida (mesma classe)
+3530904,Mombuca,3,0.3234,Área urbana / não vegetada mantida
+3530904,Mombuca,4,0.0686,Água mantida
+3530904,Mombuca,5,2.7122,Vegetação nativa → agropecuária
+3530904,Mombuca,6,0.005,Vegetação nativa → urbano / não veg.
+3530904,Mombuca,7,1.0205,Agropecuária → urbano / não vegetado
+3530904,Mombuca,8,3.8378,Regeneração de vegetação nativa
+3530904,Mombuca,9,35.8346,Troca de uso na agropecuária
+3530904,Mombuca,10,0.1075,Ganho de água
+3530904,Mombuca,11,0.1224,Perda de água
+3530904,Mombuca,12,0.0281,Outras transições
+3538709,Piracicaba,1,115.8076,Vegetação nativa mantida
+3538709,Piracicaba,2,621.1391,Agropecuária mantida (mesma classe)
+3538709,Piracicaba,3,46.3888,Área urbana / não vegetada mantida
+3538709,Piracicaba,4,17.9962,Água mantida
+3538709,Piracicaba,5,30.1974,Vegetação nativa → agropecuária
+3538709,Piracicaba,6,0.7471,Vegetação nativa → urbano / não veg.
+3538709,Piracicaba,7,61.743,Agropecuária → urbano / não vegetado
+3538709,Piracicaba,8,47.0451,Regeneração de vegetação nativa
+3538709,Piracicaba,9,429.5856,Troca de uso na agropecuária
+3538709,Piracicaba,10,3.0395,Ganho de água
+3538709,Piracicaba,11,7.0359,Perda de água
+3538709,Piracicaba,12,0.7729,Outras transições
+3539301,Pirassununga,1,92.1401,Vegetação nativa mantida
+3539301,Pirassununga,2,207.7113,Agropecuária mantida (mesma classe)
+3539301,Pirassununga,3,14.1203,Área urbana / não vegetada mantida
+3539301,Pirassununga,4,5.0574,Água mantida
+3539301,Pirassununga,5,61.1318,Vegetação nativa → agropecuária
+3539301,Pirassununga,6,1.1366,Vegetação nativa → urbano / não veg.
+3539301,Pirassununga,7,11.2888,Agropecuária → urbano / não vegetado
+3539301,Pirassununga,8,15.5604,Regeneração de vegetação nativa
+3539301,Pirassununga,9,311.5336,Troca de uso na agropecuária
+3539301,Pirassununga,10,0.5596,Ganho de água
+3539301,Pirassununga,11,2.8028,Perda de água
+3539301,Pirassununga,12,6.0049,Outras transições
+3542107,Rafard,1,7.3038,Vegetação nativa mantida
+3542107,Rafard,2,70.7332,Agropecuária mantida (mesma classe)
+3542107,Rafard,3,1.4142,Área urbana / não vegetada mantida
+3542107,Rafard,4,0.157,Água mantida
+3542107,Rafard,5,2.6493,Vegetação nativa → agropecuária
+3542107,Rafard,6,0.0066,Vegetação nativa → urbano / não veg.
+3542107,Rafard,7,1.9661,Agropecuária → urbano / não vegetado
+3542107,Rafard,8,2.3386,Regeneração de vegetação nativa
+3542107,Rafard,9,34.6476,Troca de uso na agropecuária
+3542107,Rafard,10,0.3932,Ganho de água
+3542107,Rafard,11,0.2074,Perda de água
+3542107,Rafard,12,0.1116,Outras transições
+3543907,Rio Claro,1,50.3821,Vegetação nativa mantida
+3543907,Rio Claro,2,189.6586,Agropecuária mantida (mesma classe)
+3543907,Rio Claro,3,31.805,Área urbana / não vegetada mantida
+3543907,Rio Claro,4,0.7716,Água mantida
+3543907,Rio Claro,5,20.5723,Vegetação nativa → agropecuária
+3543907,Rio Claro,6,0.8658,Vegetação nativa → urbano / não veg.
+3543907,Rio Claro,7,26.2354,Agropecuária → urbano / não vegetado
+3543907,Rio Claro,8,23.9888,Regeneração de vegetação nativa
+3543907,Rio Claro,9,151.3754,Troca de uso na agropecuária
+3543907,Rio Claro,10,1.3923,Ganho de água
+3543907,Rio Claro,11,1.4487,Perda de água
+3543907,Rio Claro,12,1.1878,Outras transições
+3544004,Rio das Pedras,1,8.6686,Vegetação nativa mantida
+3544004,Rio das Pedras,2,142.7037,Agropecuária mantida (mesma classe)
+3544004,Rio das Pedras,3,4.5845,Área urbana / não vegetada mantida
+3544004,Rio das Pedras,4,0.7853,Água mantida
+3544004,Rio das Pedras,5,4.1521,Vegetação nativa → agropecuária
+3544004,Rio das Pedras,6,0.0894,Vegetação nativa → urbano / não veg.
+3544004,Rio das Pedras,7,7.1626,Agropecuária → urbano / não vegetado
+3544004,Rio das Pedras,8,8.4865,Regeneração de vegetação nativa
+3544004,Rio das Pedras,9,49.5079,Troca de uso na agropecuária
+3544004,Rio das Pedras,10,0.3161,Ganho de água
+3544004,Rio das Pedras,11,0.5966,Perda de água
+3544004,Rio das Pedras,12,0.1762,Outras transições
+3545159,Saltinho,1,7.3713,Vegetação nativa mantida
+3545159,Saltinho,2,52.503,Agropecuária mantida (mesma classe)
+3545159,Saltinho,3,1.6582,Área urbana / não vegetada mantida
+3545159,Saltinho,4,0.1845,Água mantida
+3545159,Saltinho,5,1.021,Vegetação nativa → agropecuária
+3545159,Saltinho,6,0.0124,Vegetação nativa → urbano / não veg.
+3545159,Saltinho,7,4.0743,Agropecuária → urbano / não vegetado
+3545159,Saltinho,8,3.997,Regeneração de vegetação nativa
+3545159,Saltinho,9,28.5859,Troca de uso na agropecuária
+3545159,Saltinho,10,0.2639,Ganho de água
+3545159,Saltinho,11,0.2043,Perda de água
+3545159,Saltinho,12,0.1092,Outras transições
+3546207,Santa Cruz da Conceição,1,19.7536,Vegetação nativa mantida
+3546207,Santa Cruz da Conceição,2,49.1095,Agropecuária mantida (mesma classe)
+3546207,Santa Cruz da Conceição,3,0.8044,Área urbana / não vegetada mantida
+3546207,Santa Cruz da Conceição,4,1.1338,Água mantida
+3546207,Santa Cruz da Conceição,5,5.3404,Vegetação nativa → agropecuária
+3546207,Santa Cruz da Conceição,6,0.0075,Vegetação nativa → urbano / não veg.
+3546207,Santa Cruz da Conceição,7,1.8366,Agropecuária → urbano / não vegetado
+3546207,Santa Cruz da Conceição,8,4.8502,Regeneração de vegetação nativa
+3546207,Santa Cruz da Conceição,9,65.6507,Troca de uso na agropecuária
+3546207,Santa Cruz da Conceição,10,0.574,Ganho de água
+3546207,Santa Cruz da Conceição,11,0.302,Perda de água
+3546207,Santa Cruz da Conceição,12,1.158,Outras transições
+3546702,Santa Gertrudes,1,3.6521,Vegetação nativa mantida
+3546702,Santa Gertrudes,2,58.6063,Agropecuária mantida (mesma classe)
+3546702,Santa Gertrudes,3,2.5254,Área urbana / não vegetada mantida
+3546702,Santa Gertrudes,4,0.6348,Água mantida
+3546702,Santa Gertrudes,5,1.1451,Vegetação nativa → agropecuária
+3546702,Santa Gertrudes,6,0.1029,Vegetação nativa → urbano / não veg.
+3546702,Santa Gertrudes,7,8.5147,Agropecuária → urbano / não vegetado
+3546702,Santa Gertrudes,8,2.6464,Regeneração de vegetação nativa
+3546702,Santa Gertrudes,9,18.9184,Troca de uso na agropecuária
+3546702,Santa Gertrudes,10,1.1592,Ganho de água
+3546702,Santa Gertrudes,11,0.4746,Perda de água
+3546702,Santa Gertrudes,12,0.1635,Outras transições
+3547007,Santa Maria da Serra,1,36.5508,Vegetação nativa mantida
+3547007,Santa Maria da Serra,2,65.8642,Agropecuária mantida (mesma classe)
+3547007,Santa Maria da Serra,3,0.8366,Área urbana / não vegetada mantida
+3547007,Santa Maria da Serra,4,28.4183,Água mantida
+3547007,Santa Maria da Serra,5,11.8167,Vegetação nativa → agropecuária
+3547007,Santa Maria da Serra,6,0.0108,Vegetação nativa → urbano / não veg.
+3547007,Santa Maria da Serra,7,1.3068,Agropecuária → urbano / não vegetado
+3547007,Santa Maria da Serra,8,4.3437,Regeneração de vegetação nativa
+3547007,Santa Maria da Serra,9,102.6661,Troca de uso na agropecuária
+3547007,Santa Maria da Serra,10,0.1898,Ganho de água
+3547007,Santa Maria da Serra,11,0.6135,Perda de água
+3547007,Santa Maria da Serra,12,0.612,Outras transições
+3550407,São Pedro,1,104.1529,Vegetação nativa mantida
+3550407,São Pedro,2,212.8582,Agropecuária mantida (mesma classe)
+3550407,São Pedro,3,9.1931,Área urbana / não vegetada mantida
+3550407,São Pedro,4,5.3289,Água mantida
+3550407,São Pedro,5,24.8566,Vegetação nativa → agropecuária
+3550407,São Pedro,6,0.5108,Vegetação nativa → urbano / não veg.
+3550407,São Pedro,7,7.0681,Agropecuária → urbano / não vegetado
+3550407,São Pedro,8,18.6587,Regeneração de vegetação nativa
+3550407,São Pedro,9,220.9724,Troca de uso na agropecuária
+3550407,São Pedro,10,1.4563,Ganho de água
+3550407,São Pedro,11,3.5845,Perda de água
+3550407,São Pedro,12,4.2034,Outras transições

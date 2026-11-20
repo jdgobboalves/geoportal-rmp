@@ -1,0 +1,653 @@
+﻿CD_MUN,NM_MUN,ano,classe,nome_classe,grupo,area_km2
+3502002,Analândia,1990,3,Formação Florestal,Floresta,91.2531
+3502002,Analândia,1990,4,Formação Savânica,Floresta,2.6989
+3502002,Analândia,1990,9,Silvicultura,Agropecuária,1.0323
+3502002,Analândia,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,4.8413
+3502002,Analândia,1990,12,Formação Campestre,Formação natural não florestal,0.0241
+3502002,Analândia,1990,15,Pastagem,Agropecuária,177.7494
+3502002,Analândia,1990,20,Cana,Agropecuária,15.7681
+3502002,Analândia,1990,21,Mosaico de usos,Agropecuária,23.2997
+3502002,Analândia,1990,24,Área Urbanizada,Área não vegetada,1.4141
+3502002,Analândia,1990,25,Outras Área não Vegetadas,Área não vegetada,5.2834
+3502002,Analândia,1990,30,Mineração,Área não vegetada,0.6246
+3502002,Analândia,1990,33,"Rio, Lago e Oceano",Corpo d'água,0.3977
+3502002,Analândia,1990,39,Soja,Agropecuária,0.4584
+3502002,Analândia,1990,41,Outras Lavouras Temporárias,Agropecuária,0.5856
+3502002,Analândia,1990,46,Café,Agropecuária,0.6672
+3502002,Analândia,1990,47,Citrus,Agropecuária,0.6004
+3502002,Analândia,1990,48,Outras Lavouras Perenes,Agropecuária,0.0607
+3503307,Araras,1990,3,Formação Florestal,Floresta,63.5848
+3503307,Araras,1990,4,Formação Savânica,Floresta,1.0443
+3503307,Araras,1990,9,Silvicultura,Agropecuária,0.1221
+3503307,Araras,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,3.9994
+3503307,Araras,1990,12,Formação Campestre,Formação natural não florestal,0.1902
+3503307,Araras,1990,15,Pastagem,Agropecuária,39.6075
+3503307,Araras,1990,20,Cana,Agropecuária,328.4276
+3503307,Araras,1990,21,Mosaico de usos,Agropecuária,147.9627
+3503307,Araras,1990,24,Área Urbanizada,Área não vegetada,17.6779
+3503307,Araras,1990,25,Outras Área não Vegetadas,Área não vegetada,0.5506
+3503307,Araras,1990,30,Mineração,Área não vegetada,0.005
+3503307,Araras,1990,33,"Rio, Lago e Oceano",Corpo d'água,10.6607
+3503307,Araras,1990,39,Soja,Agropecuária,16.106
+3503307,Araras,1990,41,Outras Lavouras Temporárias,Agropecuária,8.2702
+3503307,Araras,1990,46,Café,Agropecuária,0.0091
+3503307,Araras,1990,47,Citrus,Agropecuária,7.7699
+3503307,Araras,1990,48,Outras Lavouras Perenes,Agropecuária,0.4818
+3510401,Capivari,1990,3,Formação Florestal,Floresta,24.1659
+3510401,Capivari,1990,9,Silvicultura,Agropecuária,0.4132
+3510401,Capivari,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,1.2159
+3510401,Capivari,1990,12,Formação Campestre,Formação natural não florestal,0.3355
+3510401,Capivari,1990,15,Pastagem,Agropecuária,41.493
+3510401,Capivari,1990,20,Cana,Agropecuária,180.065
+3510401,Capivari,1990,21,Mosaico de usos,Agropecuária,65.6544
+3510401,Capivari,1990,24,Área Urbanizada,Área não vegetada,7.2752
+3510401,Capivari,1990,25,Outras Área não Vegetadas,Área não vegetada,0.9119
+3510401,Capivari,1990,29,Afloramento Rochoso,Formação natural não florestal,0.0107
+3510401,Capivari,1990,33,"Rio, Lago e Oceano",Corpo d'água,1.7973
+3510401,Capivari,1990,39,Soja,Agropecuária,0.1612
+3510401,Capivari,1990,41,Outras Lavouras Temporárias,Agropecuária,0.1959
+3511706,Charqueada,1990,3,Formação Florestal,Floresta,17.9879
+3511706,Charqueada,1990,9,Silvicultura,Agropecuária,0.0904
+3511706,Charqueada,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,1.2816
+3511706,Charqueada,1990,15,Pastagem,Agropecuária,42.4365
+3511706,Charqueada,1990,20,Cana,Agropecuária,87.0266
+3511706,Charqueada,1990,21,Mosaico de usos,Agropecuária,23.8386
+3511706,Charqueada,1990,24,Área Urbanizada,Área não vegetada,2.1226
+3511706,Charqueada,1990,25,Outras Área não Vegetadas,Área não vegetada,0.8459
+3511706,Charqueada,1990,33,"Rio, Lago e Oceano",Corpo d'água,0.5382
+3511706,Charqueada,1990,39,Soja,Agropecuária,0.0921
+3511706,Charqueada,1990,41,Outras Lavouras Temporárias,Agropecuária,0.0141
+3511706,Charqueada,1990,46,Café,Agropecuária,0.0017
+3512209,Conchal,1990,3,Formação Florestal,Floresta,28.508
+3512209,Conchal,1990,4,Formação Savânica,Floresta,7.9202
+3512209,Conchal,1990,9,Silvicultura,Agropecuária,2.606
+3512209,Conchal,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,3.4287
+3512209,Conchal,1990,15,Pastagem,Agropecuária,32.611
+3512209,Conchal,1990,20,Cana,Agropecuária,20.9394
+3512209,Conchal,1990,21,Mosaico de usos,Agropecuária,33.5946
+3512209,Conchal,1990,24,Área Urbanizada,Área não vegetada,3.0025
+3512209,Conchal,1990,25,Outras Área não Vegetadas,Área não vegetada,1.2321
+3512209,Conchal,1990,33,"Rio, Lago e Oceano",Corpo d'água,1.3555
+3512209,Conchal,1990,39,Soja,Agropecuária,13.0172
+3512209,Conchal,1990,41,Outras Lavouras Temporárias,Agropecuária,13.4703
+3512209,Conchal,1990,47,Citrus,Agropecuária,19.6753
+3512209,Conchal,1990,48,Outras Lavouras Perenes,Agropecuária,1.9076
+3512407,Cordeirópolis,1990,3,Formação Florestal,Floresta,8.9761
+3512407,Cordeirópolis,1990,9,Silvicultura,Agropecuária,1.4838
+3512407,Cordeirópolis,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,1.3343
+3512407,Cordeirópolis,1990,12,Formação Campestre,Formação natural não florestal,0.0116
+3512407,Cordeirópolis,1990,15,Pastagem,Agropecuária,2.3515
+3512407,Cordeirópolis,1990,20,Cana,Agropecuária,81.225
+3512407,Cordeirópolis,1990,21,Mosaico de usos,Agropecuária,33.0545
+3512407,Cordeirópolis,1990,24,Área Urbanizada,Área não vegetada,3.8699
+3512407,Cordeirópolis,1990,25,Outras Área não Vegetadas,Área não vegetada,0.2348
+3512407,Cordeirópolis,1990,30,Mineração,Área não vegetada,0.2506
+3512407,Cordeirópolis,1990,33,"Rio, Lago e Oceano",Corpo d'água,2.4064
+3512407,Cordeirópolis,1990,39,Soja,Agropecuária,1.3204
+3512407,Cordeirópolis,1990,41,Outras Lavouras Temporárias,Agropecuária,1.2306
+3512407,Cordeirópolis,1990,47,Citrus,Agropecuária,0.1593
+3512704,Corumbataí,1990,3,Formação Florestal,Floresta,59.0165
+3512704,Corumbataí,1990,4,Formação Savânica,Floresta,0.4681
+3512704,Corumbataí,1990,9,Silvicultura,Agropecuária,2.3575
+3512704,Corumbataí,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,2.2453
+3512704,Corumbataí,1990,12,Formação Campestre,Formação natural não florestal,0.0125
+3512704,Corumbataí,1990,15,Pastagem,Agropecuária,161.0152
+3512704,Corumbataí,1990,20,Cana,Agropecuária,26.4026
+3512704,Corumbataí,1990,21,Mosaico de usos,Agropecuária,23.3662
+3512704,Corumbataí,1990,24,Área Urbanizada,Área não vegetada,0.6367
+3512704,Corumbataí,1990,25,Outras Área não Vegetadas,Área não vegetada,1.6563
+3512704,Corumbataí,1990,33,"Rio, Lago e Oceano",Corpo d'água,0.708
+3512704,Corumbataí,1990,39,Soja,Agropecuária,0.6069
+3512704,Corumbataí,1990,41,Outras Lavouras Temporárias,Agropecuária,0.3409
+3512704,Corumbataí,1990,46,Café,Agropecuária,0.0524
+3512704,Corumbataí,1990,47,Citrus,Agropecuária,0.4332
+3512704,Corumbataí,1990,48,Outras Lavouras Perenes,Agropecuária,0.0349
+3514908,Elias Fausto,1990,3,Formação Florestal,Floresta,9.7782
+3514908,Elias Fausto,1990,9,Silvicultura,Agropecuária,0.4377
+3514908,Elias Fausto,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.723
+3514908,Elias Fausto,1990,12,Formação Campestre,Formação natural não florestal,0.2651
+3514908,Elias Fausto,1990,15,Pastagem,Agropecuária,66.3724
+3514908,Elias Fausto,1990,20,Cana,Agropecuária,86.1418
+3514908,Elias Fausto,1990,21,Mosaico de usos,Agropecuária,30.4524
+3514908,Elias Fausto,1990,24,Área Urbanizada,Área não vegetada,1.4188
+3514908,Elias Fausto,1990,25,Outras Área não Vegetadas,Área não vegetada,0.2668
+3514908,Elias Fausto,1990,33,"Rio, Lago e Oceano",Corpo d'água,2.4132
+3514908,Elias Fausto,1990,39,Soja,Agropecuária,3.344
+3514908,Elias Fausto,1990,41,Outras Lavouras Temporárias,Agropecuária,1.232
+3521101,Ipeúna,1990,3,Formação Florestal,Floresta,42.7366
+3521101,Ipeúna,1990,4,Formação Savânica,Floresta,0.0415
+3521101,Ipeúna,1990,9,Silvicultura,Agropecuária,0.8559
+3521101,Ipeúna,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,1.7026
+3521101,Ipeúna,1990,15,Pastagem,Agropecuária,77.4102
+3521101,Ipeúna,1990,20,Cana,Agropecuária,53.5258
+3521101,Ipeúna,1990,21,Mosaico de usos,Agropecuária,10.9765
+3521101,Ipeúna,1990,24,Área Urbanizada,Área não vegetada,1.3937
+3521101,Ipeúna,1990,25,Outras Área não Vegetadas,Área não vegetada,0.8475
+3521101,Ipeúna,1990,33,"Rio, Lago e Oceano",Corpo d'água,0.6333
+3521101,Ipeúna,1990,39,Soja,Agropecuária,0.3013
+3521101,Ipeúna,1990,41,Outras Lavouras Temporárias,Agropecuária,0.039
+3521101,Ipeúna,1990,46,Café,Agropecuária,0.0158
+3521101,Ipeúna,1990,47,Citrus,Agropecuária,0.0133
+3521408,Iracemápolis,1990,3,Formação Florestal,Floresta,5.0807
+3521408,Iracemápolis,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.5953
+3521408,Iracemápolis,1990,15,Pastagem,Agropecuária,3.7631
+3521408,Iracemápolis,1990,20,Cana,Agropecuária,81.5966
+3521408,Iracemápolis,1990,21,Mosaico de usos,Agropecuária,18.0441
+3521408,Iracemápolis,1990,24,Área Urbanizada,Área não vegetada,2.4301
+3521408,Iracemápolis,1990,25,Outras Área não Vegetadas,Área não vegetada,0.1724
+3521408,Iracemápolis,1990,30,Mineração,Área não vegetada,0.112
+3521408,Iracemápolis,1990,33,"Rio, Lago e Oceano",Corpo d'água,2.7417
+3521408,Iracemápolis,1990,39,Soja,Agropecuária,0.2411
+3521408,Iracemápolis,1990,41,Outras Lavouras Temporárias,Agropecuária,0.626
+3526704,Leme,1990,3,Formação Florestal,Floresta,36.0206
+3526704,Leme,1990,4,Formação Savânica,Floresta,2.1411
+3526704,Leme,1990,9,Silvicultura,Agropecuária,0.2453
+3526704,Leme,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,4.4583
+3526704,Leme,1990,12,Formação Campestre,Formação natural não florestal,0.4143
+3526704,Leme,1990,15,Pastagem,Agropecuária,44.6472
+3526704,Leme,1990,20,Cana,Agropecuária,157.3312
+3526704,Leme,1990,21,Mosaico de usos,Agropecuária,70.8951
+3526704,Leme,1990,24,Área Urbanizada,Área não vegetada,13.2301
+3526704,Leme,1990,25,Outras Área não Vegetadas,Área não vegetada,0.5755
+3526704,Leme,1990,33,"Rio, Lago e Oceano",Corpo d'água,5.2167
+3526704,Leme,1990,39,Soja,Agropecuária,47.4279
+3526704,Leme,1990,41,Outras Lavouras Temporárias,Agropecuária,7.7036
+3526704,Leme,1990,46,Café,Agropecuária,0.3575
+3526704,Leme,1990,47,Citrus,Agropecuária,9.9701
+3526704,Leme,1990,48,Outras Lavouras Perenes,Agropecuária,3.2786
+3526902,Limeira,1990,3,Formação Florestal,Floresta,47.5024
+3526902,Limeira,1990,9,Silvicultura,Agropecuária,0.1567
+3526902,Limeira,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.4029
+3526902,Limeira,1990,12,Formação Campestre,Formação natural não florestal,0.1583
+3526902,Limeira,1990,15,Pastagem,Agropecuária,103.5231
+3526902,Limeira,1990,20,Cana,Agropecuária,142.0353
+3526902,Limeira,1990,21,Mosaico de usos,Agropecuária,226.3982
+3526902,Limeira,1990,24,Área Urbanizada,Área não vegetada,38.6366
+3526902,Limeira,1990,25,Outras Área não Vegetadas,Área não vegetada,0.9674
+3526902,Limeira,1990,30,Mineração,Área não vegetada,0.5432
+3526902,Limeira,1990,33,"Rio, Lago e Oceano",Corpo d'água,5.2311
+3526902,Limeira,1990,39,Soja,Agropecuária,3.4459
+3526902,Limeira,1990,41,Outras Lavouras Temporárias,Agropecuária,4.1929
+3526902,Limeira,1990,47,Citrus,Agropecuária,8.9163
+3526902,Limeira,1990,48,Outras Lavouras Perenes,Agropecuária,0.0713
+3530904,Mombuca,1990,3,Formação Florestal,Floresta,14.0547
+3530904,Mombuca,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.1695
+3530904,Mombuca,1990,15,Pastagem,Agropecuária,19.7956
+3530904,Mombuca,1990,20,Cana,Agropecuária,80.5366
+3530904,Mombuca,1990,21,Mosaico de usos,Agropecuária,18.8312
+3530904,Mombuca,1990,24,Área Urbanizada,Área não vegetada,0.3234
+3530904,Mombuca,1990,25,Outras Área não Vegetadas,Área não vegetada,0.0281
+3530904,Mombuca,1990,33,"Rio, Lago e Oceano",Corpo d'água,0.191
+3530904,Mombuca,1990,39,Soja,Agropecuária,0.0298
+3530904,Mombuca,1990,41,Outras Lavouras Temporárias,Agropecuária,0.0554
+3538709,Piracicaba,1990,3,Formação Florestal,Floresta,122.342
+3538709,Piracicaba,1990,9,Silvicultura,Agropecuária,0.3007
+3538709,Piracicaba,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,25.8278
+3538709,Piracicaba,1990,12,Formação Campestre,Formação natural não florestal,0.0579
+3538709,Piracicaba,1990,15,Pastagem,Agropecuária,527.5546
+3538709,Piracicaba,1990,20,Cana,Agropecuária,445.5001
+3538709,Piracicaba,1990,21,Mosaico de usos,Agropecuária,183.3716
+3538709,Piracicaba,1990,24,Área Urbanizada,Área não vegetada,46.1221
+3538709,Piracicaba,1990,25,Outras Área não Vegetadas,Área não vegetada,1.1349
+3538709,Piracicaba,1990,33,"Rio, Lago e Oceano",Corpo d'água,25.0321
+3538709,Piracicaba,1990,39,Soja,Agropecuária,1.6404
+3538709,Piracicaba,1990,41,Outras Lavouras Temporárias,Agropecuária,1.5801
+3538709,Piracicaba,1990,47,Citrus,Agropecuária,0.8798
+3538709,Piracicaba,1990,48,Outras Lavouras Perenes,Agropecuária,0.154
+3539301,Pirassununga,1990,3,Formação Florestal,Floresta,123.9504
+3539301,Pirassununga,1990,4,Formação Savânica,Floresta,12.8668
+3539301,Pirassununga,1990,9,Silvicultura,Agropecuária,0.4038
+3539301,Pirassununga,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,17.6598
+3539301,Pirassununga,1990,12,Formação Campestre,Formação natural não florestal,0.2639
+3539301,Pirassununga,1990,15,Pastagem,Agropecuária,150.6863
+3539301,Pirassununga,1990,20,Cana,Agropecuária,145.8235
+3539301,Pirassununga,1990,21,Mosaico de usos,Agropecuária,140.2695
+3539301,Pirassununga,1990,24,Área Urbanizada,Área não vegetada,13.3825
+3539301,Pirassununga,1990,25,Outras Área não Vegetadas,Área não vegetada,6.8708
+3539301,Pirassununga,1990,33,"Rio, Lago e Oceano",Corpo d'água,7.8602
+3539301,Pirassununga,1990,39,Soja,Agropecuária,82.5351
+3539301,Pirassununga,1990,41,Outras Lavouras Temporárias,Agropecuária,16.7121
+3539301,Pirassununga,1990,46,Café,Agropecuária,0.0125
+3539301,Pirassununga,1990,47,Citrus,Agropecuária,8.8974
+3539301,Pirassununga,1990,48,Outras Lavouras Perenes,Agropecuária,0.8531
+3542107,Rafard,1990,3,Formação Florestal,Floresta,9.7018
+3542107,Rafard,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.2752
+3542107,Rafard,1990,12,Formação Campestre,Formação natural não florestal,0.0198
+3542107,Rafard,1990,15,Pastagem,Agropecuária,20.0605
+3542107,Rafard,1990,20,Cana,Agropecuária,66.5173
+3542107,Rafard,1990,21,Mosaico de usos,Agropecuária,23.0416
+3542107,Rafard,1990,24,Área Urbanizada,Área não vegetada,1.3638
+3542107,Rafard,1990,25,Outras Área não Vegetadas,Área não vegetada,0.176
+3542107,Rafard,1990,33,"Rio, Lago e Oceano",Corpo d'água,0.3644
+3542107,Rafard,1990,39,Soja,Agropecuária,0.2371
+3542107,Rafard,1990,41,Outras Lavouras Temporárias,Agropecuária,0.1711
+3543907,Rio Claro,1990,3,Formação Florestal,Floresta,69.3246
+3543907,Rio Claro,1990,9,Silvicultura,Agropecuária,5.8549
+3543907,Rio Claro,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,2.2481
+3543907,Rio Claro,1990,12,Formação Campestre,Formação natural não florestal,0.2881
+3543907,Rio Claro,1990,15,Pastagem,Agropecuária,177.9615
+3543907,Rio Claro,1990,20,Cana,Agropecuária,117.6146
+3543907,Rio Claro,1990,21,Mosaico de usos,Agropecuária,87.6045
+3543907,Rio Claro,1990,24,Área Urbanizada,Área não vegetada,30.3433
+3543907,Rio Claro,1990,25,Outras Área não Vegetadas,Área não vegetada,1.4916
+3543907,Rio Claro,1990,30,Mineração,Área não vegetada,1.3886
+3543907,Rio Claro,1990,33,"Rio, Lago e Oceano",Corpo d'água,2.2203
+3543907,Rio Claro,1990,39,Soja,Agropecuária,1.5697
+3543907,Rio Claro,1990,41,Outras Lavouras Temporárias,Agropecuária,0.7381
+3543907,Rio Claro,1990,47,Citrus,Agropecuária,0.8972
+3543907,Rio Claro,1990,48,Outras Lavouras Perenes,Agropecuária,0.1387
+3544004,Rio das Pedras,1990,3,Formação Florestal,Floresta,12.5286
+3544004,Rio das Pedras,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.3865
+3544004,Rio das Pedras,1990,12,Formação Campestre,Formação natural não florestal,0.019
+3544004,Rio das Pedras,1990,15,Pastagem,Agropecuária,22.1163
+3544004,Rio das Pedras,1990,20,Cana,Agropecuária,152.2728
+3544004,Rio das Pedras,1990,21,Mosaico de usos,Agropecuária,33.2649
+3544004,Rio das Pedras,1990,24,Área Urbanizada,Área não vegetada,3.7986
+3544004,Rio das Pedras,1990,25,Outras Área não Vegetadas,Área não vegetada,0.3284
+3544004,Rio das Pedras,1990,30,Mineração,Área não vegetada,0.7942
+3544004,Rio das Pedras,1990,33,"Rio, Lago e Oceano",Corpo d'água,1.3819
+3544004,Rio das Pedras,1990,39,Soja,Agropecuária,0.2077
+3544004,Rio das Pedras,1990,41,Outras Lavouras Temporárias,Agropecuária,0.1307
+3545159,Saltinho,1990,3,Formação Florestal,Floresta,8.1639
+3545159,Saltinho,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.2631
+3545159,Saltinho,1990,15,Pastagem,Agropecuária,39.17
+3545159,Saltinho,1990,20,Cana,Agropecuária,41.4937
+3545159,Saltinho,1990,21,Mosaico de usos,Agropecuária,8.365
+3545159,Saltinho,1990,24,Área Urbanizada,Área não vegetada,1.0617
+3545159,Saltinho,1990,25,Outras Área não Vegetadas,Área não vegetada,0.3102
+3545159,Saltinho,1990,30,Mineração,Área não vegetada,0.5757
+3545159,Saltinho,1990,33,"Rio, Lago e Oceano",Corpo d'água,0.3889
+3545159,Saltinho,1990,39,Soja,Agropecuária,0.1109
+3545159,Saltinho,1990,41,Outras Lavouras Temporárias,Agropecuária,0.0273
+3545159,Saltinho,1990,48,Outras Lavouras Perenes,Agropecuária,0.0546
+3546207,Santa Cruz da Conceição,1990,3,Formação Florestal,Floresta,23.2857
+3546207,Santa Cruz da Conceição,1990,4,Formação Savânica,Floresta,0.3053
+3546207,Santa Cruz da Conceição,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,1.5438
+3546207,Santa Cruz da Conceição,1990,15,Pastagem,Agropecuária,69.4801
+3546207,Santa Cruz da Conceição,1990,20,Cana,Agropecuária,20.417
+3546207,Santa Cruz da Conceição,1990,21,Mosaico de usos,Agropecuária,19.8219
+3546207,Santa Cruz da Conceição,1990,24,Área Urbanizada,Área não vegetada,0.7687
+3546207,Santa Cruz da Conceição,1990,25,Outras Área não Vegetadas,Área não vegetada,1.2171
+3546207,Santa Cruz da Conceição,1990,33,"Rio, Lago e Oceano",Corpo d'água,1.4357
+3546207,Santa Cruz da Conceição,1990,39,Soja,Agropecuária,9.9377
+3546207,Santa Cruz da Conceição,1990,41,Outras Lavouras Temporárias,Agropecuária,0.6355
+3546207,Santa Cruz da Conceição,1990,47,Citrus,Agropecuária,1.6231
+3546207,Santa Cruz da Conceição,1990,48,Outras Lavouras Perenes,Agropecuária,0.0491
+3546702,Santa Gertrudes,1990,3,Formação Florestal,Floresta,4.1508
+3546702,Santa Gertrudes,1990,9,Silvicultura,Agropecuária,0.3544
+3546702,Santa Gertrudes,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.7925
+3546702,Santa Gertrudes,1990,15,Pastagem,Agropecuária,3.8497
+3546702,Santa Gertrudes,1990,20,Cana,Agropecuária,67.3105
+3546702,Santa Gertrudes,1990,21,Mosaico de usos,Agropecuária,17.2318
+3546702,Santa Gertrudes,1990,24,Área Urbanizada,Área não vegetada,2.4291
+3546702,Santa Gertrudes,1990,25,Outras Área não Vegetadas,Área não vegetada,0.3187
+3546702,Santa Gertrudes,1990,33,"Rio, Lago e Oceano",Corpo d'água,1.1094
+3546702,Santa Gertrudes,1990,39,Soja,Agropecuária,0.2398
+3546702,Santa Gertrudes,1990,41,Outras Lavouras Temporárias,Agropecuária,0.7435
+3546702,Santa Gertrudes,1990,47,Citrus,Agropecuária,0.0133
+3547007,Santa Maria da Serra,1990,3,Formação Florestal,Floresta,44.9468
+3547007,Santa Maria da Serra,1990,9,Silvicultura,Agropecuária,0.1144
+3547007,Santa Maria da Serra,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,3.4522
+3547007,Santa Maria da Serra,1990,15,Pastagem,Agropecuária,121.3596
+3547007,Santa Maria da Serra,1990,20,Cana,Agropecuária,33.8378
+3547007,Santa Maria da Serra,1990,21,Mosaico de usos,Agropecuária,13.9598
+3547007,Santa Maria da Serra,1990,24,Área Urbanizada,Área não vegetada,0.8209
+3547007,Santa Maria da Serra,1990,25,Outras Área não Vegetadas,Área não vegetada,0.6327
+3547007,Santa Maria da Serra,1990,33,"Rio, Lago e Oceano",Corpo d'água,29.0317
+3547007,Santa Maria da Serra,1990,39,Soja,Agropecuária,0.9412
+3547007,Santa Maria da Serra,1990,41,Outras Lavouras Temporárias,Agropecuária,0.2571
+3547007,Santa Maria da Serra,1990,47,Citrus,Agropecuária,1.0679
+3547007,Santa Maria da Serra,1990,48,Outras Lavouras Perenes,Agropecuária,2.8072
+3550407,São Pedro,1990,3,Formação Florestal,Floresta,106.7567
+3550407,São Pedro,1990,4,Formação Savânica,Floresta,0.2298
+3550407,São Pedro,1990,9,Silvicultura,Agropecuária,0.5997
+3550407,São Pedro,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,23.5582
+3550407,São Pedro,1990,15,Pastagem,Agropecuária,332.1098
+3550407,São Pedro,1990,20,Cana,Agropecuária,83.9979
+3550407,São Pedro,1990,21,Mosaico de usos,Agropecuária,41.7253
+3550407,São Pedro,1990,24,Área Urbanizada,Área não vegetada,8.9875
+3550407,São Pedro,1990,25,Outras Área não Vegetadas,Área não vegetada,4.4389
+3550407,São Pedro,1990,33,"Rio, Lago e Oceano",Corpo d'água,8.9134
+3550407,São Pedro,1990,39,Soja,Agropecuária,0.6543
+3550407,São Pedro,1990,41,Outras Lavouras Temporárias,Agropecuária,0.4886
+3550407,São Pedro,1990,47,Citrus,Agropecuária,0.3614
+3550407,São Pedro,1990,48,Outras Lavouras Perenes,Agropecuária,0.0224
+3500600,Águas de São Pedro,1990,3,Formação Florestal,Floresta,0.9551
+3500600,Águas de São Pedro,1990,9,Silvicultura,Agropecuária,0.0124
+3500600,Águas de São Pedro,1990,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.073
+3500600,Águas de São Pedro,1990,15,Pastagem,Agropecuária,1.2378
+3500600,Águas de São Pedro,1990,21,Mosaico de usos,Agropecuária,0.5687
+3500600,Águas de São Pedro,1990,24,Área Urbanizada,Área não vegetada,0.747
+3500600,Águas de São Pedro,1990,25,Outras Área não Vegetadas,Área não vegetada,0.0116
+3500600,Águas de São Pedro,1990,33,"Rio, Lago e Oceano",Corpo d'água,0.0091
+3502002,Analândia,2025,3,Formação Florestal,Floresta,85.1594
+3502002,Analândia,2025,4,Formação Savânica,Floresta,2.3341
+3502002,Analândia,2025,9,Silvicultura,Agropecuária,30.9986
+3502002,Analândia,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.678
+3502002,Analândia,2025,12,Formação Campestre,Formação natural não florestal,0.0266
+3502002,Analândia,2025,15,Pastagem,Agropecuária,54.0507
+3502002,Analândia,2025,20,Cana,Agropecuária,62.6734
+3502002,Analândia,2025,21,Mosaico de usos,Agropecuária,57.9274
+3502002,Analândia,2025,24,Área Urbanizada,Área não vegetada,3.1094
+3502002,Analândia,2025,25,Outras Área não Vegetadas,Área não vegetada,0.1914
+3502002,Analândia,2025,30,Mineração,Área não vegetada,2.2589
+3502002,Analândia,2025,33,"Rio, Lago e Oceano",Corpo d'água,0.6132
+3502002,Analândia,2025,39,Soja,Agropecuária,13.0796
+3502002,Analândia,2025,41,Outras Lavouras Temporárias,Agropecuária,0.6305
+3502002,Analândia,2025,46,Café,Agropecuária,1.3277
+3502002,Analândia,2025,47,Citrus,Agropecuária,10.9615
+3502002,Analândia,2025,48,Outras Lavouras Perenes,Agropecuária,0.7387
+3503307,Araras,2025,3,Formação Florestal,Floresta,57.6507
+3503307,Araras,2025,4,Formação Savânica,Floresta,0.2375
+3503307,Araras,2025,9,Silvicultura,Agropecuária,0.7844
+3503307,Araras,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,8.2018
+3503307,Araras,2025,12,Formação Campestre,Formação natural não florestal,0.1138
+3503307,Araras,2025,15,Pastagem,Agropecuária,10.3973
+3503307,Araras,2025,20,Cana,Agropecuária,367.2724
+3503307,Araras,2025,21,Mosaico de usos,Agropecuária,94.5045
+3503307,Araras,2025,24,Área Urbanizada,Área não vegetada,39.4578
+3503307,Araras,2025,25,Outras Área não Vegetadas,Área não vegetada,0.9416
+3503307,Araras,2025,30,Mineração,Área não vegetada,0.8507
+3503307,Araras,2025,33,"Rio, Lago e Oceano",Corpo d'água,9.3434
+3503307,Araras,2025,39,Soja,Agropecuária,42.3871
+3503307,Araras,2025,41,Outras Lavouras Temporárias,Agropecuária,2.1797
+3503307,Araras,2025,46,Café,Agropecuária,0.8236
+3503307,Araras,2025,47,Citrus,Agropecuária,10.3294
+3503307,Araras,2025,48,Outras Lavouras Perenes,Agropecuária,0.9943
+3510401,Capivari,2025,3,Formação Florestal,Floresta,26.9971
+3510401,Capivari,2025,9,Silvicultura,Agropecuária,0.733
+3510401,Capivari,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,2.5942
+3510401,Capivari,2025,15,Pastagem,Agropecuária,21.1741
+3510401,Capivari,2025,20,Cana,Agropecuária,190.0325
+3510401,Capivari,2025,21,Mosaico de usos,Agropecuária,63.6329
+3510401,Capivari,2025,24,Área Urbanizada,Área não vegetada,15.077
+3510401,Capivari,2025,25,Outras Área não Vegetadas,Área não vegetada,1.0945
+3510401,Capivari,2025,33,"Rio, Lago e Oceano",Corpo d'água,1.1291
+3510401,Capivari,2025,39,Soja,Agropecuária,1.1942
+3510401,Capivari,2025,41,Outras Lavouras Temporárias,Agropecuária,0.0256
+3510401,Capivari,2025,48,Outras Lavouras Perenes,Agropecuária,0.0108
+3511706,Charqueada,2025,3,Formação Florestal,Floresta,19.2747
+3511706,Charqueada,2025,4,Formação Savânica,Floresta,0.0655
+3511706,Charqueada,2025,9,Silvicultura,Agropecuária,1.3647
+3511706,Charqueada,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.5059
+3511706,Charqueada,2025,15,Pastagem,Agropecuária,26.713
+3511706,Charqueada,2025,20,Cana,Agropecuária,87.3044
+3511706,Charqueada,2025,21,Mosaico de usos,Agropecuária,35.1272
+3511706,Charqueada,2025,24,Área Urbanizada,Área não vegetada,4.9675
+3511706,Charqueada,2025,25,Outras Área não Vegetadas,Área não vegetada,0.3393
+3511706,Charqueada,2025,33,"Rio, Lago e Oceano",Corpo d'água,0.3682
+3511706,Charqueada,2025,39,Soja,Agropecuária,0.0987
+3511706,Charqueada,2025,41,Outras Lavouras Temporárias,Agropecuária,0.0871
+3511706,Charqueada,2025,46,Café,Agropecuária,0.0598
+3512209,Conchal,2025,3,Formação Florestal,Floresta,14.0192
+3512209,Conchal,2025,4,Formação Savânica,Floresta,0.5265
+3512209,Conchal,2025,9,Silvicultura,Agropecuária,8.1324
+3512209,Conchal,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.8893
+3512209,Conchal,2025,12,Formação Campestre,Formação natural não florestal,0.0822
+3512209,Conchal,2025,15,Pastagem,Agropecuária,5.6244
+3512209,Conchal,2025,20,Cana,Agropecuária,21.5814
+3512209,Conchal,2025,21,Mosaico de usos,Agropecuária,41.7674
+3512209,Conchal,2025,24,Área Urbanizada,Área não vegetada,7.1912
+3512209,Conchal,2025,25,Outras Área não Vegetadas,Área não vegetada,0.3554
+3512209,Conchal,2025,31,Aquicultura,Corpo d'água,0.123
+3512209,Conchal,2025,33,"Rio, Lago e Oceano",Corpo d'água,0.8513
+3512209,Conchal,2025,39,Soja,Agropecuária,40.3398
+3512209,Conchal,2025,41,Outras Lavouras Temporárias,Agropecuária,4.241
+3512209,Conchal,2025,47,Citrus,Agropecuária,32.2353
+3512209,Conchal,2025,48,Outras Lavouras Perenes,Agropecuária,5.3086
+3512407,Cordeirópolis,2025,3,Formação Florestal,Floresta,7.5944
+3512407,Cordeirópolis,2025,9,Silvicultura,Agropecuária,0.7176
+3512407,Cordeirópolis,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,2.3458
+3512407,Cordeirópolis,2025,15,Pastagem,Agropecuária,1.4975
+3512407,Cordeirópolis,2025,20,Cana,Agropecuária,71.8465
+3512407,Cordeirópolis,2025,21,Mosaico de usos,Agropecuária,29.859
+3512407,Cordeirópolis,2025,24,Área Urbanizada,Área não vegetada,11.1534
+3512407,Cordeirópolis,2025,25,Outras Área não Vegetadas,Área não vegetada,2.2532
+3512407,Cordeirópolis,2025,30,Mineração,Área não vegetada,0.7495
+3512407,Cordeirópolis,2025,33,"Rio, Lago e Oceano",Corpo d'água,1.8728
+3512407,Cordeirópolis,2025,39,Soja,Agropecuária,7.2133
+3512407,Cordeirópolis,2025,41,Outras Lavouras Temporárias,Agropecuária,0.7319
+3512407,Cordeirópolis,2025,48,Outras Lavouras Perenes,Agropecuária,0.0739
+3512704,Corumbataí,2025,3,Formação Florestal,Floresta,54.2161
+3512704,Corumbataí,2025,4,Formação Savânica,Floresta,0.0964
+3512704,Corumbataí,2025,9,Silvicultura,Agropecuária,15.8387
+3512704,Corumbataí,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.719
+3512704,Corumbataí,2025,12,Formação Campestre,Formação natural não florestal,0.0125
+3512704,Corumbataí,2025,15,Pastagem,Agropecuária,96.4551
+3512704,Corumbataí,2025,20,Cana,Agropecuária,56.0596
+3512704,Corumbataí,2025,21,Mosaico de usos,Agropecuária,50.2632
+3512704,Corumbataí,2025,24,Área Urbanizada,Área não vegetada,1.4255
+3512704,Corumbataí,2025,25,Outras Área não Vegetadas,Área não vegetada,0.3598
+3512704,Corumbataí,2025,30,Mineração,Área não vegetada,0.5363
+3512704,Corumbataí,2025,33,"Rio, Lago e Oceano",Corpo d'água,0.4263
+3512704,Corumbataí,2025,39,Soja,Agropecuária,1.5143
+3512704,Corumbataí,2025,41,Outras Lavouras Temporárias,Agropecuária,0.2734
+3512704,Corumbataí,2025,46,Café,Agropecuária,0.1771
+3512704,Corumbataí,2025,47,Citrus,Agropecuária,0.7812
+3512704,Corumbataí,2025,48,Outras Lavouras Perenes,Agropecuária,0.1987
+3514908,Elias Fausto,2025,3,Formação Florestal,Floresta,7.3738
+3514908,Elias Fausto,2025,9,Silvicultura,Agropecuária,5.2375
+3514908,Elias Fausto,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,2.7691
+3514908,Elias Fausto,2025,12,Formação Campestre,Formação natural não florestal,0.09
+3514908,Elias Fausto,2025,15,Pastagem,Agropecuária,44.3289
+3514908,Elias Fausto,2025,20,Cana,Agropecuária,74.4409
+3514908,Elias Fausto,2025,21,Mosaico de usos,Agropecuária,50.775
+3514908,Elias Fausto,2025,24,Área Urbanizada,Área não vegetada,5.7832
+3514908,Elias Fausto,2025,25,Outras Área não Vegetadas,Área não vegetada,0.4346
+3514908,Elias Fausto,2025,33,"Rio, Lago e Oceano",Corpo d'água,1.7663
+3514908,Elias Fausto,2025,39,Soja,Agropecuária,7.8109
+3514908,Elias Fausto,2025,41,Outras Lavouras Temporárias,Agropecuária,1.9762
+3514908,Elias Fausto,2025,48,Outras Lavouras Perenes,Agropecuária,0.0587
+3521101,Ipeúna,2025,3,Formação Florestal,Floresta,36.2951
+3521101,Ipeúna,2025,4,Formação Savânica,Floresta,0.0905
+3521101,Ipeúna,2025,9,Silvicultura,Agropecuária,2.4581
+3521101,Ipeúna,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.2839
+3521101,Ipeúna,2025,15,Pastagem,Agropecuária,53.1868
+3521101,Ipeúna,2025,20,Cana,Agropecuária,65.9013
+3521101,Ipeúna,2025,21,Mosaico de usos,Agropecuária,25.997
+3521101,Ipeúna,2025,24,Área Urbanizada,Área não vegetada,3.2987
+3521101,Ipeúna,2025,25,Outras Área não Vegetadas,Área não vegetada,0.4267
+3521101,Ipeúna,2025,30,Mineração,Área não vegetada,0.5893
+3521101,Ipeúna,2025,33,"Rio, Lago e Oceano",Corpo d'água,0.4391
+3521101,Ipeúna,2025,39,Soja,Agropecuária,0.85
+3521101,Ipeúna,2025,41,Outras Lavouras Temporárias,Agropecuária,0.2848
+3521101,Ipeúna,2025,46,Café,Agropecuária,0.3777
+3521101,Ipeúna,2025,48,Outras Lavouras Perenes,Agropecuária,0.0141
+3521408,Iracemápolis,2025,3,Formação Florestal,Floresta,8.8858
+3521408,Iracemápolis,2025,9,Silvicultura,Agropecuária,0.0224
+3521408,Iracemápolis,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,1.6789
+3521408,Iracemápolis,2025,15,Pastagem,Agropecuária,1.0469
+3521408,Iracemápolis,2025,20,Cana,Agropecuária,67.7096
+3521408,Iracemápolis,2025,21,Mosaico de usos,Agropecuária,23.0212
+3521408,Iracemápolis,2025,24,Área Urbanizada,Área não vegetada,7.3297
+3521408,Iracemápolis,2025,25,Outras Área não Vegetadas,Área não vegetada,0.7767
+3521408,Iracemápolis,2025,30,Mineração,Área não vegetada,0.1609
+3521408,Iracemápolis,2025,33,"Rio, Lago e Oceano",Corpo d'água,2.3621
+3521408,Iracemápolis,2025,39,Soja,Agropecuária,2.2474
+3521408,Iracemápolis,2025,41,Outras Lavouras Temporárias,Agropecuária,0.0904
+3521408,Iracemápolis,2025,48,Outras Lavouras Perenes,Agropecuária,0.0713
+3526704,Leme,2025,3,Formação Florestal,Floresta,31.8478
+3526704,Leme,2025,4,Formação Savânica,Floresta,0.371
+3526704,Leme,2025,9,Silvicultura,Agropecuária,3.9722
+3526704,Leme,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,3.0095
+3526704,Leme,2025,12,Formação Campestre,Formação natural não florestal,0.5615
+3526704,Leme,2025,15,Pastagem,Agropecuária,8.031
+3526704,Leme,2025,20,Cana,Agropecuária,195.5265
+3526704,Leme,2025,21,Mosaico de usos,Agropecuária,68.0614
+3526704,Leme,2025,24,Área Urbanizada,Área não vegetada,26.9839
+3526704,Leme,2025,25,Outras Área não Vegetadas,Área não vegetada,0.5762
+3526704,Leme,2025,30,Mineração,Área não vegetada,0.3783
+3526704,Leme,2025,33,"Rio, Lago e Oceano",Corpo d'água,3.8044
+3526704,Leme,2025,39,Soja,Agropecuária,44.3395
+3526704,Leme,2025,41,Outras Lavouras Temporárias,Agropecuária,1.9861
+3526704,Leme,2025,46,Café,Agropecuária,1.2079
+3526704,Leme,2025,47,Citrus,Agropecuária,12.2162
+3526704,Leme,2025,48,Outras Lavouras Perenes,Agropecuária,1.0395
+3526902,Limeira,2025,3,Formação Florestal,Floresta,40.9121
+3526902,Limeira,2025,9,Silvicultura,Agropecuária,2.5914
+3526902,Limeira,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,2.0233
+3526902,Limeira,2025,15,Pastagem,Agropecuária,49.464
+3526902,Limeira,2025,20,Cana,Agropecuária,158.3121
+3526902,Limeira,2025,21,Mosaico de usos,Agropecuária,210.5735
+3526902,Limeira,2025,24,Área Urbanizada,Área não vegetada,78.9102
+3526902,Limeira,2025,25,Outras Área não Vegetadas,Área não vegetada,1.8902
+3526902,Limeira,2025,30,Mineração,Área não vegetada,1.0334
+3526902,Limeira,2025,33,"Rio, Lago e Oceano",Corpo d'água,3.7882
+3526902,Limeira,2025,39,Soja,Agropecuária,27.6165
+3526902,Limeira,2025,41,Outras Lavouras Temporárias,Agropecuária,1.3236
+3526902,Limeira,2025,47,Citrus,Agropecuária,3.2135
+3526902,Limeira,2025,48,Outras Lavouras Perenes,Agropecuária,0.5297
+3530904,Mombuca,2025,3,Formação Florestal,Floresta,15.1447
+3530904,Mombuca,2025,9,Silvicultura,Agropecuária,1.3644
+3530904,Mombuca,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.2324
+3530904,Mombuca,2025,15,Pastagem,Agropecuária,11.0743
+3530904,Mombuca,2025,20,Cana,Agropecuária,81.4298
+3530904,Mombuca,2025,21,Mosaico de usos,Agropecuária,22.8824
+3530904,Mombuca,2025,24,Área Urbanizada,Área não vegetada,1.2645
+3530904,Mombuca,2025,25,Outras Área não Vegetadas,Área não vegetada,0.086
+3530904,Mombuca,2025,33,"Rio, Lago e Oceano",Corpo d'água,0.1761
+3530904,Mombuca,2025,39,Soja,Agropecuária,0.3507
+3530904,Mombuca,2025,41,Outras Lavouras Temporárias,Agropecuária,0.0099
+3538709,Piracicaba,2025,3,Formação Florestal,Floresta,141.9312
+3538709,Piracicaba,2025,4,Formação Savânica,Floresta,0.0936
+3538709,Piracicaba,2025,9,Silvicultura,Agropecuária,22.3799
+3538709,Piracicaba,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,23.6893
+3538709,Piracicaba,2025,15,Pastagem,Agropecuária,283.3346
+3538709,Piracicaba,2025,20,Cana,Agropecuária,500.9359
+3538709,Piracicaba,2025,21,Mosaico de usos,Agropecuária,233.7678
+3538709,Piracicaba,2025,24,Área Urbanizada,Área não vegetada,106.724
+3538709,Piracicaba,2025,25,Outras Área não Vegetadas,Área não vegetada,2.5741
+3538709,Piracicaba,2025,33,"Rio, Lago e Oceano",Corpo d'água,21.0357
+3538709,Piracicaba,2025,39,Soja,Agropecuária,18.4572
+3538709,Piracicaba,2025,41,Outras Lavouras Temporárias,Agropecuária,1.8368
+3538709,Piracicaba,2025,47,Citrus,Agropecuária,22.9961
+3538709,Piracicaba,2025,48,Outras Lavouras Perenes,Agropecuária,1.7422
+3539301,Pirassununga,2025,3,Formação Florestal,Floresta,99.2478
+3539301,Pirassununga,2025,4,Formação Savânica,Floresta,1.9524
+3539301,Pirassununga,2025,9,Silvicultura,Agropecuária,3.3863
+3539301,Pirassununga,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,7.6543
+3539301,Pirassununga,2025,12,Formação Campestre,Formação natural não florestal,0.2756
+3539301,Pirassununga,2025,15,Pastagem,Agropecuária,27.6785
+3539301,Pirassununga,2025,20,Cana,Agropecuária,326.0597
+3539301,Pirassununga,2025,21,Mosaico de usos,Agropecuária,99.1032
+3539301,Pirassununga,2025,24,Área Urbanizada,Área não vegetada,26.3409
+3539301,Pirassununga,2025,25,Outras Área não Vegetadas,Área não vegetada,0.3289
+3539301,Pirassununga,2025,33,"Rio, Lago e Oceano",Corpo d'água,5.617
+3539301,Pirassununga,2025,39,Soja,Agropecuária,106.3973
+3539301,Pirassununga,2025,41,Outras Lavouras Temporárias,Agropecuária,5.8243
+3539301,Pirassununga,2025,46,Café,Agropecuária,0.0508
+3539301,Pirassununga,2025,47,Citrus,Agropecuária,18.5688
+3539301,Pirassununga,2025,48,Outras Lavouras Perenes,Agropecuária,0.5619
+3542107,Rafard,2025,3,Formação Florestal,Floresta,9.4713
+3542107,Rafard,2025,9,Silvicultura,Agropecuária,0.8154
+3542107,Rafard,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.2909
+3542107,Rafard,2025,15,Pastagem,Agropecuária,13.0576
+3542107,Rafard,2025,20,Cana,Agropecuária,70.7247
+3542107,Rafard,2025,21,Mosaico de usos,Agropecuária,23.4251
+3542107,Rafard,2025,24,Área Urbanizada,Área não vegetada,2.9117
+3542107,Rafard,2025,25,Outras Área não Vegetadas,Área não vegetada,0.4926
+3542107,Rafard,2025,33,"Rio, Lago e Oceano",Corpo d'água,0.5502
+3542107,Rafard,2025,39,Soja,Agropecuária,0.1892
+3543907,Rio Claro,2025,3,Formação Florestal,Floresta,72.6671
+3543907,Rio Claro,2025,4,Formação Savânica,Floresta,0.0947
+3543907,Rio Claro,2025,9,Silvicultura,Agropecuária,6.6307
+3543907,Rio Claro,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,2.1844
+3543907,Rio Claro,2025,12,Formação Campestre,Formação natural não florestal,0.1379
+3543907,Rio Claro,2025,15,Pastagem,Agropecuária,92.6708
+3543907,Rio Claro,2025,20,Cana,Agropecuária,147.8452
+3543907,Rio Claro,2025,21,Mosaico de usos,Agropecuária,104.841
+3543907,Rio Claro,2025,24,Área Urbanizada,Área não vegetada,49.0298
+3543907,Rio Claro,2025,25,Outras Área não Vegetadas,Área não vegetada,1.7825
+3543907,Rio Claro,2025,30,Mineração,Área não vegetada,8.2815
+3543907,Rio Claro,2025,33,"Rio, Lago e Oceano",Corpo d'água,2.1639
+3543907,Rio Claro,2025,39,Soja,Agropecuária,2.6967
+3543907,Rio Claro,2025,41,Outras Lavouras Temporárias,Agropecuária,0.1636
+3543907,Rio Claro,2025,46,Café,Agropecuária,0.0116
+3543907,Rio Claro,2025,47,Citrus,Agropecuária,6.9059
+3543907,Rio Claro,2025,48,Outras Lavouras Perenes,Agropecuária,1.5767
+3544004,Rio das Pedras,2025,3,Formação Florestal,Floresta,16.2565
+3544004,Rio das Pedras,2025,9,Silvicultura,Agropecuária,0.1324
+3544004,Rio das Pedras,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,1.0873
+3544004,Rio das Pedras,2025,15,Pastagem,Agropecuária,12.6744
+3544004,Rio das Pedras,2025,20,Cana,Agropecuária,139.6933
+3544004,Rio das Pedras,2025,21,Mosaico de usos,Agropecuária,37.2928
+3544004,Rio das Pedras,2025,24,Área Urbanizada,Área não vegetada,10.0553
+3544004,Rio das Pedras,2025,25,Outras Área não Vegetadas,Área não vegetada,0.5064
+3544004,Rio das Pedras,2025,30,Mineração,Área não vegetada,1.3095
+3544004,Rio das Pedras,2025,33,"Rio, Lago e Oceano",Corpo d'água,1.1014
+3544004,Rio das Pedras,2025,39,Soja,Agropecuária,6.853
+3544004,Rio das Pedras,2025,41,Outras Lavouras Temporárias,Agropecuária,0.2673
+3545159,Saltinho,2025,3,Formação Florestal,Floresta,10.8809
+3545159,Saltinho,2025,9,Silvicultura,Agropecuária,0.1158
+3545159,Saltinho,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.6041
+3545159,Saltinho,2025,15,Pastagem,Agropecuária,28.3252
+3545159,Saltinho,2025,20,Cana,Agropecuária,39.4692
+3545159,Saltinho,2025,21,Mosaico de usos,Agropecuária,14.073
+3545159,Saltinho,2025,24,Área Urbanizada,Área não vegetada,3.58
+3545159,Saltinho,2025,25,Outras Área não Vegetadas,Área não vegetada,0.2838
+3545159,Saltinho,2025,30,Mineração,Área não vegetada,1.8836
+3545159,Saltinho,2025,33,"Rio, Lago e Oceano",Corpo d'água,0.4484
+3545159,Saltinho,2025,39,Soja,Agropecuária,0.2962
+3545159,Saltinho,2025,41,Outras Lavouras Temporárias,Agropecuária,0.0248
+3546207,Santa Cruz da Conceição,2025,3,Formação Florestal,Floresta,23.6032
+3546207,Santa Cruz da Conceição,2025,4,Formação Savânica,Floresta,0.3444
+3546207,Santa Cruz da Conceição,2025,9,Silvicultura,Agropecuária,1.7145
+3546207,Santa Cruz da Conceição,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.7177
+3546207,Santa Cruz da Conceição,2025,15,Pastagem,Agropecuária,29.8841
+3546207,Santa Cruz da Conceição,2025,20,Cana,Agropecuária,47.0208
+3546207,Santa Cruz da Conceição,2025,21,Mosaico de usos,Agropecuária,28.4562
+3546207,Santa Cruz da Conceição,2025,24,Área Urbanizada,Área não vegetada,1.9058
+3546207,Santa Cruz da Conceição,2025,25,Outras Área não Vegetadas,Área não vegetada,0.4284
+3546207,Santa Cruz da Conceição,2025,30,Mineração,Área não vegetada,0.3559
+3546207,Santa Cruz da Conceição,2025,33,"Rio, Lago e Oceano",Corpo d'água,1.7078
+3546207,Santa Cruz da Conceição,2025,39,Soja,Agropecuária,13.7096
+3546207,Santa Cruz da Conceição,2025,41,Outras Lavouras Temporárias,Agropecuária,0.5716
+3546207,Santa Cruz da Conceição,2025,47,Citrus,Agropecuária,0.0898
+3546207,Santa Cruz da Conceição,2025,48,Outras Lavouras Perenes,Agropecuária,0.0108
+3546702,Santa Gertrudes,2025,3,Formação Florestal,Floresta,5.0289
+3546702,Santa Gertrudes,2025,9,Silvicultura,Agropecuária,0.1792
+3546702,Santa Gertrudes,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,1.36
+3546702,Santa Gertrudes,2025,15,Pastagem,Agropecuária,1.7925
+3546702,Santa Gertrudes,2025,20,Cana,Agropecuária,55.146
+3546702,Santa Gertrudes,2025,21,Mosaico de usos,Agropecuária,18.6857
+3546702,Santa Gertrudes,2025,24,Área Urbanizada,Área não vegetada,7.8739
+3546702,Santa Gertrudes,2025,25,Outras Área não Vegetadas,Área não vegetada,2.987
+3546702,Santa Gertrudes,2025,30,Mineração,Área não vegetada,0.3376
+3546702,Santa Gertrudes,2025,33,"Rio, Lago e Oceano",Corpo d'água,1.794
+3546702,Santa Gertrudes,2025,39,Soja,Agropecuária,3.2365
+3546702,Santa Gertrudes,2025,41,Outras Lavouras Temporárias,Agropecuária,0.122
+3547007,Santa Maria da Serra,2025,3,Formação Florestal,Floresta,39.5685
+3547007,Santa Maria da Serra,2025,4,Formação Savânica,Floresta,0.0431
+3547007,Santa Maria da Serra,2025,9,Silvicultura,Agropecuária,11.9152
+3547007,Santa Maria da Serra,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,1.2364
+3547007,Santa Maria da Serra,2025,12,Formação Campestre,Formação natural não florestal,0.1368
+3547007,Santa Maria da Serra,2025,15,Pastagem,Agropecuária,50.7933
+3547007,Santa Maria da Serra,2025,20,Cana,Agropecuária,63.6133
+3547007,Santa Maria da Serra,2025,21,Mosaico de usos,Agropecuária,44.3272
+3547007,Santa Maria da Serra,2025,24,Área Urbanizada,Área não vegetada,1.922
+3547007,Santa Maria da Serra,2025,25,Outras Área não Vegetadas,Área não vegetada,0.2396
+3547007,Santa Maria da Serra,2025,33,"Rio, Lago e Oceano",Corpo d'água,28.6081
+3547007,Santa Maria da Serra,2025,39,Soja,Agropecuária,6.0831
+3547007,Santa Maria da Serra,2025,41,Outras Lavouras Temporárias,Agropecuária,1.2
+3547007,Santa Maria da Serra,2025,47,Citrus,Agropecuária,3.3519
+3547007,Santa Maria da Serra,2025,48,Outras Lavouras Perenes,Agropecuária,0.1907
+3550407,São Pedro,2025,3,Formação Florestal,Floresta,110.3263
+3550407,São Pedro,2025,4,Formação Savânica,Floresta,0.6869
+3550407,São Pedro,2025,9,Silvicultura,Agropecuária,25.4989
+3550407,São Pedro,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,13.4607
+3550407,São Pedro,2025,15,Pastagem,Agropecuária,167.5131
+3550407,São Pedro,2025,20,Cana,Agropecuária,141.0047
+3550407,São Pedro,2025,21,Mosaico de usos,Agropecuária,112.087
+3550407,São Pedro,2025,24,Área Urbanizada,Área não vegetada,16.1951
+3550407,São Pedro,2025,25,Outras Área não Vegetadas,Área não vegetada,0.606
+3550407,São Pedro,2025,33,"Rio, Lago e Oceano",Corpo d'água,6.7851
+3550407,São Pedro,2025,39,Soja,Agropecuária,6.869
+3550407,São Pedro,2025,41,Outras Lavouras Temporárias,Agropecuária,0.7265
+3550407,São Pedro,2025,46,Café,Agropecuária,0.0125
+3550407,São Pedro,2025,47,Citrus,Agropecuária,9.9228
+3550407,São Pedro,2025,48,Outras Lavouras Perenes,Agropecuária,1.1492
+3500600,Águas de São Pedro,2025,3,Formação Florestal,Floresta,1.159
+3500600,Águas de São Pedro,2025,11,Campo Alagado e Área Pantanosa,Formação natural não florestal,0.0754
+3500600,Águas de São Pedro,2025,15,Pastagem,Agropecuária,0.2802
+3500600,Águas de São Pedro,2025,21,Mosaico de usos,Agropecuária,0.5472
+3500600,Águas de São Pedro,2025,24,Área Urbanizada,Área não vegetada,1.5528

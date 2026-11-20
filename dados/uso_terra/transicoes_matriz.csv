@@ -1,0 +1,2653 @@
+﻿CD_MUN,NM_MUN,de,para,km2,classe_1990,classe_2025
+3500600,Águas de São Pedro,3,3,0.9227,Formação Florestal,Formação Florestal
+3500600,Águas de São Pedro,3,11,0.0025,Formação Florestal,Campo Alagado e Área Pantanosa
+3500600,Águas de São Pedro,3,21,0.0149,Formação Florestal,Mosaico de usos
+3500600,Águas de São Pedro,3,24,0.0149,Formação Florestal,Área Urbanizada
+3500600,Águas de São Pedro,9,3,0.0124,Silvicultura,Formação Florestal
+3500600,Águas de São Pedro,11,11,0.0547,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3500600,Águas de São Pedro,11,15,0.0017,Campo Alagado e Área Pantanosa,Pastagem
+3500600,Águas de São Pedro,11,21,0.0158,Campo Alagado e Área Pantanosa,Mosaico de usos
+3500600,Águas de São Pedro,11,24,0.0008,Campo Alagado e Área Pantanosa,Área Urbanizada
+3500600,Águas de São Pedro,15,3,0.121,Pastagem,Formação Florestal
+3500600,Águas de São Pedro,15,11,0.0058,Pastagem,Campo Alagado e Área Pantanosa
+3500600,Águas de São Pedro,15,15,0.2736,Pastagem,Pastagem
+3500600,Águas de São Pedro,15,21,0.3374,Pastagem,Mosaico de usos
+3500600,Águas de São Pedro,15,24,0.4999,Pastagem,Área Urbanizada
+3500600,Águas de São Pedro,21,3,0.092,Mosaico de usos,Formação Florestal
+3500600,Águas de São Pedro,21,11,0.0124,Mosaico de usos,Campo Alagado e Área Pantanosa
+3500600,Águas de São Pedro,21,15,0.005,Mosaico de usos,Pastagem
+3500600,Águas de São Pedro,21,21,0.1724,Mosaico de usos,Mosaico de usos
+3500600,Águas de São Pedro,21,24,0.2868,Mosaico de usos,Área Urbanizada
+3500600,Águas de São Pedro,24,24,0.747,Área Urbanizada,Área Urbanizada
+3500600,Águas de São Pedro,25,3,0.0066,Outras Área não Vegetadas,Formação Florestal
+3500600,Águas de São Pedro,25,21,0.005,Outras Área não Vegetadas,Mosaico de usos
+3500600,Águas de São Pedro,33,3,0.0041,"Rio, Lago e Oceano",Formação Florestal
+3500600,Águas de São Pedro,33,21,0.0017,"Rio, Lago e Oceano",Mosaico de usos
+3500600,Águas de São Pedro,33,24,0.0033,"Rio, Lago e Oceano",Área Urbanizada
+3502002,Analândia,3,3,72.9486,Formação Florestal,Formação Florestal
+3502002,Analândia,3,4,0.489,Formação Florestal,Formação Savânica
+3502002,Analândia,3,9,5.1226,Formação Florestal,Silvicultura
+3502002,Analândia,3,11,0.1273,Formação Florestal,Campo Alagado e Área Pantanosa
+3502002,Analândia,3,15,2.7695,Formação Florestal,Pastagem
+3502002,Analândia,3,20,1.8085,Formação Florestal,Cana
+3502002,Analândia,3,21,6.0166,Formação Florestal,Mosaico de usos
+3502002,Analândia,3,24,0.1489,Formação Florestal,Área Urbanizada
+3502002,Analândia,3,30,0.2379,Formação Florestal,Mineração
+3502002,Analândia,3,33,0.0175,Formação Florestal,"Rio, Lago e Oceano"
+3502002,Analândia,3,39,0.1613,Formação Florestal,Soja
+3502002,Analândia,3,41,0.0208,Formação Florestal,Outras Lavouras Temporárias
+3502002,Analândia,3,46,0.3012,Formação Florestal,Café
+3502002,Analândia,3,47,0.8729,Formação Florestal,Citrus
+3502002,Analândia,3,48,0.2105,Formação Florestal,Outras Lavouras Perenes
+3502002,Analândia,4,3,0.3137,Formação Savânica,Formação Florestal
+3502002,Analândia,4,4,0.3461,Formação Savânica,Formação Savânica
+3502002,Analândia,4,9,0.4974,Formação Savânica,Silvicultura
+3502002,Analândia,4,11,0.0125,Formação Savânica,Campo Alagado e Área Pantanosa
+3502002,Analândia,4,15,0.392,Formação Savânica,Pastagem
+3502002,Analândia,4,20,0.6962,Formação Savânica,Cana
+3502002,Analândia,4,21,0.2571,Formação Savânica,Mosaico de usos
+3502002,Analândia,4,24,0.0008,Formação Savânica,Área Urbanizada
+3502002,Analândia,4,30,0.0017,Formação Savânica,Mineração
+3502002,Analândia,4,33,0.01,Formação Savânica,"Rio, Lago e Oceano"
+3502002,Analândia,4,39,0.0025,Formação Savânica,Soja
+3502002,Analândia,4,41,0.0033,Formação Savânica,Outras Lavouras Temporárias
+3502002,Analândia,4,47,0.1655,Formação Savânica,Citrus
+3502002,Analândia,9,3,0.025,Silvicultura,Formação Florestal
+3502002,Analândia,9,9,0.9075,Silvicultura,Silvicultura
+3502002,Analândia,9,15,0.0008,Silvicultura,Pastagem
+3502002,Analândia,9,20,0.025,Silvicultura,Cana
+3502002,Analândia,9,21,0.074,Silvicultura,Mosaico de usos
+3502002,Analândia,11,3,1.4691,Campo Alagado e Área Pantanosa,Formação Florestal
+3502002,Analândia,11,4,0.3269,Campo Alagado e Área Pantanosa,Formação Savânica
+3502002,Analândia,11,9,1.8672,Campo Alagado e Área Pantanosa,Silvicultura
+3502002,Analândia,11,11,0.5249,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3502002,Analândia,11,15,0.0898,Campo Alagado e Área Pantanosa,Pastagem
+3502002,Analândia,11,20,0.0125,Campo Alagado e Área Pantanosa,Cana
+3502002,Analândia,11,21,0.4476,Campo Alagado e Área Pantanosa,Mosaico de usos
+3502002,Analândia,11,24,0.0017,Campo Alagado e Área Pantanosa,Área Urbanizada
+3502002,Analândia,11,30,0.0042,Campo Alagado e Área Pantanosa,Mineração
+3502002,Analândia,11,33,0.0325,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3502002,Analândia,11,47,0.0632,Campo Alagado e Área Pantanosa,Citrus
+3502002,Analândia,11,48,0.0017,Campo Alagado e Área Pantanosa,Outras Lavouras Perenes
+3502002,Analândia,12,12,0.0116,Formação Campestre,Formação Campestre
+3502002,Analândia,12,15,0.005,Formação Campestre,Pastagem
+3502002,Analândia,12,21,0.0042,Formação Campestre,Mosaico de usos
+3502002,Analândia,12,47,0.0033,Formação Campestre,Citrus
+3502002,Analândia,15,3,7.9014,Pastagem,Formação Florestal
+3502002,Analândia,15,4,1.0622,Pastagem,Formação Savânica
+3502002,Analândia,15,9,20.159,Pastagem,Silvicultura
+3502002,Analândia,15,11,0.01,Pastagem,Campo Alagado e Área Pantanosa
+3502002,Analândia,15,12,0.0117,Pastagem,Formação Campestre
+3502002,Analândia,15,15,42.8009,Pastagem,Pastagem
+3502002,Analândia,15,20,41.6499,Pastagem,Cana
+3502002,Analândia,15,21,41.5687,Pastagem,Mosaico de usos
+3502002,Analândia,15,24,1.3675,Pastagem,Área Urbanizada
+3502002,Analândia,15,25,0.0873,Pastagem,Outras Área não Vegetadas
+3502002,Analândia,15,30,1.3815,Pastagem,Mineração
+3502002,Analândia,15,33,0.2371,Pastagem,"Rio, Lago e Oceano"
+3502002,Analândia,15,39,9.6106,Pastagem,Soja
+3502002,Analândia,15,41,0.3253,Pastagem,Outras Lavouras Temporárias
+3502002,Analândia,15,46,0.4326,Pastagem,Café
+3502002,Analândia,15,47,8.7786,Pastagem,Citrus
+3502002,Analândia,15,48,0.3652,Pastagem,Outras Lavouras Perenes
+3502002,Analândia,20,3,0.0241,Cana,Formação Florestal
+3502002,Analândia,20,9,0.5523,Cana,Silvicultura
+3502002,Analândia,20,15,1.949,Cana,Pastagem
+3502002,Analândia,20,20,9.528,Cana,Cana
+3502002,Analândia,20,21,2.3954,Cana,Mosaico de usos
+3502002,Analândia,20,25,0.084,Cana,Outras Área não Vegetadas
+3502002,Analândia,20,33,0.0899,Cana,"Rio, Lago e Oceano"
+3502002,Analândia,20,39,0.4368,Cana,Soja
+3502002,Analândia,20,41,0.0591,Cana,Outras Lavouras Temporárias
+3502002,Analândia,20,47,0.5306,Cana,Citrus
+3502002,Analândia,20,48,0.1189,Cana,Outras Lavouras Perenes
+3502002,Analândia,21,3,2.3103,Mosaico de usos,Formação Florestal
+3502002,Analândia,21,4,0.0998,Mosaico de usos,Formação Savânica
+3502002,Analândia,21,9,1.7135,Mosaico de usos,Silvicultura
+3502002,Analândia,21,12,0.0033,Mosaico de usos,Formação Campestre
+3502002,Analândia,21,15,4.2694,Mosaico de usos,Pastagem
+3502002,Analândia,21,20,6.3288,Mosaico de usos,Cana
+3502002,Analândia,21,21,6.149,Mosaico de usos,Mosaico de usos
+3502002,Analândia,21,24,0.1747,Mosaico de usos,Área Urbanizada
+3502002,Analândia,21,25,0.0191,Mosaico de usos,Outras Área não Vegetadas
+3502002,Analândia,21,30,0.0266,Mosaico de usos,Mineração
+3502002,Analândia,21,33,0.0108,Mosaico de usos,"Rio, Lago e Oceano"
+3502002,Analândia,21,39,1.7103,Mosaico de usos,Soja
+3502002,Analândia,21,41,0.2096,Mosaico de usos,Outras Lavouras Temporárias
+3502002,Analândia,21,47,0.2695,Mosaico de usos,Citrus
+3502002,Analândia,21,48,0.005,Mosaico de usos,Outras Lavouras Perenes
+3502002,Analândia,24,15,0.0042,Área Urbanizada,Pastagem
+3502002,Analândia,24,21,0.0241,Área Urbanizada,Mosaico de usos
+3502002,Analândia,24,24,1.385,Área Urbanizada,Área Urbanizada
+3502002,Analândia,24,25,0.0008,Área Urbanizada,Outras Área não Vegetadas
+3502002,Analândia,25,3,0.084,Outras Área não Vegetadas,Formação Florestal
+3502002,Analândia,25,4,0.01,Outras Área não Vegetadas,Formação Savânica
+3502002,Analândia,25,9,0.1789,Outras Área não Vegetadas,Silvicultura
+3502002,Analândia,25,15,1.622,Outras Área não Vegetadas,Pastagem
+3502002,Analândia,25,20,1.9267,Outras Área não Vegetadas,Cana
+3502002,Analândia,25,21,0.6223,Outras Área não Vegetadas,Mosaico de usos
+3502002,Analândia,25,24,0.025,Outras Área não Vegetadas,Área Urbanizada
+3502002,Analândia,25,30,0.0058,Outras Área não Vegetadas,Mineração
+3502002,Analândia,25,39,0.7771,Outras Área não Vegetadas,Soja
+3502002,Analândia,25,41,0.0125,Outras Área não Vegetadas,Outras Lavouras Temporárias
+3502002,Analândia,25,47,0.0191,Outras Área não Vegetadas,Citrus
+3502002,Analândia,30,3,0.0008,Mineração,Formação Florestal
+3502002,Analândia,30,21,0.0175,Mineração,Mosaico de usos
+3502002,Analândia,30,30,0.6013,Mineração,Mineração
+3502002,Analândia,30,33,0.005,Mineração,"Rio, Lago e Oceano"
+3502002,Analândia,33,3,0.0474,"Rio, Lago e Oceano",Formação Florestal
+3502002,Analândia,33,11,0.0033,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3502002,Analândia,33,15,0.025,"Rio, Lago e Oceano",Pastagem
+3502002,Analândia,33,21,0.1115,"Rio, Lago e Oceano",Mosaico de usos
+3502002,Analândia,33,33,0.2105,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3502002,Analândia,39,15,0.0508,Soja,Pastagem
+3502002,Analândia,39,20,0.2446,Soja,Cana
+3502002,Analândia,39,21,0.0607,Soja,Mosaico de usos
+3502002,Analândia,39,39,0.0849,Soja,Soja
+3502002,Analândia,39,47,0.0175,Soja,Citrus
+3502002,Analândia,41,15,0.0291,Outras Lavouras Temporárias,Pastagem
+3502002,Analândia,41,20,0.3085,Outras Lavouras Temporárias,Cana
+3502002,Analândia,41,21,0.0898,Outras Lavouras Temporárias,Mosaico de usos
+3502002,Analândia,41,39,0.1373,Outras Lavouras Temporárias,Soja
+3502002,Analândia,41,47,0.0208,Outras Lavouras Temporárias,Citrus
+3502002,Analândia,46,3,0.0216,Café,Formação Florestal
+3502002,Analândia,46,15,0.0433,Café,Pastagem
+3502002,Analândia,46,21,0.0067,Café,Mosaico de usos
+3502002,Analândia,46,39,0.0017,Café,Soja
+3502002,Analândia,46,46,0.5939,Café,Café
+3502002,Analândia,47,3,0.0008,Citrus,Formação Florestal
+3502002,Analândia,47,20,0.1447,Citrus,Cana
+3502002,Analândia,47,21,0.0715,Citrus,Mosaico de usos
+3502002,Analândia,47,24,0.0058,Citrus,Área Urbanizada
+3502002,Analândia,47,39,0.1572,Citrus,Soja
+3502002,Analândia,47,47,0.2203,Citrus,Citrus
+3502002,Analândia,48,3,0.0125,Outras Lavouras Perenes,Formação Florestal
+3502002,Analândia,48,21,0.0108,Outras Lavouras Perenes,Mosaico de usos
+3502002,Analândia,48,48,0.0374,Outras Lavouras Perenes,Outras Lavouras Perenes
+3503307,Araras,3,3,38.9355,Formação Florestal,Formação Florestal
+3503307,Araras,3,4,0.0266,Formação Florestal,Formação Savânica
+3503307,Araras,3,9,0.0108,Formação Florestal,Silvicultura
+3503307,Araras,3,11,0.0648,Formação Florestal,Campo Alagado e Área Pantanosa
+3503307,Araras,3,15,0.5757,Formação Florestal,Pastagem
+3503307,Araras,3,20,10.2528,Formação Florestal,Cana
+3503307,Araras,3,21,8.1911,Formação Florestal,Mosaico de usos
+3503307,Araras,3,24,1.3388,Formação Florestal,Área Urbanizada
+3503307,Araras,3,25,0.0166,Formação Florestal,Outras Área não Vegetadas
+3503307,Araras,3,30,0.0017,Formação Florestal,Mineração
+3503307,Araras,3,33,0.1495,Formação Florestal,"Rio, Lago e Oceano"
+3503307,Araras,3,39,3.3689,Formação Florestal,Soja
+3503307,Araras,3,41,0.2118,Formação Florestal,Outras Lavouras Temporárias
+3503307,Araras,3,46,0.0249,Formação Florestal,Café
+3503307,Araras,3,47,0.3007,Formação Florestal,Citrus
+3503307,Araras,3,48,0.1146,Formação Florestal,Outras Lavouras Perenes
+3503307,Araras,4,3,0.0066,Formação Savânica,Formação Florestal
+3503307,Araras,4,4,0.0008,Formação Savânica,Formação Savânica
+3503307,Araras,4,15,0.0008,Formação Savânica,Pastagem
+3503307,Araras,4,20,0.0058,Formação Savânica,Cana
+3503307,Araras,4,21,0.2175,Formação Savânica,Mosaico de usos
+3503307,Araras,4,39,0.6101,Formação Savânica,Soja
+3503307,Araras,4,41,0.0257,Formação Savânica,Outras Lavouras Temporárias
+3503307,Araras,4,46,0.0033,Formação Savânica,Café
+3503307,Araras,4,47,0.1735,Formação Savânica,Citrus
+3503307,Araras,9,3,0.0208,Silvicultura,Formação Florestal
+3503307,Araras,9,15,0.049,Silvicultura,Pastagem
+3503307,Araras,9,20,0.0249,Silvicultura,Cana
+3503307,Araras,9,21,0.0274,Silvicultura,Mosaico de usos
+3503307,Araras,11,3,0.1462,Campo Alagado e Área Pantanosa,Formação Florestal
+3503307,Araras,11,4,0.0008,Campo Alagado e Área Pantanosa,Formação Savânica
+3503307,Araras,11,11,2.6514,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3503307,Araras,11,15,0.0615,Campo Alagado e Área Pantanosa,Pastagem
+3503307,Araras,11,20,0.1969,Campo Alagado e Área Pantanosa,Cana
+3503307,Araras,11,21,0.8737,Campo Alagado e Área Pantanosa,Mosaico de usos
+3503307,Araras,11,24,0.0125,Campo Alagado e Área Pantanosa,Área Urbanizada
+3503307,Araras,11,25,0.0025,Campo Alagado e Área Pantanosa,Outras Área não Vegetadas
+3503307,Araras,11,33,0.0224,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3503307,Araras,11,39,0.0216,Campo Alagado e Área Pantanosa,Soja
+3503307,Araras,11,41,0.01,Campo Alagado e Área Pantanosa,Outras Lavouras Temporárias
+3503307,Araras,12,3,0.0158,Formação Campestre,Formação Florestal
+3503307,Araras,12,12,0.0639,Formação Campestre,Formação Campestre
+3503307,Araras,12,20,0.0241,Formação Campestre,Cana
+3503307,Araras,12,21,0.0216,Formação Campestre,Mosaico de usos
+3503307,Araras,12,24,0.01,Formação Campestre,Área Urbanizada
+3503307,Araras,12,25,0.0116,Formação Campestre,Outras Área não Vegetadas
+3503307,Araras,12,33,0.0033,Formação Campestre,"Rio, Lago e Oceano"
+3503307,Araras,12,39,0.0399,Formação Campestre,Soja
+3503307,Araras,15,3,2.2673,Pastagem,Formação Florestal
+3503307,Araras,15,4,0.0166,Pastagem,Formação Savânica
+3503307,Araras,15,9,0.2219,Pastagem,Silvicultura
+3503307,Araras,15,11,1.0677,Pastagem,Campo Alagado e Área Pantanosa
+3503307,Araras,15,12,0.0025,Pastagem,Formação Campestre
+3503307,Araras,15,15,3.2249,Pastagem,Pastagem
+3503307,Araras,15,20,12.9825,Pastagem,Cana
+3503307,Araras,15,21,12.2642,Pastagem,Mosaico de usos
+3503307,Araras,15,24,3.3476,Pastagem,Área Urbanizada
+3503307,Araras,15,25,0.0216,Pastagem,Outras Área não Vegetadas
+3503307,Araras,15,30,0.0523,Pastagem,Mineração
+3503307,Araras,15,33,0.6652,Pastagem,"Rio, Lago e Oceano"
+3503307,Araras,15,39,2.6017,Pastagem,Soja
+3503307,Araras,15,41,0.108,Pastagem,Outras Lavouras Temporárias
+3503307,Araras,15,46,0.0033,Pastagem,Café
+3503307,Araras,15,47,0.6106,Pastagem,Citrus
+3503307,Araras,15,48,0.1495,Pastagem,Outras Lavouras Perenes
+3503307,Araras,20,3,4.2568,Cana,Formação Florestal
+3503307,Araras,20,4,0.1287,Cana,Formação Savânica
+3503307,Araras,20,9,0.1845,Cana,Silvicultura
+3503307,Araras,20,11,0.2001,Cana,Campo Alagado e Área Pantanosa
+3503307,Araras,20,12,0.0075,Cana,Formação Campestre
+3503307,Araras,20,15,2.9584,Cana,Pastagem
+3503307,Araras,20,20,268.8838,Cana,Cana
+3503307,Araras,20,21,21.9247,Cana,Mosaico de usos
+3503307,Araras,20,24,7.7723,Cana,Área Urbanizada
+3503307,Araras,20,25,0.484,Cana,Outras Área não Vegetadas
+3503307,Araras,20,30,0.697,Cana,Mineração
+3503307,Araras,20,33,0.7075,Cana,"Rio, Lago e Oceano"
+3503307,Araras,20,39,13.7148,Cana,Soja
+3503307,Araras,20,41,1.1763,Cana,Outras Lavouras Temporárias
+3503307,Araras,20,46,0.4213,Cana,Café
+3503307,Araras,20,47,4.6307,Cana,Citrus
+3503307,Araras,20,48,0.2791,Cana,Outras Lavouras Perenes
+3503307,Araras,21,3,10.3371,Mosaico de usos,Formação Florestal
+3503307,Araras,21,4,0.0266,Mosaico de usos,Formação Savânica
+3503307,Araras,21,9,0.2983,Mosaico de usos,Silvicultura
+3503307,Araras,21,11,3.8582,Mosaico de usos,Campo Alagado e Área Pantanosa
+3503307,Araras,21,12,0.0332,Mosaico de usos,Formação Campestre
+3503307,Araras,21,15,3.2819,Mosaico de usos,Pastagem
+3503307,Araras,21,20,55.4605,Mosaico de usos,Cana
+3503307,Araras,21,21,45.9872,Mosaico de usos,Mosaico de usos
+3503307,Araras,21,24,7.8887,Mosaico de usos,Área Urbanizada
+3503307,Araras,21,25,0.1943,Mosaico de usos,Outras Área não Vegetadas
+3503307,Araras,21,30,0.0955,Mosaico de usos,Mineração
+3503307,Araras,21,33,0.8472,Mosaico de usos,"Rio, Lago e Oceano"
+3503307,Araras,21,39,16.5732,Mosaico de usos,Soja
+3503307,Araras,21,41,0.3547,Mosaico de usos,Outras Lavouras Temporárias
+3503307,Araras,21,46,0.0349,Mosaico de usos,Café
+3503307,Araras,21,47,2.4011,Mosaico de usos,Citrus
+3503307,Araras,21,48,0.2899,Mosaico de usos,Outras Lavouras Perenes
+3503307,Araras,24,15,0.0008,Área Urbanizada,Pastagem
+3503307,Araras,24,20,0.0008,Área Urbanizada,Cana
+3503307,Araras,24,21,0.0282,Área Urbanizada,Mosaico de usos
+3503307,Araras,24,24,17.6397,Área Urbanizada,Área Urbanizada
+3503307,Araras,24,25,0.0075,Área Urbanizada,Outras Área não Vegetadas
+3503307,Araras,24,33,0.0008,Área Urbanizada,"Rio, Lago e Oceano"
+3503307,Araras,25,3,0.0133,Outras Área não Vegetadas,Formação Florestal
+3503307,Araras,25,4,0.0008,Outras Área não Vegetadas,Formação Savânica
+3503307,Araras,25,15,0.0008,Outras Área não Vegetadas,Pastagem
+3503307,Araras,25,20,0.0332,Outras Área não Vegetadas,Cana
+3503307,Araras,25,21,0.2101,Outras Área não Vegetadas,Mosaico de usos
+3503307,Araras,25,24,0.1063,Outras Área não Vegetadas,Área Urbanizada
+3503307,Araras,25,25,0.1262,Outras Área não Vegetadas,Outras Área não Vegetadas
+3503307,Araras,25,33,0.0091,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3503307,Araras,25,39,0.0498,Outras Área não Vegetadas,Soja
+3503307,Araras,25,41,0.0008,Outras Área não Vegetadas,Outras Lavouras Temporárias
+3503307,Araras,30,21,0.0008,Mineração,Mosaico de usos
+3503307,Araras,30,30,0.0042,Mineração,Mineração
+3503307,Araras,33,3,1.4369,"Rio, Lago e Oceano",Formação Florestal
+3503307,Araras,33,9,0.0233,"Rio, Lago e Oceano",Silvicultura
+3503307,Araras,33,11,0.3587,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3503307,Araras,33,12,0.0066,"Rio, Lago e Oceano",Formação Campestre
+3503307,Araras,33,15,0.0116,"Rio, Lago e Oceano",Pastagem
+3503307,Araras,33,20,0.0349,"Rio, Lago e Oceano",Cana
+3503307,Araras,33,21,1.613,"Rio, Lago e Oceano",Mosaico de usos
+3503307,Araras,33,24,0.1528,"Rio, Lago e Oceano",Área Urbanizada
+3503307,Araras,33,25,0.0772,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3503307,Araras,33,33,6.9366,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3503307,Araras,33,39,0.0017,"Rio, Lago e Oceano",Soja
+3503307,Araras,33,47,0.0066,"Rio, Lago e Oceano",Citrus
+3503307,Araras,33,48,0.0008,"Rio, Lago e Oceano",Outras Lavouras Perenes
+3503307,Araras,39,3,0.1612,Soja,Formação Florestal
+3503307,Araras,39,4,0.0241,Soja,Formação Savânica
+3503307,Araras,39,9,0.0457,Soja,Silvicultura
+3503307,Araras,39,15,0.1653,Soja,Pastagem
+3503307,Araras,39,20,10.2266,Soja,Cana
+3503307,Araras,39,21,1.9986,Soja,Mosaico de usos
+3503307,Araras,39,24,1.0647,Soja,Área Urbanizada
+3503307,Araras,39,33,0.0017,Soja,"Rio, Lago e Oceano"
+3503307,Araras,39,39,0.9304,Soja,Soja
+3503307,Araras,39,41,0.221,Soja,Outras Lavouras Temporárias
+3503307,Araras,39,46,0.1488,Soja,Café
+3503307,Araras,39,47,1.1015,Soja,Citrus
+3503307,Araras,39,48,0.0166,Soja,Outras Lavouras Perenes
+3503307,Araras,41,3,0.0166,Outras Lavouras Temporárias,Formação Florestal
+3503307,Araras,41,4,0.0125,Outras Lavouras Temporárias,Formação Savânica
+3503307,Araras,41,11,0.0008,Outras Lavouras Temporárias,Campo Alagado e Área Pantanosa
+3503307,Araras,41,15,0.0149,Outras Lavouras Temporárias,Pastagem
+3503307,Araras,41,20,4.5189,Outras Lavouras Temporárias,Cana
+3503307,Araras,41,21,0.7003,Outras Lavouras Temporárias,Mosaico de usos
+3503307,Araras,41,24,0.1246,Outras Lavouras Temporárias,Área Urbanizada
+3503307,Araras,41,39,1.9212,Outras Lavouras Temporárias,Soja
+3503307,Araras,41,41,0.0673,Outras Lavouras Temporárias,Outras Lavouras Temporárias
+3503307,Araras,41,46,0.1762,Outras Lavouras Temporárias,Café
+3503307,Araras,41,47,0.6653,Outras Lavouras Temporárias,Citrus
+3503307,Araras,41,48,0.0515,Outras Lavouras Temporárias,Outras Lavouras Perenes
+3503307,Araras,46,46,0.0091,Café,Café
+3503307,Araras,47,3,0.0075,Citrus,Formação Florestal
+3503307,Araras,47,15,0.0391,Citrus,Pastagem
+3503307,Araras,47,20,4.4388,Citrus,Cana
+3503307,Araras,47,21,0.3588,Citrus,Mosaico de usos
+3503307,Araras,47,39,2.4824,Citrus,Soja
+3503307,Araras,47,41,0.0042,Citrus,Outras Lavouras Temporárias
+3503307,Araras,47,46,0.0017,Citrus,Café
+3503307,Araras,47,47,0.4376,Citrus,Citrus
+3503307,Araras,48,3,0.0291,Outras Lavouras Perenes,Formação Florestal
+3503307,Araras,48,15,0.0125,Outras Lavouras Perenes,Pastagem
+3503307,Araras,48,20,0.1878,Outras Lavouras Perenes,Cana
+3503307,Araras,48,21,0.0872,Outras Lavouras Perenes,Mosaico de usos
+3503307,Araras,48,39,0.0714,Outras Lavouras Perenes,Soja
+3503307,Araras,48,47,0.0017,Outras Lavouras Perenes,Citrus
+3503307,Araras,48,48,0.0922,Outras Lavouras Perenes,Outras Lavouras Perenes
+3510401,Capivari,3,3,18.3511,Formação Florestal,Formação Florestal
+3510401,Capivari,3,9,0.0446,Formação Florestal,Silvicultura
+3510401,Capivari,3,11,0.0248,Formação Florestal,Campo Alagado e Área Pantanosa
+3510401,Capivari,3,15,0.4143,Formação Florestal,Pastagem
+3510401,Capivari,3,20,1.5352,Formação Florestal,Cana
+3510401,Capivari,3,21,3.7354,Formação Florestal,Mosaico de usos
+3510401,Capivari,3,24,0.0446,Formação Florestal,Área Urbanizada
+3510401,Capivari,3,33,0.0058,Formação Florestal,"Rio, Lago e Oceano"
+3510401,Capivari,3,39,0.0083,Formação Florestal,Soja
+3510401,Capivari,3,41,0.0017,Formação Florestal,Outras Lavouras Temporárias
+3510401,Capivari,9,3,0.1364,Silvicultura,Formação Florestal
+3510401,Capivari,9,9,0.0058,Silvicultura,Silvicultura
+3510401,Capivari,9,15,0.005,Silvicultura,Pastagem
+3510401,Capivari,9,20,0.1883,Silvicultura,Cana
+3510401,Capivari,9,21,0.0777,Silvicultura,Mosaico de usos
+3510401,Capivari,11,3,0.0265,Campo Alagado e Área Pantanosa,Formação Florestal
+3510401,Capivari,11,11,0.629,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3510401,Capivari,11,15,0.019,Campo Alagado e Área Pantanosa,Pastagem
+3510401,Capivari,11,20,0.043,Campo Alagado e Área Pantanosa,Cana
+3510401,Capivari,11,21,0.4778,Campo Alagado e Área Pantanosa,Mosaico de usos
+3510401,Capivari,11,24,0.005,Campo Alagado e Área Pantanosa,Área Urbanizada
+3510401,Capivari,11,33,0.0157,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3510401,Capivari,12,3,0.005,Formação Campestre,Formação Florestal
+3510401,Capivari,12,15,0.1223,Formação Campestre,Pastagem
+3510401,Capivari,12,20,0.1182,Formação Campestre,Cana
+3510401,Capivari,12,21,0.0876,Formação Campestre,Mosaico de usos
+3510401,Capivari,12,24,0.0025,Formação Campestre,Área Urbanizada
+3510401,Capivari,15,3,1.7718,Pastagem,Formação Florestal
+3510401,Capivari,15,9,0.2379,Pastagem,Silvicultura
+3510401,Capivari,15,11,0.1769,Pastagem,Campo Alagado e Área Pantanosa
+3510401,Capivari,15,15,11.2859,Pastagem,Pastagem
+3510401,Capivari,15,20,11.8996,Pastagem,Cana
+3510401,Capivari,15,21,12.445,Pastagem,Mosaico de usos
+3510401,Capivari,15,24,3.2851,Pastagem,Área Urbanizada
+3510401,Capivari,15,25,0.2025,Pastagem,Outras Área não Vegetadas
+3510401,Capivari,15,33,0.1587,Pastagem,"Rio, Lago e Oceano"
+3510401,Capivari,15,39,0.0297,Pastagem,Soja
+3510401,Capivari,20,3,0.7871,Cana,Formação Florestal
+3510401,Capivari,20,9,0.3355,Cana,Silvicultura
+3510401,Capivari,20,11,0.1753,Cana,Campo Alagado e Área Pantanosa
+3510401,Capivari,20,15,5.9457,Cana,Pastagem
+3510401,Capivari,20,20,152.2998,Cana,Cana
+3510401,Capivari,20,21,16.9251,Cana,Mosaico de usos
+3510401,Capivari,20,24,2.1129,Cana,Área Urbanizada
+3510401,Capivari,20,25,0.3083,Cana,Outras Área não Vegetadas
+3510401,Capivari,20,33,0.1571,Cana,"Rio, Lago e Oceano"
+3510401,Capivari,20,39,0.9942,Cana,Soja
+3510401,Capivari,20,41,0.0132,Cana,Outras Lavouras Temporárias
+3510401,Capivari,20,48,0.0108,Cana,Outras Lavouras Perenes
+3510401,Capivari,21,3,5.6787,Mosaico de usos,Formação Florestal
+3510401,Capivari,21,9,0.1091,Mosaico de usos,Silvicultura
+3510401,Capivari,21,11,1.3443,Mosaico de usos,Campo Alagado e Área Pantanosa
+3510401,Capivari,21,15,3.2968,Mosaico de usos,Pastagem
+3510401,Capivari,21,20,23.3382,Mosaico de usos,Cana
+3510401,Capivari,21,21,28.8916,Mosaico de usos,Mosaico de usos
+3510401,Capivari,21,24,2.3319,Mosaico de usos,Área Urbanizada
+3510401,Capivari,21,25,0.3687,Mosaico de usos,Outras Área não Vegetadas
+3510401,Capivari,21,33,0.1273,Mosaico de usos,"Rio, Lago e Oceano"
+3510401,Capivari,21,39,0.157,Mosaico de usos,Soja
+3510401,Capivari,21,41,0.0108,Mosaico de usos,Outras Lavouras Temporárias
+3510401,Capivari,24,3,0.0041,Área Urbanizada,Formação Florestal
+3510401,Capivari,24,11,0.0033,Área Urbanizada,Campo Alagado e Área Pantanosa
+3510401,Capivari,24,21,0.024,Área Urbanizada,Mosaico de usos
+3510401,Capivari,24,24,7.2438,Área Urbanizada,Área Urbanizada
+3510401,Capivari,25,3,0.0289,Outras Área não Vegetadas,Formação Florestal
+3510401,Capivari,25,15,0.0091,Outras Área não Vegetadas,Pastagem
+3510401,Capivari,25,20,0.2936,Outras Área não Vegetadas,Cana
+3510401,Capivari,25,21,0.3605,Outras Área não Vegetadas,Mosaico de usos
+3510401,Capivari,25,24,0.0116,Outras Área não Vegetadas,Área Urbanizada
+3510401,Capivari,25,25,0.2042,Outras Área não Vegetadas,Outras Área não Vegetadas
+3510401,Capivari,25,33,0.0041,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3510401,Capivari,29,15,0.0066,Afloramento Rochoso,Pastagem
+3510401,Capivari,29,21,0.0041,Afloramento Rochoso,Mosaico de usos
+3510401,Capivari,33,3,0.2075,"Rio, Lago e Oceano",Formação Florestal
+3510401,Capivari,33,11,0.2407,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3510401,Capivari,33,15,0.0438,"Rio, Lago e Oceano",Pastagem
+3510401,Capivari,33,20,0.0314,"Rio, Lago e Oceano",Cana
+3510401,Capivari,33,21,0.5629,"Rio, Lago e Oceano",Mosaico de usos
+3510401,Capivari,33,24,0.0397,"Rio, Lago e Oceano",Área Urbanizada
+3510401,Capivari,33,25,0.0107,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3510401,Capivari,33,33,0.6605,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3510401,Capivari,39,15,0.0223,Soja,Pastagem
+3510401,Capivari,39,20,0.1331,Soja,Cana
+3510401,Capivari,39,21,0.0008,Soja,Mosaico de usos
+3510401,Capivari,39,39,0.005,Soja,Soja
+3510401,Capivari,41,15,0.0033,Outras Lavouras Temporárias,Pastagem
+3510401,Capivari,41,20,0.1521,Outras Lavouras Temporárias,Cana
+3510401,Capivari,41,21,0.0405,Outras Lavouras Temporárias,Mosaico de usos
+3511706,Charqueada,3,3,15.1808,Formação Florestal,Formação Florestal
+3511706,Charqueada,3,9,0.0473,Formação Florestal,Silvicultura
+3511706,Charqueada,3,11,0.0348,Formação Florestal,Campo Alagado e Área Pantanosa
+3511706,Charqueada,3,15,0.716,Formação Florestal,Pastagem
+3511706,Charqueada,3,20,0.5051,Formação Florestal,Cana
+3511706,Charqueada,3,21,1.4159,Formação Florestal,Mosaico de usos
+3511706,Charqueada,3,24,0.0216,Formação Florestal,Área Urbanizada
+3511706,Charqueada,3,33,0.01,Formação Florestal,"Rio, Lago e Oceano"
+3511706,Charqueada,3,41,0.005,Formação Florestal,Outras Lavouras Temporárias
+3511706,Charqueada,3,46,0.0515,Formação Florestal,Café
+3511706,Charqueada,9,20,0.0622,Silvicultura,Cana
+3511706,Charqueada,9,21,0.0033,Silvicultura,Mosaico de usos
+3511706,Charqueada,9,24,0.0249,Silvicultura,Área Urbanizada
+3511706,Charqueada,11,3,0.2572,Campo Alagado e Área Pantanosa,Formação Florestal
+3511706,Charqueada,11,9,0.0149,Campo Alagado e Área Pantanosa,Silvicultura
+3511706,Charqueada,11,11,0.1302,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3511706,Charqueada,11,15,0.3418,Campo Alagado e Área Pantanosa,Pastagem
+3511706,Charqueada,11,20,0.0888,Campo Alagado e Área Pantanosa,Cana
+3511706,Charqueada,11,21,0.4396,Campo Alagado e Área Pantanosa,Mosaico de usos
+3511706,Charqueada,11,24,0.0066,Campo Alagado e Área Pantanosa,Área Urbanizada
+3511706,Charqueada,11,33,0.0025,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3511706,Charqueada,15,3,1.5147,Pastagem,Formação Florestal
+3511706,Charqueada,15,9,0.5642,Pastagem,Silvicultura
+3511706,Charqueada,15,11,0.0962,Pastagem,Campo Alagado e Área Pantanosa
+3511706,Charqueada,15,15,17.4943,Pastagem,Pastagem
+3511706,Charqueada,15,20,9.7012,Pastagem,Cana
+3511706,Charqueada,15,21,11.8574,Pastagem,Mosaico de usos
+3511706,Charqueada,15,24,1.0336,Pastagem,Área Urbanizada
+3511706,Charqueada,15,25,0.102,Pastagem,Outras Área não Vegetadas
+3511706,Charqueada,15,33,0.0282,Pastagem,"Rio, Lago e Oceano"
+3511706,Charqueada,15,41,0.0381,Pastagem,Outras Lavouras Temporárias
+3511706,Charqueada,15,46,0.0066,Pastagem,Café
+3511706,Charqueada,20,3,0.2944,Cana,Formação Florestal
+3511706,Charqueada,20,4,0.0639,Cana,Formação Savânica
+3511706,Charqueada,20,9,0.6346,Cana,Silvicultura
+3511706,Charqueada,20,11,0.0357,Cana,Campo Alagado e Área Pantanosa
+3511706,Charqueada,20,15,5.93,Cana,Pastagem
+3511706,Charqueada,20,20,68.6639,Cana,Cana
+3511706,Charqueada,20,21,10.0804,Cana,Mosaico de usos
+3511706,Charqueada,20,24,1.0111,Cana,Área Urbanizada
+3511706,Charqueada,20,25,0.17,Cana,Outras Área não Vegetadas
+3511706,Charqueada,20,33,0.0241,Cana,"Rio, Lago e Oceano"
+3511706,Charqueada,20,39,0.0979,Cana,Soja
+3511706,Charqueada,20,41,0.0207,Cana,Outras Lavouras Temporárias
+3511706,Charqueada,21,3,1.9863,Mosaico de usos,Formação Florestal
+3511706,Charqueada,21,4,0.0017,Mosaico de usos,Formação Savânica
+3511706,Charqueada,21,9,0.1037,Mosaico de usos,Silvicultura
+3511706,Charqueada,21,11,0.2015,Mosaico de usos,Campo Alagado e Área Pantanosa
+3511706,Charqueada,21,15,2.1456,Mosaico de usos,Pastagem
+3511706,Charqueada,21,20,7.8834,Mosaico de usos,Cana
+3511706,Charqueada,21,21,10.7186,Mosaico de usos,Mosaico de usos
+3511706,Charqueada,21,24,0.739,Mosaico de usos,Área Urbanizada
+3511706,Charqueada,21,25,0.005,Mosaico de usos,Outras Área não Vegetadas
+3511706,Charqueada,21,33,0.0299,Mosaico de usos,"Rio, Lago e Oceano"
+3511706,Charqueada,21,39,0.0008,Mosaico de usos,Soja
+3511706,Charqueada,21,41,0.0232,Mosaico de usos,Outras Lavouras Temporárias
+3511706,Charqueada,24,3,0.0066,Área Urbanizada,Formação Florestal
+3511706,Charqueada,24,15,0.0033,Área Urbanizada,Pastagem
+3511706,Charqueada,24,20,0.0033,Área Urbanizada,Cana
+3511706,Charqueada,24,21,0.0481,Área Urbanizada,Mosaico de usos
+3511706,Charqueada,24,24,2.0612,Área Urbanizada,Área Urbanizada
+3511706,Charqueada,25,15,0.0639,Outras Área não Vegetadas,Pastagem
+3511706,Charqueada,25,20,0.3201,Outras Área não Vegetadas,Cana
+3511706,Charqueada,25,21,0.3392,Outras Área não Vegetadas,Mosaico de usos
+3511706,Charqueada,25,24,0.0589,Outras Área não Vegetadas,Área Urbanizada
+3511706,Charqueada,25,25,0.0622,Outras Área não Vegetadas,Outras Área não Vegetadas
+3511706,Charqueada,25,33,0.0017,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3511706,Charqueada,33,3,0.0348,"Rio, Lago e Oceano",Formação Florestal
+3511706,Charqueada,33,11,0.0075,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3511706,Charqueada,33,15,0.0174,"Rio, Lago e Oceano",Pastagem
+3511706,Charqueada,33,20,0.0017,"Rio, Lago e Oceano",Cana
+3511706,Charqueada,33,21,0.1982,"Rio, Lago e Oceano",Mosaico de usos
+3511706,Charqueada,33,24,0.0066,"Rio, Lago e Oceano",Área Urbanizada
+3511706,Charqueada,33,33,0.272,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3511706,Charqueada,39,15,0.0008,Soja,Pastagem
+3511706,Charqueada,39,20,0.0746,Soja,Cana
+3511706,Charqueada,39,21,0.0166,Soja,Mosaico de usos
+3511706,Charqueada,41,21,0.01,Outras Lavouras Temporárias,Mosaico de usos
+3511706,Charqueada,41,24,0.0041,Outras Lavouras Temporárias,Área Urbanizada
+3511706,Charqueada,46,46,0.0017,Café,Café
+3512209,Conchal,3,3,11.0011,Formação Florestal,Formação Florestal
+3512209,Conchal,3,4,0.1495,Formação Florestal,Formação Savânica
+3512209,Conchal,3,9,0.0291,Formação Florestal,Silvicultura
+3512209,Conchal,3,11,0.2109,Formação Florestal,Campo Alagado e Área Pantanosa
+3512209,Conchal,3,15,0.4343,Formação Florestal,Pastagem
+3512209,Conchal,3,20,2.4524,Formação Florestal,Cana
+3512209,Conchal,3,21,3.9476,Formação Florestal,Mosaico de usos
+3512209,Conchal,3,24,0.2326,Formação Florestal,Área Urbanizada
+3512209,Conchal,3,25,0.0199,Formação Florestal,Outras Área não Vegetadas
+3512209,Conchal,3,33,0.1038,Formação Florestal,"Rio, Lago e Oceano"
+3512209,Conchal,3,39,4.9248,Formação Florestal,Soja
+3512209,Conchal,3,41,0.5389,Formação Florestal,Outras Lavouras Temporárias
+3512209,Conchal,3,47,3.8221,Formação Florestal,Citrus
+3512209,Conchal,3,48,0.6411,Formação Florestal,Outras Lavouras Perenes
+3512209,Conchal,4,3,0.0448,Formação Savânica,Formação Florestal
+3512209,Conchal,4,4,0.0282,Formação Savânica,Formação Savânica
+3512209,Conchal,4,15,0.1137,Formação Savânica,Pastagem
+3512209,Conchal,4,20,1.4493,Formação Savânica,Cana
+3512209,Conchal,4,21,1.4245,Formação Savânica,Mosaico de usos
+3512209,Conchal,4,24,0.0457,Formação Savânica,Área Urbanizada
+3512209,Conchal,4,25,0.0075,Formação Savânica,Outras Área não Vegetadas
+3512209,Conchal,4,39,2.4464,Formação Savânica,Soja
+3512209,Conchal,4,41,0.2756,Formação Savânica,Outras Lavouras Temporárias
+3512209,Conchal,4,47,1.7998,Formação Savânica,Citrus
+3512209,Conchal,4,48,0.2847,Formação Savânica,Outras Lavouras Perenes
+3512209,Conchal,9,3,0.01,Silvicultura,Formação Florestal
+3512209,Conchal,9,9,2.5504,Silvicultura,Silvicultura
+3512209,Conchal,9,20,0.0017,Silvicultura,Cana
+3512209,Conchal,9,21,0.0258,Silvicultura,Mosaico de usos
+3512209,Conchal,9,39,0.015,Silvicultura,Soja
+3512209,Conchal,9,47,0.0033,Silvicultura,Citrus
+3512209,Conchal,11,3,0.7325,Campo Alagado e Área Pantanosa,Formação Florestal
+3512209,Conchal,11,4,0.0656,Campo Alagado e Área Pantanosa,Formação Savânica
+3512209,Conchal,11,11,0.6153,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3512209,Conchal,11,12,0.0058,Campo Alagado e Área Pantanosa,Formação Campestre
+3512209,Conchal,11,15,0.1063,Campo Alagado e Área Pantanosa,Pastagem
+3512209,Conchal,11,20,0.2549,Campo Alagado e Área Pantanosa,Cana
+3512209,Conchal,11,21,0.7541,Campo Alagado e Área Pantanosa,Mosaico de usos
+3512209,Conchal,11,24,0.0083,Campo Alagado e Área Pantanosa,Área Urbanizada
+3512209,Conchal,11,25,0.1354,Campo Alagado e Área Pantanosa,Outras Área não Vegetadas
+3512209,Conchal,11,33,0.1171,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3512209,Conchal,11,39,0.1428,Campo Alagado e Área Pantanosa,Soja
+3512209,Conchal,11,41,0.0257,Campo Alagado e Área Pantanosa,Outras Lavouras Temporárias
+3512209,Conchal,11,47,0.3446,Campo Alagado e Área Pantanosa,Citrus
+3512209,Conchal,11,48,0.1204,Campo Alagado e Área Pantanosa,Outras Lavouras Perenes
+3512209,Conchal,15,3,1.0166,Pastagem,Formação Florestal
+3512209,Conchal,15,4,0.0996,Pastagem,Formação Savânica
+3512209,Conchal,15,9,2.9867,Pastagem,Silvicultura
+3512209,Conchal,15,11,0.0199,Pastagem,Campo Alagado e Área Pantanosa
+3512209,Conchal,15,15,3.9171,Pastagem,Pastagem
+3512209,Conchal,15,20,2.7174,Pastagem,Cana
+3512209,Conchal,15,21,11.3217,Pastagem,Mosaico de usos
+3512209,Conchal,15,24,0.6835,Pastagem,Área Urbanizada
+3512209,Conchal,15,25,0.0008,Pastagem,Outras Área não Vegetadas
+3512209,Conchal,15,31,0.0066,Pastagem,Aquicultura
+3512209,Conchal,15,33,0.0457,Pastagem,"Rio, Lago e Oceano"
+3512209,Conchal,15,39,3.8271,Pastagem,Soja
+3512209,Conchal,15,41,0.6021,Pastagem,Outras Lavouras Temporárias
+3512209,Conchal,15,47,3.8123,Pastagem,Citrus
+3512209,Conchal,15,48,1.5536,Pastagem,Outras Lavouras Perenes
+3512209,Conchal,20,3,0.1371,Cana,Formação Florestal
+3512209,Conchal,20,4,0.0116,Cana,Formação Savânica
+3512209,Conchal,20,9,1.1507,Cana,Silvicultura
+3512209,Conchal,20,11,0.0008,Cana,Campo Alagado e Área Pantanosa
+3512209,Conchal,20,15,0.2409,Cana,Pastagem
+3512209,Conchal,20,20,6.4332,Cana,Cana
+3512209,Conchal,20,21,4.0045,Cana,Mosaico de usos
+3512209,Conchal,20,24,0.4942,Cana,Área Urbanizada
+3512209,Conchal,20,25,0.0407,Cana,Outras Área não Vegetadas
+3512209,Conchal,20,33,0.005,Cana,"Rio, Lago e Oceano"
+3512209,Conchal,20,39,5.275,Cana,Soja
+3512209,Conchal,20,41,0.7367,Cana,Outras Lavouras Temporárias
+3512209,Conchal,20,47,2.0537,Cana,Citrus
+3512209,Conchal,20,48,0.3554,Cana,Outras Lavouras Perenes
+3512209,Conchal,21,3,0.6346,Mosaico de usos,Formação Florestal
+3512209,Conchal,21,4,0.0365,Mosaico de usos,Formação Savânica
+3512209,Conchal,21,9,1.0418,Mosaico de usos,Silvicultura
+3512209,Conchal,21,11,0.0208,Mosaico de usos,Campo Alagado e Área Pantanosa
+3512209,Conchal,21,12,0.0066,Mosaico de usos,Formação Campestre
+3512209,Conchal,21,15,0.5174,Mosaico de usos,Pastagem
+3512209,Conchal,21,20,4.2709,Mosaico de usos,Cana
+3512209,Conchal,21,21,11.3284,Mosaico de usos,Mosaico de usos
+3512209,Conchal,21,24,1.3323,Mosaico de usos,Área Urbanizada
+3512209,Conchal,21,25,0.0806,Mosaico de usos,Outras Área não Vegetadas
+3512209,Conchal,21,33,0.0191,Mosaico de usos,"Rio, Lago e Oceano"
+3512209,Conchal,21,39,7.8619,Mosaico de usos,Soja
+3512209,Conchal,21,41,0.7756,Mosaico de usos,Outras Lavouras Temporárias
+3512209,Conchal,21,47,4.6162,Mosaico de usos,Citrus
+3512209,Conchal,21,48,1.0521,Mosaico de usos,Outras Lavouras Perenes
+3512209,Conchal,24,3,0.0008,Área Urbanizada,Formação Florestal
+3512209,Conchal,24,4,0.0017,Área Urbanizada,Formação Savânica
+3512209,Conchal,24,15,0.0008,Área Urbanizada,Pastagem
+3512209,Conchal,24,21,0.0091,Área Urbanizada,Mosaico de usos
+3512209,Conchal,24,24,2.9859,Área Urbanizada,Área Urbanizada
+3512209,Conchal,24,39,0.0042,Área Urbanizada,Soja
+3512209,Conchal,25,3,0.0108,Outras Área não Vegetadas,Formação Florestal
+3512209,Conchal,25,4,0.0075,Outras Área não Vegetadas,Formação Savânica
+3512209,Conchal,25,15,0.0183,Outras Área não Vegetadas,Pastagem
+3512209,Conchal,25,20,0.0921,Outras Área não Vegetadas,Cana
+3512209,Conchal,25,21,0.2947,Outras Área não Vegetadas,Mosaico de usos
+3512209,Conchal,25,24,0.0756,Outras Área não Vegetadas,Área Urbanizada
+3512209,Conchal,25,25,0.01,Outras Área não Vegetadas,Outras Área não Vegetadas
+3512209,Conchal,25,39,0.4948,Outras Área não Vegetadas,Soja
+3512209,Conchal,25,41,0.0432,Outras Área não Vegetadas,Outras Lavouras Temporárias
+3512209,Conchal,25,47,0.1345,Outras Área não Vegetadas,Citrus
+3512209,Conchal,25,48,0.0506,Outras Área não Vegetadas,Outras Lavouras Perenes
+3512209,Conchal,33,3,0.289,"Rio, Lago e Oceano",Formação Florestal
+3512209,Conchal,33,4,0.0008,"Rio, Lago e Oceano",Formação Savânica
+3512209,Conchal,33,11,0.0216,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3512209,Conchal,33,12,0.0698,"Rio, Lago e Oceano",Formação Campestre
+3512209,Conchal,33,15,0.015,"Rio, Lago e Oceano",Pastagem
+3512209,Conchal,33,20,0.0108,"Rio, Lago e Oceano",Cana
+3512209,Conchal,33,21,0.3347,"Rio, Lago e Oceano",Mosaico de usos
+3512209,Conchal,33,24,0.0083,"Rio, Lago e Oceano",Área Urbanizada
+3512209,Conchal,33,33,0.5415,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3512209,Conchal,33,39,0.039,"Rio, Lago e Oceano",Soja
+3512209,Conchal,33,41,0.0083,"Rio, Lago e Oceano",Outras Lavouras Temporárias
+3512209,Conchal,33,47,0.0075,"Rio, Lago e Oceano",Citrus
+3512209,Conchal,33,48,0.0091,"Rio, Lago e Oceano",Outras Lavouras Perenes
+3512209,Conchal,39,3,0.0066,Soja,Formação Florestal
+3512209,Conchal,39,4,0.0839,Soja,Formação Savânica
+3512209,Conchal,39,9,0.0066,Soja,Silvicultura
+3512209,Conchal,39,15,0.1187,Soja,Pastagem
+3512209,Conchal,39,20,1.2774,Soja,Cana
+3512209,Conchal,39,21,2.7405,Soja,Mosaico de usos
+3512209,Conchal,39,24,0.4502,Soja,Área Urbanizada
+3512209,Conchal,39,25,0.0515,Soja,Outras Área não Vegetadas
+3512209,Conchal,39,31,0.0017,Soja,Aquicultura
+3512209,Conchal,39,33,0.0017,Soja,"Rio, Lago e Oceano"
+3512209,Conchal,39,39,4.0681,Soja,Soja
+3512209,Conchal,39,41,0.6353,Soja,Outras Lavouras Temporárias
+3512209,Conchal,39,47,3.2686,Soja,Citrus
+3512209,Conchal,39,48,0.3064,Soja,Outras Lavouras Perenes
+3512209,Conchal,41,3,0.0615,Outras Lavouras Temporárias,Formação Florestal
+3512209,Conchal,41,4,0.0291,Outras Lavouras Temporárias,Formação Savânica
+3512209,Conchal,41,9,0.3647,Outras Lavouras Temporárias,Silvicultura
+3512209,Conchal,41,15,0.0548,Outras Lavouras Temporárias,Pastagem
+3512209,Conchal,41,20,0.9209,Outras Lavouras Temporárias,Cana
+3512209,Conchal,41,21,2.794,Outras Lavouras Temporárias,Mosaico de usos
+3512209,Conchal,41,24,0.7642,Outras Lavouras Temporárias,Área Urbanizada
+3512209,Conchal,41,25,0.0075,Outras Lavouras Temporárias,Outras Área não Vegetadas
+3512209,Conchal,41,31,0.0872,Outras Lavouras Temporárias,Aquicultura
+3512209,Conchal,41,33,0.0066,Outras Lavouras Temporárias,"Rio, Lago e Oceano"
+3512209,Conchal,41,39,5.4277,Outras Lavouras Temporárias,Soja
+3512209,Conchal,41,41,0.3288,Outras Lavouras Temporárias,Outras Lavouras Temporárias
+3512209,Conchal,41,47,2.1335,Outras Lavouras Temporárias,Citrus
+3512209,Conchal,41,48,0.49,Outras Lavouras Temporárias,Outras Lavouras Perenes
+3512209,Conchal,47,3,0.0648,Citrus,Formação Florestal
+3512209,Conchal,47,9,0.0017,Citrus,Silvicultura
+3512209,Conchal,47,15,0.083,Citrus,Pastagem
+3512209,Conchal,47,20,1.5145,Citrus,Cana
+3512209,Conchal,47,21,2.429,Citrus,Mosaico de usos
+3512209,Conchal,47,24,0.1105,Citrus,Área Urbanizada
+3512209,Conchal,47,25,0.0017,Citrus,Outras Área não Vegetadas
+3512209,Conchal,47,31,0.0266,Citrus,Aquicultura
+3512209,Conchal,47,33,0.005,Citrus,"Rio, Lago e Oceano"
+3512209,Conchal,47,39,4.8946,Citrus,Soja
+3512209,Conchal,47,41,0.2383,Citrus,Outras Lavouras Temporárias
+3512209,Conchal,47,47,10.2301,Citrus,Citrus
+3512209,Conchal,47,48,0.0756,Citrus,Outras Lavouras Perenes
+3512209,Conchal,48,3,0.0091,Outras Lavouras Perenes,Formação Florestal
+3512209,Conchal,48,4,0.0125,Outras Lavouras Perenes,Formação Savânica
+3512209,Conchal,48,9,0.0008,Outras Lavouras Perenes,Silvicultura
+3512209,Conchal,48,15,0.0042,Outras Lavouras Perenes,Pastagem
+3512209,Conchal,48,20,0.186,Outras Lavouras Perenes,Cana
+3512209,Conchal,48,21,0.3588,Outras Lavouras Perenes,Mosaico de usos
+3512209,Conchal,48,31,0.0008,Outras Lavouras Perenes,Aquicultura
+3512209,Conchal,48,33,0.0058,Outras Lavouras Perenes,"Rio, Lago e Oceano"
+3512209,Conchal,48,39,0.9185,Outras Lavouras Perenes,Soja
+3512209,Conchal,48,41,0.0324,Outras Lavouras Perenes,Outras Lavouras Temporárias
+3512209,Conchal,48,47,0.0091,Outras Lavouras Perenes,Citrus
+3512209,Conchal,48,48,0.3696,Outras Lavouras Perenes,Outras Lavouras Perenes
+3512407,Cordeirópolis,3,3,4.4512,Formação Florestal,Formação Florestal
+3512407,Cordeirópolis,3,9,0.0573,Formação Florestal,Silvicultura
+3512407,Cordeirópolis,3,11,0.0075,Formação Florestal,Campo Alagado e Área Pantanosa
+3512407,Cordeirópolis,3,15,0.0564,Formação Florestal,Pastagem
+3512407,Cordeirópolis,3,20,1.4381,Formação Florestal,Cana
+3512407,Cordeirópolis,3,21,1.9516,Formação Florestal,Mosaico de usos
+3512407,Cordeirópolis,3,24,0.2971,Formação Florestal,Área Urbanizada
+3512407,Cordeirópolis,3,25,0.0199,Formação Florestal,Outras Área não Vegetadas
+3512407,Cordeirópolis,3,30,0.0017,Formação Florestal,Mineração
+3512407,Cordeirópolis,3,33,0.0033,Formação Florestal,"Rio, Lago e Oceano"
+3512407,Cordeirópolis,3,39,0.5925,Formação Florestal,Soja
+3512407,Cordeirópolis,3,41,0.0987,Formação Florestal,Outras Lavouras Temporárias
+3512407,Cordeirópolis,3,48,0.0008,Formação Florestal,Outras Lavouras Perenes
+3512407,Cordeirópolis,9,3,0.0008,Silvicultura,Formação Florestal
+3512407,Cordeirópolis,9,9,0.1087,Silvicultura,Silvicultura
+3512407,Cordeirópolis,9,15,0.0365,Silvicultura,Pastagem
+3512407,Cordeirópolis,9,20,0.0963,Silvicultura,Cana
+3512407,Cordeirópolis,9,21,1.1286,Silvicultura,Mosaico de usos
+3512407,Cordeirópolis,9,24,0.0017,Silvicultura,Área Urbanizada
+3512407,Cordeirópolis,9,25,0.0008,Silvicultura,Outras Área não Vegetadas
+3512407,Cordeirópolis,9,39,0.1104,Silvicultura,Soja
+3512407,Cordeirópolis,11,3,0.0058,Campo Alagado e Área Pantanosa,Formação Florestal
+3512407,Cordeirópolis,11,9,0.0141,Campo Alagado e Área Pantanosa,Silvicultura
+3512407,Cordeirópolis,11,11,0.6929,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3512407,Cordeirópolis,11,15,0.0199,Campo Alagado e Área Pantanosa,Pastagem
+3512407,Cordeirópolis,11,20,0.005,Campo Alagado e Área Pantanosa,Cana
+3512407,Cordeirópolis,11,21,0.4779,Campo Alagado e Área Pantanosa,Mosaico de usos
+3512407,Cordeirópolis,11,24,0.034,Campo Alagado e Área Pantanosa,Área Urbanizada
+3512407,Cordeirópolis,11,25,0.0108,Campo Alagado e Área Pantanosa,Outras Área não Vegetadas
+3512407,Cordeirópolis,11,30,0.01,Campo Alagado e Área Pantanosa,Mineração
+3512407,Cordeirópolis,11,33,0.0456,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3512407,Cordeirópolis,11,39,0.0141,Campo Alagado e Área Pantanosa,Soja
+3512407,Cordeirópolis,11,41,0.0041,Campo Alagado e Área Pantanosa,Outras Lavouras Temporárias
+3512407,Cordeirópolis,12,21,0.0116,Formação Campestre,Mosaico de usos
+3512407,Cordeirópolis,15,3,0.2796,Pastagem,Formação Florestal
+3512407,Cordeirópolis,15,11,0.151,Pastagem,Campo Alagado e Área Pantanosa
+3512407,Cordeirópolis,15,15,0.458,Pastagem,Pastagem
+3512407,Cordeirópolis,15,20,0.278,Pastagem,Cana
+3512407,Cordeirópolis,15,21,1.0065,Pastagem,Mosaico de usos
+3512407,Cordeirópolis,15,24,0.0548,Pastagem,Área Urbanizada
+3512407,Cordeirópolis,15,33,0.0307,Pastagem,"Rio, Lago e Oceano"
+3512407,Cordeirópolis,15,39,0.0564,Pastagem,Soja
+3512407,Cordeirópolis,15,41,0.0332,Pastagem,Outras Lavouras Temporárias
+3512407,Cordeirópolis,15,48,0.0033,Pastagem,Outras Lavouras Perenes
+3512407,Cordeirópolis,20,3,0.4331,Cana,Formação Florestal
+3512407,Cordeirópolis,20,9,0.4695,Cana,Silvicultura
+3512407,Cordeirópolis,20,11,0.1494,Cana,Campo Alagado e Área Pantanosa
+3512407,Cordeirópolis,20,15,0.3368,Cana,Pastagem
+3512407,Cordeirópolis,20,20,61.3142,Cana,Cana
+3512407,Cordeirópolis,20,21,8.5263,Cana,Mosaico de usos
+3512407,Cordeirópolis,20,24,3.5421,Cana,Área Urbanizada
+3512407,Cordeirópolis,20,25,1.8118,Cana,Outras Área não Vegetadas
+3512407,Cordeirópolis,20,30,0.4656,Cana,Mineração
+3512407,Cordeirópolis,20,33,0.2522,Cana,"Rio, Lago e Oceano"
+3512407,Cordeirópolis,20,39,3.763,Cana,Soja
+3512407,Cordeirópolis,20,41,0.1518,Cana,Outras Lavouras Temporárias
+3512407,Cordeirópolis,20,48,0.0091,Cana,Outras Lavouras Perenes
+3512407,Cordeirópolis,21,3,2.2146,Mosaico de usos,Formação Florestal
+3512407,Cordeirópolis,21,9,0.068,Mosaico de usos,Silvicultura
+3512407,Cordeirópolis,21,11,1.0314,Mosaico de usos,Campo Alagado e Área Pantanosa
+3512407,Cordeirópolis,21,15,0.5327,Mosaico de usos,Pastagem
+3512407,Cordeirópolis,21,20,7.7507,Mosaico de usos,Cana
+3512407,Cordeirópolis,21,21,15.0661,Mosaico de usos,Mosaico de usos
+3512407,Cordeirópolis,21,24,3.0054,Mosaico de usos,Área Urbanizada
+3512407,Cordeirópolis,21,25,0.273,Mosaico de usos,Outras Área não Vegetadas
+3512407,Cordeirópolis,21,30,0.1004,Mosaico de usos,Mineração
+3512407,Cordeirópolis,21,33,0.2937,Mosaico de usos,"Rio, Lago e Oceano"
+3512407,Cordeirópolis,21,39,2.3159,Mosaico de usos,Soja
+3512407,Cordeirópolis,21,41,0.3801,Mosaico de usos,Outras Lavouras Temporárias
+3512407,Cordeirópolis,21,48,0.0224,Mosaico de usos,Outras Lavouras Perenes
+3512407,Cordeirópolis,24,20,0.0008,Área Urbanizada,Cana
+3512407,Cordeirópolis,24,21,0.0075,Área Urbanizada,Mosaico de usos
+3512407,Cordeirópolis,24,24,3.8608,Área Urbanizada,Área Urbanizada
+3512407,Cordeirópolis,24,33,0.0008,Área Urbanizada,"Rio, Lago e Oceano"
+3512407,Cordeirópolis,25,3,0.0149,Outras Área não Vegetadas,Formação Florestal
+3512407,Cordeirópolis,25,11,0.0108,Outras Área não Vegetadas,Campo Alagado e Área Pantanosa
+3512407,Cordeirópolis,25,20,0.0041,Outras Área não Vegetadas,Cana
+3512407,Cordeirópolis,25,21,0.0448,Outras Área não Vegetadas,Mosaico de usos
+3512407,Cordeirópolis,25,24,0.0614,Outras Área não Vegetadas,Área Urbanizada
+3512407,Cordeirópolis,25,25,0.0905,Outras Área não Vegetadas,Outras Área não Vegetadas
+3512407,Cordeirópolis,25,30,0.0033,Outras Área não Vegetadas,Mineração
+3512407,Cordeirópolis,25,33,0.0041,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3512407,Cordeirópolis,25,39,0.0008,Outras Área não Vegetadas,Soja
+3512407,Cordeirópolis,30,15,0.0133,Mineração,Pastagem
+3512407,Cordeirópolis,30,21,0.0672,Mineração,Mosaico de usos
+3512407,Cordeirópolis,30,30,0.161,Mineração,Mineração
+3512407,Cordeirópolis,30,33,0.0091,Mineração,"Rio, Lago e Oceano"
+3512407,Cordeirópolis,33,3,0.1701,"Rio, Lago e Oceano",Formação Florestal
+3512407,Cordeirópolis,33,11,0.2971,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3512407,Cordeirópolis,33,15,0.0041,"Rio, Lago e Oceano",Pastagem
+3512407,Cordeirópolis,33,20,0.0232,"Rio, Lago e Oceano",Cana
+3512407,Cordeirópolis,33,21,0.5344,"Rio, Lago e Oceano",Mosaico de usos
+3512407,Cordeirópolis,33,24,0.1344,"Rio, Lago e Oceano",Área Urbanizada
+3512407,Cordeirópolis,33,25,0.0083,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3512407,Cordeirópolis,33,30,0.0075,"Rio, Lago e Oceano",Mineração
+3512407,Cordeirópolis,33,33,1.2265,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3512407,Cordeirópolis,33,39,0.0008,"Rio, Lago e Oceano",Soja
+3512407,Cordeirópolis,39,3,0.0191,Soja,Formação Florestal
+3512407,Cordeirópolis,39,11,0.0058,Soja,Campo Alagado e Área Pantanosa
+3512407,Cordeirópolis,39,15,0.0033,Soja,Pastagem
+3512407,Cordeirópolis,39,20,0.5394,Soja,Cana
+3512407,Cordeirópolis,39,21,0.5245,Soja,Mosaico de usos
+3512407,Cordeirópolis,39,24,0.0315,Soja,Área Urbanizada
+3512407,Cordeirópolis,39,25,0.0191,Soja,Outras Área não Vegetadas
+3512407,Cordeirópolis,39,39,0.1037,Soja,Soja
+3512407,Cordeirópolis,39,41,0.0357,Soja,Outras Lavouras Temporárias
+3512407,Cordeirópolis,39,48,0.0382,Soja,Outras Lavouras Perenes
+3512407,Cordeirópolis,41,3,0.005,Outras Lavouras Temporárias,Formação Florestal
+3512407,Cordeirópolis,41,15,0.0315,Outras Lavouras Temporárias,Pastagem
+3512407,Cordeirópolis,41,20,0.268,Outras Lavouras Temporárias,Cana
+3512407,Cordeirópolis,41,21,0.4962,Outras Lavouras Temporárias,Mosaico de usos
+3512407,Cordeirópolis,41,24,0.1303,Outras Lavouras Temporárias,Área Urbanizada
+3512407,Cordeirópolis,41,25,0.0191,Outras Lavouras Temporárias,Outras Área não Vegetadas
+3512407,Cordeirópolis,41,33,0.0066,Outras Lavouras Temporárias,"Rio, Lago e Oceano"
+3512407,Cordeirópolis,41,39,0.2456,Outras Lavouras Temporárias,Soja
+3512407,Cordeirópolis,41,41,0.0282,Outras Lavouras Temporárias,Outras Lavouras Temporárias
+3512407,Cordeirópolis,47,15,0.005,Citrus,Pastagem
+3512407,Cordeirópolis,47,20,0.1286,Citrus,Cana
+3512407,Cordeirópolis,47,21,0.0158,Citrus,Mosaico de usos
+3512407,Cordeirópolis,47,39,0.01,Citrus,Soja
+3512704,Corumbataí,3,3,42.2618,Formação Florestal,Formação Florestal
+3512704,Corumbataí,3,4,0.0324,Formação Florestal,Formação Savânica
+3512704,Corumbataí,3,9,2.5328,Formação Florestal,Silvicultura
+3512704,Corumbataí,3,11,0.1496,Formação Florestal,Campo Alagado e Área Pantanosa
+3512704,Corumbataí,3,12,0.0008,Formação Florestal,Formação Campestre
+3512704,Corumbataí,3,15,2.7088,Formação Florestal,Pastagem
+3512704,Corumbataí,3,20,6.6187,Formação Florestal,Cana
+3512704,Corumbataí,3,21,4.5028,Formação Florestal,Mosaico de usos
+3512704,Corumbataí,3,24,0.0108,Formação Florestal,Área Urbanizada
+3512704,Corumbataí,3,25,0.0033,Formação Florestal,Outras Área não Vegetadas
+3512704,Corumbataí,3,30,0.0316,Formação Florestal,Mineração
+3512704,Corumbataí,3,33,0.0125,Formação Florestal,"Rio, Lago e Oceano"
+3512704,Corumbataí,3,39,0.0299,Formação Florestal,Soja
+3512704,Corumbataí,3,46,0.0133,Formação Florestal,Café
+3512704,Corumbataí,3,47,0.0266,Formação Florestal,Citrus
+3512704,Corumbataí,3,48,0.0807,Formação Florestal,Outras Lavouras Perenes
+3512704,Corumbataí,4,3,0.015,Formação Savânica,Formação Florestal
+3512704,Corumbataí,4,4,0.0091,Formação Savânica,Formação Savânica
+3512704,Corumbataí,4,11,0.0291,Formação Savânica,Campo Alagado e Área Pantanosa
+3512704,Corumbataí,4,15,0.0266,Formação Savânica,Pastagem
+3512704,Corumbataí,4,20,0.3417,Formação Savânica,Cana
+3512704,Corumbataí,4,21,0.0249,Formação Savânica,Mosaico de usos
+3512704,Corumbataí,4,30,0.01,Formação Savânica,Mineração
+3512704,Corumbataí,4,33,0.0008,Formação Savânica,"Rio, Lago e Oceano"
+3512704,Corumbataí,4,41,0.0067,Formação Savânica,Outras Lavouras Temporárias
+3512704,Corumbataí,4,47,0.0042,Formação Savânica,Citrus
+3512704,Corumbataí,9,3,0.1305,Silvicultura,Formação Florestal
+3512704,Corumbataí,9,9,1.5587,Silvicultura,Silvicultura
+3512704,Corumbataí,9,15,0.069,Silvicultura,Pastagem
+3512704,Corumbataí,9,20,0.409,Silvicultura,Cana
+3512704,Corumbataí,9,21,0.1903,Silvicultura,Mosaico de usos
+3512704,Corumbataí,11,3,0.4114,Campo Alagado e Área Pantanosa,Formação Florestal
+3512704,Corumbataí,11,11,0.4389,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3512704,Corumbataí,11,15,0.7062,Campo Alagado e Área Pantanosa,Pastagem
+3512704,Corumbataí,11,20,0.0349,Campo Alagado e Área Pantanosa,Cana
+3512704,Corumbataí,11,21,0.6389,Campo Alagado e Área Pantanosa,Mosaico de usos
+3512704,Corumbataí,11,33,0.015,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3512704,Corumbataí,12,15,0.0125,Formação Campestre,Pastagem
+3512704,Corumbataí,15,3,8.2386,Pastagem,Formação Florestal
+3512704,Corumbataí,15,4,0.0399,Pastagem,Formação Savânica
+3512704,Corumbataí,15,9,9.8452,Pastagem,Silvicultura
+3512704,Corumbataí,15,11,0.0241,Pastagem,Campo Alagado e Área Pantanosa
+3512704,Corumbataí,15,12,0.0116,Pastagem,Formação Campestre
+3512704,Corumbataí,15,15,85.6446,Pastagem,Pastagem
+3512704,Corumbataí,15,20,20.7106,Pastagem,Cana
+3512704,Corumbataí,15,21,33.3863,Pastagem,Mosaico de usos
+3512704,Corumbataí,15,24,0.5561,Pastagem,Área Urbanizada
+3512704,Corumbataí,15,25,0.1429,Pastagem,Outras Área não Vegetadas
+3512704,Corumbataí,15,30,0.2669,Pastagem,Mineração
+3512704,Corumbataí,15,33,0.0931,Pastagem,"Rio, Lago e Oceano"
+3512704,Corumbataí,15,39,1.1543,Pastagem,Soja
+3512704,Corumbataí,15,41,0.1895,Pastagem,Outras Lavouras Temporárias
+3512704,Corumbataí,15,46,0.0532,Pastagem,Café
+3512704,Corumbataí,15,47,0.5825,Pastagem,Citrus
+3512704,Corumbataí,15,48,0.0757,Pastagem,Outras Lavouras Perenes
+3512704,Corumbataí,20,3,0.1488,Cana,Formação Florestal
+3512704,Corumbataí,20,4,0.0141,Cana,Formação Savânica
+3512704,Corumbataí,20,9,1.1803,Cana,Silvicultura
+3512704,Corumbataí,20,15,2.7681,Cana,Pastagem
+3512704,Corumbataí,20,20,18.6915,Cana,Cana
+3512704,Corumbataí,20,21,3.2042,Cana,Mosaico de usos
+3512704,Corumbataí,20,24,0.0141,Cana,Área Urbanizada
+3512704,Corumbataí,20,25,0.1255,Cana,Outras Área não Vegetadas
+3512704,Corumbataí,20,33,0.118,Cana,"Rio, Lago e Oceano"
+3512704,Corumbataí,20,39,0.0249,Cana,Soja
+3512704,Corumbataí,20,41,0.0091,Cana,Outras Lavouras Temporárias
+3512704,Corumbataí,20,46,0.0624,Cana,Café
+3512704,Corumbataí,20,47,0.0416,Cana,Citrus
+3512704,Corumbataí,21,3,2.9044,Mosaico de usos,Formação Florestal
+3512704,Corumbataí,21,4,0.0008,Mosaico de usos,Formação Savânica
+3512704,Corumbataí,21,9,0.6834,Mosaico de usos,Silvicultura
+3512704,Corumbataí,21,11,0.0665,Mosaico de usos,Campo Alagado e Área Pantanosa
+3512704,Corumbataí,21,15,4.3673,Mosaico de usos,Pastagem
+3512704,Corumbataí,21,20,7.0478,Mosaico de usos,Cana
+3512704,Corumbataí,21,21,7.4664,Mosaico de usos,Mosaico de usos
+3512704,Corumbataí,21,24,0.1787,Mosaico de usos,Área Urbanizada
+3512704,Corumbataí,21,25,0.0482,Mosaico de usos,Outras Área não Vegetadas
+3512704,Corumbataí,21,30,0.1588,Mosaico de usos,Mineração
+3512704,Corumbataí,21,33,0.0407,Mosaico de usos,"Rio, Lago e Oceano"
+3512704,Corumbataí,21,39,0.227,Mosaico de usos,Soja
+3512704,Corumbataí,21,41,0.0681,Mosaico de usos,Outras Lavouras Temporárias
+3512704,Corumbataí,21,46,0.005,Mosaico de usos,Café
+3512704,Corumbataí,21,47,0.0898,Mosaico de usos,Citrus
+3512704,Corumbataí,21,48,0.0133,Mosaico de usos,Outras Lavouras Perenes
+3512704,Corumbataí,24,3,0.0017,Área Urbanizada,Formação Florestal
+3512704,Corumbataí,24,20,0.0017,Área Urbanizada,Cana
+3512704,Corumbataí,24,21,0.0058,Área Urbanizada,Mosaico de usos
+3512704,Corumbataí,24,24,0.6275,Área Urbanizada,Área Urbanizada
+3512704,Corumbataí,25,3,0.0349,Outras Área não Vegetadas,Formação Florestal
+3512704,Corumbataí,25,9,0.0382,Outras Área não Vegetadas,Silvicultura
+3512704,Corumbataí,25,15,0.0657,Outras Área não Vegetadas,Pastagem
+3512704,Corumbataí,25,20,1.2174,Outras Área não Vegetadas,Cana
+3512704,Corumbataí,25,21,0.2311,Outras Área não Vegetadas,Mosaico de usos
+3512704,Corumbataí,25,24,0.0133,Outras Área não Vegetadas,Área Urbanizada
+3512704,Corumbataí,25,30,0.0383,Outras Área não Vegetadas,Mineração
+3512704,Corumbataí,25,47,0.0175,Outras Área não Vegetadas,Citrus
+3512704,Corumbataí,33,3,0.054,"Rio, Lago e Oceano",Formação Florestal
+3512704,Corumbataí,33,11,0.0108,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3512704,Corumbataí,33,15,0.0233,"Rio, Lago e Oceano",Pastagem
+3512704,Corumbataí,33,21,0.4088,"Rio, Lago e Oceano",Mosaico de usos
+3512704,Corumbataí,33,24,0.0249,"Rio, Lago e Oceano",Área Urbanizada
+3512704,Corumbataí,33,25,0.0399,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3512704,Corumbataí,33,33,0.1463,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3512704,Corumbataí,39,15,0.0524,Soja,Pastagem
+3512704,Corumbataí,39,20,0.3326,Soja,Cana
+3512704,Corumbataí,39,21,0.1638,Soja,Mosaico de usos
+3512704,Corumbataí,39,39,0.054,Soja,Soja
+3512704,Corumbataí,39,47,0.0042,Soja,Citrus
+3512704,Corumbataí,41,15,0.0108,Outras Lavouras Temporárias,Pastagem
+3512704,Corumbataí,41,20,0.2619,Outras Lavouras Temporárias,Cana
+3512704,Corumbataí,41,21,0.0399,Outras Lavouras Temporárias,Mosaico de usos
+3512704,Corumbataí,41,39,0.0241,Outras Lavouras Temporárias,Soja
+3512704,Corumbataí,41,47,0.0042,Outras Lavouras Temporárias,Citrus
+3512704,Corumbataí,46,3,0.0133,Café,Formação Florestal
+3512704,Corumbataí,46,46,0.0391,Café,Café
+3512704,Corumbataí,47,20,0.3917,Citrus,Cana
+3512704,Corumbataí,47,30,0.0308,Citrus,Mineração
+3512704,Corumbataí,47,47,0.0108,Citrus,Citrus
+3512704,Corumbataí,48,3,0.0017,Outras Lavouras Perenes,Formação Florestal
+3512704,Corumbataí,48,46,0.0042,Outras Lavouras Perenes,Café
+3512704,Corumbataí,48,48,0.0291,Outras Lavouras Perenes,Outras Lavouras Perenes
+3514908,Elias Fausto,3,3,4.9852,Formação Florestal,Formação Florestal
+3514908,Elias Fausto,3,9,3.1624,Formação Florestal,Silvicultura
+3514908,Elias Fausto,3,11,0.0116,Formação Florestal,Campo Alagado e Área Pantanosa
+3514908,Elias Fausto,3,15,0.2057,Formação Florestal,Pastagem
+3514908,Elias Fausto,3,20,0.1082,Formação Florestal,Cana
+3514908,Elias Fausto,3,21,1.3044,Formação Florestal,Mosaico de usos
+3514908,Elias Fausto,3,24,0.0008,Formação Florestal,Área Urbanizada
+3514908,Elias Fausto,9,3,0.0008,Silvicultura,Formação Florestal
+3514908,Elias Fausto,9,9,0.4047,Silvicultura,Silvicultura
+3514908,Elias Fausto,9,15,0.0322,Silvicultura,Pastagem
+3514908,Elias Fausto,11,3,0.0083,Campo Alagado e Área Pantanosa,Formação Florestal
+3514908,Elias Fausto,11,11,0.3569,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3514908,Elias Fausto,11,15,0.1421,Campo Alagado e Área Pantanosa,Pastagem
+3514908,Elias Fausto,11,20,0.0025,Campo Alagado e Área Pantanosa,Cana
+3514908,Elias Fausto,11,21,0.2008,Campo Alagado e Área Pantanosa,Mosaico de usos
+3514908,Elias Fausto,11,25,0.0008,Campo Alagado e Área Pantanosa,Outras Área não Vegetadas
+3514908,Elias Fausto,11,33,0.0116,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3514908,Elias Fausto,12,11,0.0041,Formação Campestre,Campo Alagado e Área Pantanosa
+3514908,Elias Fausto,12,15,0.0454,Formação Campestre,Pastagem
+3514908,Elias Fausto,12,20,0.1511,Formação Campestre,Cana
+3514908,Elias Fausto,12,21,0.0537,Formação Campestre,Mosaico de usos
+3514908,Elias Fausto,12,39,0.0107,Formação Campestre,Soja
+3514908,Elias Fausto,15,3,0.3247,Pastagem,Formação Florestal
+3514908,Elias Fausto,15,9,0.6998,Pastagem,Silvicultura
+3514908,Elias Fausto,15,11,0.3825,Pastagem,Campo Alagado e Área Pantanosa
+3514908,Elias Fausto,15,12,0.0388,Pastagem,Formação Campestre
+3514908,Elias Fausto,15,15,29.4169,Pastagem,Pastagem
+3514908,Elias Fausto,15,20,11.2881,Pastagem,Cana
+3514908,Elias Fausto,15,21,18.6974,Pastagem,Mosaico de usos
+3514908,Elias Fausto,15,24,2.0047,Pastagem,Área Urbanizada
+3514908,Elias Fausto,15,25,0.1397,Pastagem,Outras Área não Vegetadas
+3514908,Elias Fausto,15,33,0.2413,Pastagem,"Rio, Lago e Oceano"
+3514908,Elias Fausto,15,39,2.7899,Pastagem,Soja
+3514908,Elias Fausto,15,41,0.3487,Pastagem,Outras Lavouras Temporárias
+3514908,Elias Fausto,20,3,0.1058,Cana,Formação Florestal
+3514908,Elias Fausto,20,9,0.3661,Cana,Silvicultura
+3514908,Elias Fausto,20,11,0.2024,Cana,Campo Alagado e Área Pantanosa
+3514908,Elias Fausto,20,12,0.0231,Cana,Formação Campestre
+3514908,Elias Fausto,20,15,9.8852,Cana,Pastagem
+3514908,Elias Fausto,20,20,57.6705,Cana,Cana
+3514908,Elias Fausto,20,21,12.5227,Cana,Mosaico de usos
+3514908,Elias Fausto,20,24,1.3185,Cana,Área Urbanizada
+3514908,Elias Fausto,20,25,0.2165,Cana,Outras Área não Vegetadas
+3514908,Elias Fausto,20,33,0.0826,Cana,"Rio, Lago e Oceano"
+3514908,Elias Fausto,20,39,2.6777,Cana,Soja
+3514908,Elias Fausto,20,41,1.012,Cana,Outras Lavouras Temporárias
+3514908,Elias Fausto,20,48,0.0587,Cana,Outras Lavouras Perenes
+3514908,Elias Fausto,21,3,1.9193,Mosaico de usos,Formação Florestal
+3514908,Elias Fausto,21,9,0.5955,Mosaico de usos,Silvicultura
+3514908,Elias Fausto,21,11,1.5754,Mosaico de usos,Campo Alagado e Área Pantanosa
+3514908,Elias Fausto,21,12,0.0281,Mosaico de usos,Formação Campestre
+3514908,Elias Fausto,21,15,3.5016,Mosaico de usos,Pastagem
+3514908,Elias Fausto,21,20,4.1547,Mosaico de usos,Cana
+3514908,Elias Fausto,21,21,16.5651,Mosaico de usos,Mosaico de usos
+3514908,Elias Fausto,21,24,0.7652,Mosaico de usos,Área Urbanizada
+3514908,Elias Fausto,21,25,0.0777,Mosaico de usos,Outras Área não Vegetadas
+3514908,Elias Fausto,21,33,0.2264,Mosaico de usos,"Rio, Lago e Oceano"
+3514908,Elias Fausto,21,39,0.7296,Mosaico de usos,Soja
+3514908,Elias Fausto,21,41,0.314,Mosaico de usos,Outras Lavouras Temporárias
+3514908,Elias Fausto,24,15,0.0025,Área Urbanizada,Pastagem
+3514908,Elias Fausto,24,21,0.0033,Área Urbanizada,Mosaico de usos
+3514908,Elias Fausto,24,24,1.413,Área Urbanizada,Área Urbanizada
+3514908,Elias Fausto,25,9,0.0025,Outras Área não Vegetadas,Silvicultura
+3514908,Elias Fausto,25,15,0.0273,Outras Área não Vegetadas,Pastagem
+3514908,Elias Fausto,25,20,0.0074,Outras Área não Vegetadas,Cana
+3514908,Elias Fausto,25,21,0.2288,Outras Área não Vegetadas,Mosaico de usos
+3514908,Elias Fausto,25,24,0.0008,Outras Área não Vegetadas,Área Urbanizada
+3514908,Elias Fausto,33,3,0.0297,"Rio, Lago e Oceano",Formação Florestal
+3514908,Elias Fausto,33,11,0.2363,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3514908,Elias Fausto,33,15,0.1281,"Rio, Lago e Oceano",Pastagem
+3514908,Elias Fausto,33,20,0.0149,"Rio, Lago e Oceano",Cana
+3514908,Elias Fausto,33,21,0.8055,"Rio, Lago e Oceano",Mosaico de usos
+3514908,Elias Fausto,33,24,0.0083,"Rio, Lago e Oceano",Área Urbanizada
+3514908,Elias Fausto,33,33,1.1888,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3514908,Elias Fausto,33,39,0.0017,"Rio, Lago e Oceano",Soja
+3514908,Elias Fausto,39,9,0.0066,Soja,Silvicultura
+3514908,Elias Fausto,39,15,0.6338,Soja,Pastagem
+3514908,Elias Fausto,39,20,0.4892,Soja,Cana
+3514908,Elias Fausto,39,21,0.3264,Soja,Mosaico de usos
+3514908,Elias Fausto,39,24,0.2504,Soja,Área Urbanizada
+3514908,Elias Fausto,39,33,0.0124,Soja,"Rio, Lago e Oceano"
+3514908,Elias Fausto,39,39,1.3617,Soja,Soja
+3514908,Elias Fausto,39,41,0.2636,Soja,Outras Lavouras Temporárias
+3514908,Elias Fausto,41,15,0.3082,Outras Lavouras Temporárias,Pastagem
+3514908,Elias Fausto,41,20,0.5544,Outras Lavouras Temporárias,Cana
+3514908,Elias Fausto,41,21,0.0669,Outras Lavouras Temporárias,Mosaico de usos
+3514908,Elias Fausto,41,24,0.0215,Outras Lavouras Temporárias,Área Urbanizada
+3514908,Elias Fausto,41,33,0.0033,Outras Lavouras Temporárias,"Rio, Lago e Oceano"
+3514908,Elias Fausto,41,39,0.2396,Outras Lavouras Temporárias,Soja
+3514908,Elias Fausto,41,41,0.038,Outras Lavouras Temporárias,Outras Lavouras Temporárias
+3521101,Ipeúna,3,3,32.4873,Formação Florestal,Formação Florestal
+3521101,Ipeúna,3,4,0.0008,Formação Florestal,Formação Savânica
+3521101,Ipeúna,3,9,0.2971,Formação Florestal,Silvicultura
+3521101,Ipeúna,3,11,0.0656,Formação Florestal,Campo Alagado e Área Pantanosa
+3521101,Ipeúna,3,15,4.7375,Formação Florestal,Pastagem
+3521101,Ipeúna,3,20,1.5421,Formação Florestal,Cana
+3521101,Ipeúna,3,21,3.0981,Formação Florestal,Mosaico de usos
+3521101,Ipeúna,3,24,0.0789,Formação Florestal,Área Urbanizada
+3521101,Ipeúna,3,25,0.0033,Formação Florestal,Outras Área não Vegetadas
+3521101,Ipeúna,3,30,0.0141,Formação Florestal,Mineração
+3521101,Ipeúna,3,33,0.0008,Formação Florestal,"Rio, Lago e Oceano"
+3521101,Ipeúna,3,39,0.0498,Formação Florestal,Soja
+3521101,Ipeúna,3,46,0.3611,Formação Florestal,Café
+3521101,Ipeúna,4,3,0.0166,Formação Savânica,Formação Florestal
+3521101,Ipeúna,4,15,0.0216,Formação Savânica,Pastagem
+3521101,Ipeúna,4,21,0.0033,Formação Savânica,Mosaico de usos
+3521101,Ipeúna,9,3,0.1054,Silvicultura,Formação Florestal
+3521101,Ipeúna,9,9,0.0498,Silvicultura,Silvicultura
+3521101,Ipeúna,9,15,0.2781,Silvicultura,Pastagem
+3521101,Ipeúna,9,20,0.1096,Silvicultura,Cana
+3521101,Ipeúna,9,21,0.2939,Silvicultura,Mosaico de usos
+3521101,Ipeúna,9,24,0.0191,Silvicultura,Área Urbanizada
+3521101,Ipeúna,11,3,0.3395,Campo Alagado e Área Pantanosa,Formação Florestal
+3521101,Ipeúna,11,11,0.1054,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3521101,Ipeúna,11,15,0.5413,Campo Alagado e Área Pantanosa,Pastagem
+3521101,Ipeúna,11,20,0.0996,Campo Alagado e Área Pantanosa,Cana
+3521101,Ipeúna,11,21,0.6126,Campo Alagado e Área Pantanosa,Mosaico de usos
+3521101,Ipeúna,11,33,0.0041,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3521101,Ipeúna,15,3,2.3486,Pastagem,Formação Florestal
+3521101,Ipeúna,15,4,0.0573,Pastagem,Formação Savânica
+3521101,Ipeúna,15,9,1.8754,Pastagem,Silvicultura
+3521101,Ipeúna,15,11,0.049,Pastagem,Campo Alagado e Área Pantanosa
+3521101,Ipeúna,15,15,42.3962,Pastagem,Pastagem
+3521101,Ipeúna,15,20,16.2994,Pastagem,Cana
+3521101,Ipeúna,15,21,13.3608,Pastagem,Mosaico de usos
+3521101,Ipeúna,15,24,0.7205,Pastagem,Área Urbanizada
+3521101,Ipeúna,15,25,0.1129,Pastagem,Outras Área não Vegetadas
+3521101,Ipeúna,15,30,0.083,Pastagem,Mineração
+3521101,Ipeúna,15,33,0.0672,Pastagem,"Rio, Lago e Oceano"
+3521101,Ipeúna,15,39,0.0133,Pastagem,Soja
+3521101,Ipeúna,15,41,0.0116,Pastagem,Outras Lavouras Temporárias
+3521101,Ipeúna,15,46,0.0008,Pastagem,Café
+3521101,Ipeúna,15,48,0.0141,Pastagem,Outras Lavouras Perenes
+3521101,Ipeúna,20,3,0.1179,Cana,Formação Florestal
+3521101,Ipeúna,20,4,0.0257,Cana,Formação Savânica
+3521101,Ipeúna,20,9,0.2233,Cana,Silvicultura
+3521101,Ipeúna,20,11,0.0108,Cana,Campo Alagado e Área Pantanosa
+3521101,Ipeúna,20,15,4.1538,Cana,Pastagem
+3521101,Ipeúna,20,20,43.0911,Cana,Cana
+3521101,Ipeúna,20,21,3.4146,Cana,Mosaico de usos
+3521101,Ipeúna,20,24,0.8243,Cana,Área Urbanizada
+3521101,Ipeúna,20,25,0.2465,Cana,Outras Área não Vegetadas
+3521101,Ipeúna,20,30,0.4906,Cana,Mineração
+3521101,Ipeúna,20,33,0.0091,Cana,"Rio, Lago e Oceano"
+3521101,Ipeúna,20,39,0.6458,Cana,Soja
+3521101,Ipeúna,20,41,0.2723,Cana,Outras Lavouras Temporárias
+3521101,Ipeúna,21,3,0.7685,Mosaico de usos,Formação Florestal
+3521101,Ipeúna,21,4,0.0066,Mosaico de usos,Formação Savânica
+3521101,Ipeúna,21,9,0.0124,Mosaico de usos,Silvicultura
+3521101,Ipeúna,21,11,0.0423,Mosaico de usos,Campo Alagado e Área Pantanosa
+3521101,Ipeúna,21,15,0.9795,Mosaico de usos,Pastagem
+3521101,Ipeúna,21,20,4.2266,Mosaico de usos,Cana
+3521101,Ipeúna,21,21,4.6292,Mosaico de usos,Mosaico de usos
+3521101,Ipeúna,21,24,0.1378,Mosaico de usos,Área Urbanizada
+3521101,Ipeúna,21,25,0.0174,Mosaico de usos,Outras Área não Vegetadas
+3521101,Ipeúna,21,30,0.0017,Mosaico de usos,Mineração
+3521101,Ipeúna,21,33,0.0124,Mosaico de usos,"Rio, Lago e Oceano"
+3521101,Ipeúna,21,39,0.1411,Mosaico de usos,Soja
+3521101,Ipeúna,21,41,0.0008,Mosaico de usos,Outras Lavouras Temporárias
+3521101,Ipeúna,24,15,0.0025,Área Urbanizada,Pastagem
+3521101,Ipeúna,24,21,0.0257,Área Urbanizada,Mosaico de usos
+3521101,Ipeúna,24,24,1.3655,Área Urbanizada,Área Urbanizada
+3521101,Ipeúna,25,3,0.078,Outras Área não Vegetadas,Formação Florestal
+3521101,Ipeúna,25,15,0.0224,Outras Área não Vegetadas,Pastagem
+3521101,Ipeúna,25,20,0.205,Outras Área não Vegetadas,Cana
+3521101,Ipeúna,25,21,0.3511,Outras Área não Vegetadas,Mosaico de usos
+3521101,Ipeúna,25,24,0.1444,Outras Área não Vegetadas,Área Urbanizada
+3521101,Ipeúna,25,25,0.0465,Outras Área não Vegetadas,Outras Área não Vegetadas
+3521101,Ipeúna,33,3,0.0332,"Rio, Lago e Oceano",Formação Florestal
+3521101,Ipeúna,33,11,0.0108,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3521101,Ipeúna,33,15,0.0257,"Rio, Lago e Oceano",Pastagem
+3521101,Ipeúna,33,20,0.0041,"Rio, Lago e Oceano",Cana
+3521101,Ipeúna,33,21,0.2058,"Rio, Lago e Oceano",Mosaico de usos
+3521101,Ipeúna,33,24,0.0083,"Rio, Lago e Oceano",Área Urbanizada
+3521101,Ipeúna,33,33,0.3453,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3521101,Ipeúna,39,15,0.0282,Soja,Pastagem
+3521101,Ipeúna,39,20,0.2714,Soja,Cana
+3521101,Ipeúna,39,21,0.0017,Soja,Mosaico de usos
+3521101,Ipeúna,41,20,0.039,Outras Lavouras Temporárias,Cana
+3521101,Ipeúna,46,46,0.0158,Café,Café
+3521101,Ipeúna,47,20,0.0133,Citrus,Cana
+3521408,Iracemápolis,3,3,3.9416,Formação Florestal,Formação Florestal
+3521408,Iracemápolis,3,11,0.0083,Formação Florestal,Campo Alagado e Área Pantanosa
+3521408,Iracemápolis,3,15,0.0025,Formação Florestal,Pastagem
+3521408,Iracemápolis,3,20,0.2173,Formação Florestal,Cana
+3521408,Iracemápolis,3,21,0.8256,Formação Florestal,Mosaico de usos
+3521408,Iracemápolis,3,39,0.0854,Formação Florestal,Soja
+3521408,Iracemápolis,11,3,0.0008,Campo Alagado e Área Pantanosa,Formação Florestal
+3521408,Iracemápolis,11,11,0.4029,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3521408,Iracemápolis,11,20,0.01,Campo Alagado e Área Pantanosa,Cana
+3521408,Iracemápolis,11,21,0.1393,Campo Alagado e Área Pantanosa,Mosaico de usos
+3521408,Iracemápolis,11,33,0.0423,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3521408,Iracemápolis,15,3,0.4378,Pastagem,Formação Florestal
+3521408,Iracemápolis,15,11,0.0481,Pastagem,Campo Alagado e Área Pantanosa
+3521408,Iracemápolis,15,15,0.3688,Pastagem,Pastagem
+3521408,Iracemápolis,15,20,0.3084,Pastagem,Cana
+3521408,Iracemápolis,15,21,2.6,Pastagem,Mosaico de usos
+3521408,Iracemápolis,20,3,1.631,Cana,Formação Florestal
+3521408,Iracemápolis,20,11,0.2139,Cana,Campo Alagado e Área Pantanosa
+3521408,Iracemápolis,20,15,0.4352,Cana,Pastagem
+3521408,Iracemápolis,20,20,63.1867,Cana,Cana
+3521408,Iracemápolis,20,21,9.5658,Cana,Mosaico de usos
+3521408,Iracemápolis,20,24,4.0158,Cana,Área Urbanizada
+3521408,Iracemápolis,20,25,0.3605,Cana,Outras Área não Vegetadas
+3521408,Iracemápolis,20,30,0.0265,Cana,Mineração
+3521408,Iracemápolis,20,33,0.2006,Cana,"Rio, Lago e Oceano"
+3521408,Iracemápolis,20,39,1.803,Cana,Soja
+3521408,Iracemápolis,20,41,0.0862,Cana,Outras Lavouras Temporárias
+3521408,Iracemápolis,20,48,0.0713,Cana,Outras Lavouras Perenes
+3521408,Iracemápolis,21,3,2.5638,Mosaico de usos,Formação Florestal
+3521408,Iracemápolis,21,11,0.864,Mosaico de usos,Campo Alagado e Área Pantanosa
+3521408,Iracemápolis,21,15,0.2263,Mosaico de usos,Pastagem
+3521408,Iracemápolis,21,20,3.576,Mosaico de usos,Cana
+3521408,Iracemápolis,21,21,9.2414,Mosaico de usos,Mosaico de usos
+3521408,Iracemápolis,21,24,0.8357,Mosaico de usos,Área Urbanizada
+3521408,Iracemápolis,21,25,0.2777,Mosaico de usos,Outras Área não Vegetadas
+3521408,Iracemápolis,21,30,0.0307,Mosaico de usos,Mineração
+3521408,Iracemápolis,21,33,0.107,Mosaico de usos,"Rio, Lago e Oceano"
+3521408,Iracemápolis,21,39,0.3175,Mosaico de usos,Soja
+3521408,Iracemápolis,21,41,0.0041,Mosaico de usos,Outras Lavouras Temporárias
+3521408,Iracemápolis,24,21,0.005,Área Urbanizada,Mosaico de usos
+3521408,Iracemápolis,24,24,2.4252,Área Urbanizada,Área Urbanizada
+3521408,Iracemápolis,25,20,0.0033,Outras Área não Vegetadas,Cana
+3521408,Iracemápolis,25,21,0.0431,Outras Área não Vegetadas,Mosaico de usos
+3521408,Iracemápolis,25,24,0.0008,Outras Área não Vegetadas,Área Urbanizada
+3521408,Iracemápolis,25,25,0.1211,Outras Área não Vegetadas,Outras Área não Vegetadas
+3521408,Iracemápolis,25,33,0.0041,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3521408,Iracemápolis,30,21,0.0083,Mineração,Mosaico de usos
+3521408,Iracemápolis,30,30,0.1037,Mineração,Mineração
+3521408,Iracemápolis,33,3,0.2968,"Rio, Lago e Oceano",Formação Florestal
+3521408,Iracemápolis,33,11,0.1418,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3521408,Iracemápolis,33,15,0.0033,"Rio, Lago e Oceano",Pastagem
+3521408,Iracemápolis,33,20,0.0124,"Rio, Lago e Oceano",Cana
+3521408,Iracemápolis,33,21,0.3059,"Rio, Lago e Oceano",Mosaico de usos
+3521408,Iracemápolis,33,24,0.0298,"Rio, Lago e Oceano",Área Urbanizada
+3521408,Iracemápolis,33,25,0.0174,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3521408,Iracemápolis,33,33,1.9342,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3521408,Iracemápolis,39,3,0.0058,Soja,Formação Florestal
+3521408,Iracemápolis,39,9,0.0224,Soja,Silvicultura
+3521408,Iracemápolis,39,15,0.0008,Soja,Pastagem
+3521408,Iracemápolis,39,20,0.121,Soja,Cana
+3521408,Iracemápolis,39,21,0.0912,Soja,Mosaico de usos
+3521408,Iracemápolis,41,3,0.0083,Outras Lavouras Temporárias,Formação Florestal
+3521408,Iracemápolis,41,15,0.0099,Outras Lavouras Temporárias,Pastagem
+3521408,Iracemápolis,41,20,0.2745,Outras Lavouras Temporárias,Cana
+3521408,Iracemápolis,41,21,0.1957,Outras Lavouras Temporárias,Mosaico de usos
+3521408,Iracemápolis,41,24,0.0224,Outras Lavouras Temporárias,Área Urbanizada
+3521408,Iracemápolis,41,33,0.0738,Outras Lavouras Temporárias,"Rio, Lago e Oceano"
+3521408,Iracemápolis,41,39,0.0414,Outras Lavouras Temporárias,Soja
+3526704,Leme,3,3,19.3188,Formação Florestal,Formação Florestal
+3526704,Leme,3,4,0.005,Formação Florestal,Formação Savânica
+3526704,Leme,3,9,0.0449,Formação Florestal,Silvicultura
+3526704,Leme,3,11,0.0632,Formação Florestal,Campo Alagado e Área Pantanosa
+3526704,Leme,3,12,0.0058,Formação Florestal,Formação Campestre
+3526704,Leme,3,15,0.2155,Formação Florestal,Pastagem
+3526704,Leme,3,20,7.1405,Formação Florestal,Cana
+3526704,Leme,3,21,3.9402,Formação Florestal,Mosaico de usos
+3526704,Leme,3,24,0.0657,Formação Florestal,Área Urbanizada
+3526704,Leme,3,25,0.0091,Formação Florestal,Outras Área não Vegetadas
+3526704,Leme,3,30,0.005,Formação Florestal,Mineração
+3526704,Leme,3,33,0.0324,Formação Florestal,"Rio, Lago e Oceano"
+3526704,Leme,3,39,2.6477,Formação Florestal,Soja
+3526704,Leme,3,41,0.4018,Formação Florestal,Outras Lavouras Temporárias
+3526704,Leme,3,46,0.0607,Formação Florestal,Café
+3526704,Leme,3,47,1.7516,Formação Florestal,Citrus
+3526704,Leme,3,48,0.3127,Formação Florestal,Outras Lavouras Perenes
+3526704,Leme,4,3,0.0449,Formação Savânica,Formação Florestal
+3526704,Leme,4,4,0.0216,Formação Savânica,Formação Savânica
+3526704,Leme,4,12,0.0341,Formação Savânica,Formação Campestre
+3526704,Leme,4,15,0.0183,Formação Savânica,Pastagem
+3526704,Leme,4,20,1.1113,Formação Savânica,Cana
+3526704,Leme,4,21,0.1772,Formação Savânica,Mosaico de usos
+3526704,Leme,4,39,0.277,Formação Savânica,Soja
+3526704,Leme,4,41,0.0358,Formação Savânica,Outras Lavouras Temporárias
+3526704,Leme,4,47,0.361,Formação Savânica,Citrus
+3526704,Leme,4,48,0.0599,Formação Savânica,Outras Lavouras Perenes
+3526704,Leme,9,3,0.0075,Silvicultura,Formação Florestal
+3526704,Leme,9,20,0.1597,Silvicultura,Cana
+3526704,Leme,9,21,0.0782,Silvicultura,Mosaico de usos
+3526704,Leme,11,3,1.083,Campo Alagado e Área Pantanosa,Formação Florestal
+3526704,Leme,11,4,0.0674,Campo Alagado e Área Pantanosa,Formação Savânica
+3526704,Leme,11,11,1.3348,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3526704,Leme,11,12,0.0208,Campo Alagado e Área Pantanosa,Formação Campestre
+3526704,Leme,11,15,0.1422,Campo Alagado e Área Pantanosa,Pastagem
+3526704,Leme,11,20,0.7304,Campo Alagado e Área Pantanosa,Cana
+3526704,Leme,11,21,0.8817,Campo Alagado e Área Pantanosa,Mosaico de usos
+3526704,Leme,11,24,0.0299,Campo Alagado e Área Pantanosa,Área Urbanizada
+3526704,Leme,11,33,0.0474,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3526704,Leme,11,39,0.0175,Campo Alagado e Área Pantanosa,Soja
+3526704,Leme,11,41,0.02,Campo Alagado e Área Pantanosa,Outras Lavouras Temporárias
+3526704,Leme,11,47,0.0749,Campo Alagado e Área Pantanosa,Citrus
+3526704,Leme,11,48,0.0083,Campo Alagado e Área Pantanosa,Outras Lavouras Perenes
+3526704,Leme,12,3,0.005,Formação Campestre,Formação Florestal
+3526704,Leme,12,4,0.1098,Formação Campestre,Formação Savânica
+3526704,Leme,12,11,0.0017,Formação Campestre,Campo Alagado e Área Pantanosa
+3526704,Leme,12,12,0.2329,Formação Campestre,Formação Campestre
+3526704,Leme,12,15,0.0025,Formação Campestre,Pastagem
+3526704,Leme,12,20,0.0241,Formação Campestre,Cana
+3526704,Leme,12,21,0.0382,Formação Campestre,Mosaico de usos
+3526704,Leme,15,3,2.7646,Pastagem,Formação Florestal
+3526704,Leme,15,4,0.1381,Pastagem,Formação Savânica
+3526704,Leme,15,9,1.8024,Pastagem,Silvicultura
+3526704,Leme,15,11,0.1547,Pastagem,Campo Alagado e Área Pantanosa
+3526704,Leme,15,15,5.2045,Pastagem,Pastagem
+3526704,Leme,15,20,11.1897,Pastagem,Cana
+3526704,Leme,15,21,14.9712,Pastagem,Mosaico de usos
+3526704,Leme,15,24,2.9803,Pastagem,Área Urbanizada
+3526704,Leme,15,25,0.0416,Pastagem,Outras Área não Vegetadas
+3526704,Leme,15,30,0.2835,Pastagem,Mineração
+3526704,Leme,15,33,0.1281,Pastagem,"Rio, Lago e Oceano"
+3526704,Leme,15,39,3.2772,Pastagem,Soja
+3526704,Leme,15,41,0.138,Pastagem,Outras Lavouras Temporárias
+3526704,Leme,15,46,0.1521,Pastagem,Café
+3526704,Leme,15,47,1.2157,Pastagem,Citrus
+3526704,Leme,15,48,0.2054,Pastagem,Outras Lavouras Perenes
+3526704,Leme,20,3,2.6965,Cana,Formação Florestal
+3526704,Leme,20,4,0.0108,Cana,Formação Savânica
+3526704,Leme,20,9,1.2653,Cana,Silvicultura
+3526704,Leme,20,11,0.5854,Cana,Campo Alagado e Área Pantanosa
+3526704,Leme,20,12,0.0033,Cana,Formação Campestre
+3526704,Leme,20,15,0.7682,Cana,Pastagem
+3526704,Leme,20,20,123.7983,Cana,Cana
+3526704,Leme,20,21,14.9178,Cana,Mosaico de usos
+3526704,Leme,20,24,4.549,Cana,Área Urbanizada
+3526704,Leme,20,25,0.2337,Cana,Outras Área não Vegetadas
+3526704,Leme,20,30,0.0291,Cana,Mineração
+3526704,Leme,20,33,0.2727,Cana,"Rio, Lago e Oceano"
+3526704,Leme,20,39,7.88,Cana,Soja
+3526704,Leme,20,41,0.2037,Cana,Outras Lavouras Temporárias
+3526704,Leme,20,46,0.0058,Cana,Café
+3526704,Leme,20,47,0.1114,Cana,Citrus
+3526704,Leme,21,3,4.8662,Mosaico de usos,Formação Florestal
+3526704,Leme,21,4,0.0166,Mosaico de usos,Formação Savânica
+3526704,Leme,21,9,0.8413,Mosaico de usos,Silvicultura
+3526704,Leme,21,11,0.804,Mosaico de usos,Campo Alagado e Área Pantanosa
+3526704,Leme,21,12,0.0948,Mosaico de usos,Formação Campestre
+3526704,Leme,21,15,1.1775,Mosaico de usos,Pastagem
+3526704,Leme,21,20,24.6759,Mosaico de usos,Cana
+3526704,Leme,21,21,24.3396,Mosaico de usos,Mosaico de usos
+3526704,Leme,21,24,3.736,Mosaico de usos,Área Urbanizada
+3526704,Leme,21,25,0.133,Mosaico de usos,Outras Área não Vegetadas
+3526704,Leme,21,30,0.0432,Mosaico de usos,Mineração
+3526704,Leme,21,33,0.2536,Mosaico de usos,"Rio, Lago e Oceano"
+3526704,Leme,21,39,8.2575,Mosaico de usos,Soja
+3526704,Leme,21,41,0.549,Mosaico de usos,Outras Lavouras Temporárias
+3526704,Leme,21,46,0.2801,Mosaico de usos,Café
+3526704,Leme,21,47,0.7177,Mosaico de usos,Citrus
+3526704,Leme,21,48,0.1089,Mosaico de usos,Outras Lavouras Perenes
+3526704,Leme,24,21,0.0125,Área Urbanizada,Mosaico de usos
+3526704,Leme,24,24,13.2143,Área Urbanizada,Área Urbanizada
+3526704,Leme,24,33,0.0017,Área Urbanizada,"Rio, Lago e Oceano"
+3526704,Leme,24,39,0.0017,Área Urbanizada,Soja
+3526704,Leme,25,3,0.0316,Outras Área não Vegetadas,Formação Florestal
+3526704,Leme,25,4,0.0017,Outras Área não Vegetadas,Formação Savânica
+3526704,Leme,25,20,0.138,Outras Área não Vegetadas,Cana
+3526704,Leme,25,21,0.2753,Outras Área não Vegetadas,Mosaico de usos
+3526704,Leme,25,24,0.0474,Outras Área não Vegetadas,Área Urbanizada
+3526704,Leme,25,25,0.0449,Outras Área não Vegetadas,Outras Área não Vegetadas
+3526704,Leme,25,30,0.0175,Outras Área não Vegetadas,Mineração
+3526704,Leme,25,33,0.0008,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3526704,Leme,25,39,0.0166,Outras Área não Vegetadas,Soja
+3526704,Leme,25,47,0.0017,Outras Área não Vegetadas,Citrus
+3526704,Leme,33,3,0.5913,"Rio, Lago e Oceano",Formação Florestal
+3526704,Leme,33,11,0.0432,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3526704,Leme,33,12,0.1572,"Rio, Lago e Oceano",Formação Campestre
+3526704,Leme,33,15,0.0067,"Rio, Lago e Oceano",Pastagem
+3526704,Leme,33,20,0.0283,"Rio, Lago e Oceano",Cana
+3526704,Leme,33,21,1.3057,"Rio, Lago e Oceano",Mosaico de usos
+3526704,Leme,33,24,0.0358,"Rio, Lago e Oceano",Área Urbanizada
+3526704,Leme,33,25,0.0067,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3526704,Leme,33,33,3.0277,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3526704,Leme,33,39,0.0025,"Rio, Lago e Oceano",Soja
+3526704,Leme,33,47,0.0091,"Rio, Lago e Oceano",Citrus
+3526704,Leme,33,48,0.0025,"Rio, Lago e Oceano",Outras Lavouras Perenes
+3526704,Leme,39,3,0.1297,Soja,Formação Florestal
+3526704,Leme,39,9,0.0108,Soja,Silvicultura
+3526704,Leme,39,15,0.1289,Soja,Pastagem
+3526704,Leme,39,20,19.2704,Soja,Cana
+3526704,Leme,39,21,4.8733,Soja,Mosaico de usos
+3526704,Leme,39,24,2.269,Soja,Área Urbanizada
+3526704,Leme,39,25,0.1072,Soja,Outras Área não Vegetadas
+3526704,Leme,39,33,0.0358,Soja,"Rio, Lago e Oceano"
+3526704,Leme,39,39,17.7927,Soja,Soja
+3526704,Leme,39,41,0.4433,Soja,Outras Lavouras Temporárias
+3526704,Leme,39,46,0.3159,Soja,Café
+3526704,Leme,39,47,1.9934,Soja,Citrus
+3526704,Leme,39,48,0.0574,Soja,Outras Lavouras Perenes
+3526704,Leme,41,3,0.0657,Outras Lavouras Temporárias,Formação Florestal
+3526704,Leme,41,9,0.0075,Outras Lavouras Temporárias,Silvicultura
+3526704,Leme,41,11,0.0224,Outras Lavouras Temporárias,Campo Alagado e Área Pantanosa
+3526704,Leme,41,12,0.0125,Outras Lavouras Temporárias,Formação Campestre
+3526704,Leme,41,15,0.0715,Outras Lavouras Temporárias,Pastagem
+3526704,Leme,41,20,2.8149,Outras Lavouras Temporárias,Cana
+3526704,Leme,41,21,1.0428,Outras Lavouras Temporárias,Mosaico de usos
+3526704,Leme,41,24,0.0557,Outras Lavouras Temporárias,Área Urbanizada
+3526704,Leme,41,33,0.0017,Outras Lavouras Temporárias,"Rio, Lago e Oceano"
+3526704,Leme,41,39,2.6569,Outras Lavouras Temporárias,Soja
+3526704,Leme,41,41,0.089,Outras Lavouras Temporárias,Outras Lavouras Temporárias
+3526704,Leme,41,46,0.1056,Outras Lavouras Temporárias,Café
+3526704,Leme,41,47,0.7243,Outras Lavouras Temporárias,Citrus
+3526704,Leme,41,48,0.0333,Outras Lavouras Temporárias,Outras Lavouras Perenes
+3526704,Leme,46,3,0.0025,Café,Formação Florestal
+3526704,Leme,46,20,0.0017,Café,Cana
+3526704,Leme,46,21,0.069,Café,Mosaico de usos
+3526704,Leme,46,46,0.2827,Café,Café
+3526704,Leme,46,47,0.0017,Café,Citrus
+3526704,Leme,47,3,0.1364,Citrus,Formação Florestal
+3526704,Leme,47,15,0.2021,Citrus,Pastagem
+3526704,Leme,47,20,2.6843,Citrus,Cana
+3526704,Leme,47,21,0.7095,Citrus,Mosaico de usos
+3526704,Leme,47,39,0.9508,Citrus,Soja
+3526704,Leme,47,41,0.0615,Citrus,Outras Lavouras Temporárias
+3526704,Leme,47,46,0.005,Citrus,Café
+3526704,Leme,47,47,5.2122,Citrus,Citrus
+3526704,Leme,47,48,0.0083,Citrus,Outras Lavouras Perenes
+3526704,Leme,48,3,0.1039,Outras Lavouras Perenes,Formação Florestal
+3526704,Leme,48,15,0.0931,Outras Lavouras Perenes,Pastagem
+3526704,Leme,48,20,1.759,Outras Lavouras Perenes,Cana
+3526704,Leme,48,21,0.4292,Outras Lavouras Perenes,Mosaico de usos
+3526704,Leme,48,24,0.0008,Outras Lavouras Perenes,Área Urbanizada
+3526704,Leme,48,33,0.0025,Outras Lavouras Perenes,"Rio, Lago e Oceano"
+3526704,Leme,48,39,0.5615,Outras Lavouras Perenes,Soja
+3526704,Leme,48,41,0.0441,Outras Lavouras Perenes,Outras Lavouras Temporárias
+3526704,Leme,48,47,0.0416,Outras Lavouras Perenes,Citrus
+3526704,Leme,48,48,0.2428,Outras Lavouras Perenes,Outras Lavouras Perenes
+3526902,Limeira,3,3,23.6002,Formação Florestal,Formação Florestal
+3526902,Limeira,3,9,0.1302,Formação Florestal,Silvicultura
+3526902,Limeira,3,11,0.0033,Formação Florestal,Campo Alagado e Área Pantanosa
+3526902,Limeira,3,15,0.8654,Formação Florestal,Pastagem
+3526902,Limeira,3,20,6.4983,Formação Florestal,Cana
+3526902,Limeira,3,21,12.6396,Formação Florestal,Mosaico de usos
+3526902,Limeira,3,24,0.6964,Formação Florestal,Área Urbanizada
+3526902,Limeira,3,25,0.0423,Formação Florestal,Outras Área não Vegetadas
+3526902,Limeira,3,30,0.0697,Formação Florestal,Mineração
+3526902,Limeira,3,33,0.0365,Formação Florestal,"Rio, Lago e Oceano"
+3526902,Limeira,3,39,2.1339,Formação Florestal,Soja
+3526902,Limeira,3,41,0.112,Formação Florestal,Outras Lavouras Temporárias
+3526902,Limeira,3,47,0.5769,Formação Florestal,Citrus
+3526902,Limeira,3,48,0.0978,Formação Florestal,Outras Lavouras Perenes
+3526902,Limeira,9,3,0.0265,Silvicultura,Formação Florestal
+3526902,Limeira,9,15,0.0489,Silvicultura,Pastagem
+3526902,Limeira,9,20,0.0025,Silvicultura,Cana
+3526902,Limeira,9,21,0.0754,Silvicultura,Mosaico de usos
+3526902,Limeira,9,24,0.0033,Silvicultura,Área Urbanizada
+3526902,Limeira,11,3,0.0108,Campo Alagado e Área Pantanosa,Formação Florestal
+3526902,Limeira,11,11,0.2172,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3526902,Limeira,11,20,0.0158,Campo Alagado e Área Pantanosa,Cana
+3526902,Limeira,11,21,0.0762,Campo Alagado e Área Pantanosa,Mosaico de usos
+3526902,Limeira,11,24,0.0763,Campo Alagado e Área Pantanosa,Área Urbanizada
+3526902,Limeira,11,33,0.0066,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3526902,Limeira,12,3,0.0025,Formação Campestre,Formação Florestal
+3526902,Limeira,12,20,0.082,Formação Campestre,Cana
+3526902,Limeira,12,21,0.0182,Formação Campestre,Mosaico de usos
+3526902,Limeira,12,24,0.005,Formação Campestre,Área Urbanizada
+3526902,Limeira,12,39,0.0506,Formação Campestre,Soja
+3526902,Limeira,15,3,3.7574,Pastagem,Formação Florestal
+3526902,Limeira,15,9,0.7427,Pastagem,Silvicultura
+3526902,Limeira,15,11,0.3166,Pastagem,Campo Alagado e Área Pantanosa
+3526902,Limeira,15,15,29.0413,Pastagem,Pastagem
+3526902,Limeira,15,20,10.5742,Pastagem,Cana
+3526902,Limeira,15,21,47.4116,Pastagem,Mosaico de usos
+3526902,Limeira,15,24,9.532,Pastagem,Área Urbanizada
+3526902,Limeira,15,25,0.1766,Pastagem,Outras Área não Vegetadas
+3526902,Limeira,15,30,0.0746,Pastagem,Mineração
+3526902,Limeira,15,33,0.1832,Pastagem,"Rio, Lago e Oceano"
+3526902,Limeira,15,39,1.513,Pastagem,Soja
+3526902,Limeira,15,41,0.0605,Pastagem,Outras Lavouras Temporárias
+3526902,Limeira,15,47,0.136,Pastagem,Citrus
+3526902,Limeira,15,48,0.0033,Pastagem,Outras Lavouras Perenes
+3526902,Limeira,20,3,0.6192,Cana,Formação Florestal
+3526902,Limeira,20,9,0.8208,Cana,Silvicultura
+3526902,Limeira,20,11,0.1135,Cana,Campo Alagado e Área Pantanosa
+3526902,Limeira,20,15,6.243,Cana,Pastagem
+3526902,Limeira,20,20,88.5687,Cana,Cana
+3526902,Limeira,20,21,26.3263,Cana,Mosaico de usos
+3526902,Limeira,20,24,11.5226,Cana,Área Urbanizada
+3526902,Limeira,20,25,0.7138,Cana,Outras Área não Vegetadas
+3526902,Limeira,20,30,0.3119,Cana,Mineração
+3526902,Limeira,20,33,0.0348,Cana,"Rio, Lago e Oceano"
+3526902,Limeira,20,39,5.9775,Cana,Soja
+3526902,Limeira,20,41,0.2147,Cana,Outras Lavouras Temporárias
+3526902,Limeira,20,47,0.4333,Cana,Citrus
+3526902,Limeira,20,48,0.1351,Cana,Outras Lavouras Perenes
+3526902,Limeira,21,3,12.1614,Mosaico de usos,Formação Florestal
+3526902,Limeira,21,9,0.8257,Mosaico de usos,Silvicultura
+3526902,Limeira,21,11,1.2633,Mosaico de usos,Campo Alagado e Área Pantanosa
+3526902,Limeira,21,15,12.8501,Mosaico de usos,Pastagem
+3526902,Limeira,21,20,47.5421,Mosaico de usos,Cana
+3526902,Limeira,21,21,116.3722,Mosaico de usos,Mosaico de usos
+3526902,Limeira,21,24,17.8958,Mosaico de usos,Área Urbanizada
+3526902,Limeira,21,25,0.6723,Mosaico de usos,Outras Área não Vegetadas
+3526902,Limeira,21,30,0.0854,Mosaico de usos,Mineração
+3526902,Limeira,21,33,0.2818,Mosaico de usos,"Rio, Lago e Oceano"
+3526902,Limeira,21,39,14.9093,Mosaico de usos,Soja
+3526902,Limeira,21,41,0.6734,Mosaico de usos,Outras Lavouras Temporárias
+3526902,Limeira,21,47,0.6324,Mosaico de usos,Citrus
+3526902,Limeira,21,48,0.2329,Mosaico de usos,Outras Lavouras Perenes
+3526902,Limeira,24,3,0.0066,Área Urbanizada,Formação Florestal
+3526902,Limeira,24,15,0.0033,Área Urbanizada,Pastagem
+3526902,Limeira,24,20,0.0033,Área Urbanizada,Cana
+3526902,Limeira,24,21,0.068,Área Urbanizada,Mosaico de usos
+3526902,Limeira,24,24,38.5463,Área Urbanizada,Área Urbanizada
+3526902,Limeira,24,25,0.0008,Área Urbanizada,Outras Área não Vegetadas
+3526902,Limeira,24,30,0.0017,Área Urbanizada,Mineração
+3526902,Limeira,24,33,0.0058,Área Urbanizada,"Rio, Lago e Oceano"
+3526902,Limeira,24,39,0.0008,Área Urbanizada,Soja
+3526902,Limeira,25,3,0.0381,Outras Área não Vegetadas,Formação Florestal
+3526902,Limeira,25,9,0.0025,Outras Área não Vegetadas,Silvicultura
+3526902,Limeira,25,15,0.0091,Outras Área não Vegetadas,Pastagem
+3526902,Limeira,25,20,0.0017,Outras Área não Vegetadas,Cana
+3526902,Limeira,25,21,0.5331,Outras Área não Vegetadas,Mosaico de usos
+3526902,Limeira,25,24,0.1932,Outras Área não Vegetadas,Área Urbanizada
+3526902,Limeira,25,25,0.1509,Outras Área não Vegetadas,Outras Área não Vegetadas
+3526902,Limeira,25,33,0.0348,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3526902,Limeira,25,39,0.0041,Outras Área não Vegetadas,Soja
+3526902,Limeira,30,21,0.0448,Mineração,Mosaico de usos
+3526902,Limeira,30,24,0.0083,Mineração,Área Urbanizada
+3526902,Limeira,30,30,0.4902,Mineração,Mineração
+3526902,Limeira,33,3,0.5817,"Rio, Lago e Oceano",Formação Florestal
+3526902,Limeira,33,9,0.0249,"Rio, Lago e Oceano",Silvicultura
+3526902,Limeira,33,11,0.1094,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3526902,Limeira,33,15,0.0414,"Rio, Lago e Oceano",Pastagem
+3526902,Limeira,33,20,0.063,"Rio, Lago e Oceano",Cana
+3526902,Limeira,33,21,1.0751,"Rio, Lago e Oceano",Mosaico de usos
+3526902,Limeira,33,24,0.1036,"Rio, Lago e Oceano",Área Urbanizada
+3526902,Limeira,33,25,0.0323,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3526902,Limeira,33,33,3.1981,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3526902,Limeira,33,39,0.0008,"Rio, Lago e Oceano",Soja
+3526902,Limeira,33,48,0.0008,"Rio, Lago e Oceano",Outras Lavouras Perenes
+3526902,Limeira,39,3,0.0174,Soja,Formação Florestal
+3526902,Limeira,39,9,0.024,Soja,Silvicultura
+3526902,Limeira,39,15,0.1501,Soja,Pastagem
+3526902,Limeira,39,20,0.8382,Soja,Cana
+3526902,Limeira,39,21,1.6782,Soja,Mosaico de usos
+3526902,Limeira,39,24,0.16,Soja,Área Urbanizada
+3526902,Limeira,39,25,0.0555,Soja,Outras Área não Vegetadas
+3526902,Limeira,39,39,0.3583,Soja,Soja
+3526902,Limeira,39,41,0.146,Soja,Outras Lavouras Temporárias
+3526902,Limeira,39,47,0.0183,Soja,Citrus
+3526902,Limeira,41,3,0.0696,Outras Lavouras Temporárias,Formação Florestal
+3526902,Limeira,41,9,0.0207,Outras Lavouras Temporárias,Silvicultura
+3526902,Limeira,41,15,0.0688,Outras Lavouras Temporárias,Pastagem
+3526902,Limeira,41,20,1.3581,Outras Lavouras Temporárias,Cana
+3526902,Limeira,41,21,1.5768,Outras Lavouras Temporárias,Mosaico de usos
+3526902,Limeira,41,24,0.1028,Outras Lavouras Temporárias,Área Urbanizada
+3526902,Limeira,41,25,0.0332,Outras Lavouras Temporárias,Outras Área não Vegetadas
+3526902,Limeira,41,33,0.0066,Outras Lavouras Temporárias,"Rio, Lago e Oceano"
+3526902,Limeira,41,39,0.8683,Outras Lavouras Temporárias,Soja
+3526902,Limeira,41,41,0.0539,Outras Lavouras Temporárias,Outras Lavouras Temporárias
+3526902,Limeira,41,47,0.034,Outras Lavouras Temporárias,Citrus
+3526902,Limeira,47,3,0.0207,Citrus,Formação Florestal
+3526902,Limeira,47,15,0.1285,Citrus,Pastagem
+3526902,Limeira,47,20,2.7642,Citrus,Cana
+3526902,Limeira,47,21,2.6754,Citrus,Mosaico de usos
+3526902,Limeira,47,24,0.0647,Citrus,Área Urbanizada
+3526902,Limeira,47,25,0.0124,Citrus,Outras Área não Vegetadas
+3526902,Limeira,47,39,1.7997,Citrus,Soja
+3526902,Limeira,47,41,0.063,Citrus,Outras Lavouras Temporárias
+3526902,Limeira,47,47,1.3826,Citrus,Citrus
+3526902,Limeira,47,48,0.005,Citrus,Outras Lavouras Perenes
+3526902,Limeira,48,15,0.0141,Outras Lavouras Perenes,Pastagem
+3526902,Limeira,48,21,0.0025,Outras Lavouras Perenes,Mosaico de usos
+3526902,Limeira,48,48,0.0547,Outras Lavouras Perenes,Outras Lavouras Perenes
+3530904,Mombuca,3,3,11.4516,Formação Florestal,Formação Florestal
+3530904,Mombuca,3,9,0.0554,Formação Florestal,Silvicultura
+3530904,Mombuca,3,11,0.0008,Formação Florestal,Campo Alagado e Área Pantanosa
+3530904,Mombuca,3,15,0.1621,Formação Florestal,Pastagem
+3530904,Mombuca,3,20,0.4424,Formação Florestal,Cana
+3530904,Mombuca,3,21,1.9308,Formação Florestal,Mosaico de usos
+3530904,Mombuca,3,24,0.005,Formação Florestal,Área Urbanizada
+3530904,Mombuca,3,33,0.0066,Formação Florestal,"Rio, Lago e Oceano"
+3530904,Mombuca,11,3,0.0041,Campo Alagado e Área Pantanosa,Formação Florestal
+3530904,Mombuca,11,11,0.0438,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3530904,Mombuca,11,20,0.0083,Campo Alagado e Área Pantanosa,Cana
+3530904,Mombuca,11,21,0.1133,Campo Alagado e Área Pantanosa,Mosaico de usos
+3530904,Mombuca,15,3,0.8145,Pastagem,Formação Florestal
+3530904,Mombuca,15,9,0.1315,Pastagem,Silvicultura
+3530904,Mombuca,15,11,0.019,Pastagem,Campo Alagado e Área Pantanosa
+3530904,Mombuca,15,15,5.3916,Pastagem,Pastagem
+3530904,Mombuca,15,20,7.6811,Pastagem,Cana
+3530904,Mombuca,15,21,5.3064,Pastagem,Mosaico de usos
+3530904,Mombuca,15,24,0.3209,Pastagem,Área Urbanizada
+3530904,Mombuca,15,33,0.0281,Pastagem,"Rio, Lago e Oceano"
+3530904,Mombuca,15,39,0.1025,Pastagem,Soja
+3530904,Mombuca,20,3,0.9179,Cana,Formação Florestal
+3530904,Mombuca,20,9,1.1378,Cana,Silvicultura
+3530904,Mombuca,20,11,0.0653,Cana,Campo Alagado e Área Pantanosa
+3530904,Mombuca,20,15,4.0,Cana,Pastagem
+3530904,Mombuca,20,20,65.6612,Cana,Cana
+3530904,Mombuca,20,21,8.0366,Cana,Mosaico de usos
+3530904,Mombuca,20,24,0.4234,Cana,Área Urbanizada
+3530904,Mombuca,20,25,0.0347,Cana,Outras Área não Vegetadas
+3530904,Mombuca,20,33,0.0273,Cana,"Rio, Lago e Oceano"
+3530904,Mombuca,20,39,0.2225,Cana,Soja
+3530904,Mombuca,20,41,0.0099,Cana,Outras Lavouras Temporárias
+3530904,Mombuca,21,3,1.9442,Mosaico de usos,Formação Florestal
+3530904,Mombuca,21,9,0.0397,Mosaico de usos,Silvicultura
+3530904,Mombuca,21,11,0.0769,Mosaico de usos,Campo Alagado e Área Pantanosa
+3530904,Mombuca,21,15,1.5042,Mosaico de usos,Pastagem
+3530904,Mombuca,21,20,7.5566,Mosaico de usos,Cana
+3530904,Mombuca,21,21,7.402,Mosaico de usos,Mosaico de usos
+3530904,Mombuca,21,24,0.1919,Mosaico de usos,Área Urbanizada
+3530904,Mombuca,21,25,0.0496,Mosaico de usos,Outras Área não Vegetadas
+3530904,Mombuca,21,33,0.0455,Mosaico de usos,"Rio, Lago e Oceano"
+3530904,Mombuca,21,39,0.0207,Mosaico de usos,Soja
+3530904,Mombuca,24,24,0.3234,Área Urbanizada,Área Urbanizada
+3530904,Mombuca,25,15,0.0041,Outras Área não Vegetadas,Pastagem
+3530904,Mombuca,25,21,0.024,Outras Área não Vegetadas,Mosaico de usos
+3530904,Mombuca,33,3,0.0124,"Rio, Lago e Oceano",Formação Florestal
+3530904,Mombuca,33,11,0.0265,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3530904,Mombuca,33,15,0.0124,"Rio, Lago e Oceano",Pastagem
+3530904,Mombuca,33,20,0.0074,"Rio, Lago e Oceano",Cana
+3530904,Mombuca,33,21,0.0612,"Rio, Lago e Oceano",Mosaico de usos
+3530904,Mombuca,33,25,0.0017,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3530904,Mombuca,33,33,0.0686,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3530904,Mombuca,33,39,0.0008,"Rio, Lago e Oceano",Soja
+3530904,Mombuca,39,20,0.0298,Soja,Cana
+3530904,Mombuca,41,20,0.043,Outras Lavouras Temporárias,Cana
+3530904,Mombuca,41,21,0.0083,Outras Lavouras Temporárias,Mosaico de usos
+3530904,Mombuca,41,39,0.0041,Outras Lavouras Temporárias,Soja
+3538709,Piracicaba,3,3,102.6636,Formação Florestal,Formação Florestal
+3538709,Piracicaba,3,9,0.208,Formação Florestal,Silvicultura
+3538709,Piracicaba,3,11,0.3205,Formação Florestal,Campo Alagado e Área Pantanosa
+3538709,Piracicaba,3,15,5.2666,Formação Florestal,Pastagem
+3538709,Piracicaba,3,20,3.6767,Formação Florestal,Cana
+3538709,Piracicaba,3,21,8.1631,Formação Florestal,Mosaico de usos
+3538709,Piracicaba,3,24,0.5392,Formação Florestal,Área Urbanizada
+3538709,Piracicaba,3,25,0.0141,Formação Florestal,Outras Área não Vegetadas
+3538709,Piracicaba,3,33,0.0762,Formação Florestal,"Rio, Lago e Oceano"
+3538709,Piracicaba,3,39,0.1152,Formação Florestal,Soja
+3538709,Piracicaba,3,41,0.0008,Formação Florestal,Outras Lavouras Temporárias
+3538709,Piracicaba,3,47,1.2715,Formação Florestal,Citrus
+3538709,Piracicaba,3,48,0.0265,Formação Florestal,Outras Lavouras Perenes
+3538709,Piracicaba,9,3,0.092,Silvicultura,Formação Florestal
+3538709,Piracicaba,9,9,0.1151,Silvicultura,Silvicultura
+3538709,Piracicaba,9,20,0.0654,Silvicultura,Cana
+3538709,Piracicaba,9,21,0.0282,Silvicultura,Mosaico de usos
+3538709,Piracicaba,11,3,1.2911,Campo Alagado e Área Pantanosa,Formação Florestal
+3538709,Piracicaba,11,9,0.4533,Campo Alagado e Área Pantanosa,Silvicultura
+3538709,Piracicaba,11,11,11.5323,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3538709,Piracicaba,11,15,4.5747,Campo Alagado e Área Pantanosa,Pastagem
+3538709,Piracicaba,11,20,0.5175,Campo Alagado e Área Pantanosa,Cana
+3538709,Piracicaba,11,21,5.7034,Campo Alagado e Área Pantanosa,Mosaico de usos
+3538709,Piracicaba,11,24,0.1905,Campo Alagado e Área Pantanosa,Área Urbanizada
+3538709,Piracicaba,11,25,0.0033,Campo Alagado e Área Pantanosa,Outras Área não Vegetadas
+3538709,Piracicaba,11,33,1.3994,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3538709,Piracicaba,11,39,0.005,Campo Alagado e Área Pantanosa,Soja
+3538709,Piracicaba,11,47,0.1574,Campo Alagado e Área Pantanosa,Citrus
+3538709,Piracicaba,12,20,0.053,Formação Campestre,Cana
+3538709,Piracicaba,12,21,0.005,Formação Campestre,Mosaico de usos
+3538709,Piracicaba,15,3,15.9532,Pastagem,Formação Florestal
+3538709,Piracicaba,15,4,0.0099,Pastagem,Formação Savânica
+3538709,Piracicaba,15,9,13.4532,Pastagem,Silvicultura
+3538709,Piracicaba,15,11,4.452,Pastagem,Campo Alagado e Área Pantanosa
+3538709,Piracicaba,15,15,228.1715,Pastagem,Pastagem
+3538709,Piracicaba,15,20,140.8864,Pastagem,Cana
+3538709,Piracicaba,15,21,90.3588,Pastagem,Mosaico de usos
+3538709,Piracicaba,15,24,11.8913,Pastagem,Área Urbanizada
+3538709,Piracicaba,15,25,0.1797,Pastagem,Outras Área não Vegetadas
+3538709,Piracicaba,15,33,0.4761,Pastagem,"Rio, Lago e Oceano"
+3538709,Piracicaba,15,39,6.7357,Pastagem,Soja
+3538709,Piracicaba,15,41,1.3947,Pastagem,Outras Lavouras Temporárias
+3538709,Piracicaba,15,47,12.6215,Pastagem,Citrus
+3538709,Piracicaba,15,48,0.9705,Pastagem,Outras Lavouras Perenes
+3538709,Piracicaba,20,3,2.5998,Cana,Formação Florestal
+3538709,Piracicaba,20,4,0.0389,Cana,Formação Savânica
+3538709,Piracicaba,20,9,6.4086,Cana,Silvicultura
+3538709,Piracicaba,20,11,0.8419,Cana,Campo Alagado e Área Pantanosa
+3538709,Piracicaba,20,15,29.1513,Cana,Pastagem
+3538709,Piracicaba,20,20,316.4684,Cana,Cana
+3538709,Piracicaba,20,21,49.9948,Cana,Mosaico de usos
+3538709,Piracicaba,20,24,22.2818,Cana,Área Urbanizada
+3538709,Piracicaba,20,25,1.3597,Cana,Outras Área não Vegetadas
+3538709,Piracicaba,20,33,0.1905,Cana,"Rio, Lago e Oceano"
+3538709,Piracicaba,20,39,9.2229,Cana,Soja
+3538709,Piracicaba,20,41,0.2973,Cana,Outras Lavouras Temporárias
+3538709,Piracicaba,20,47,5.9785,Cana,Citrus
+3538709,Piracicaba,20,48,0.6656,Cana,Outras Lavouras Perenes
+3538709,Piracicaba,21,3,17.803,Mosaico de usos,Formação Florestal
+3538709,Piracicaba,21,4,0.0447,Mosaico de usos,Formação Savânica
+3538709,Piracicaba,21,9,1.4062,Mosaico de usos,Silvicultura
+3538709,Piracicaba,21,11,4.9644,Mosaico de usos,Campo Alagado e Área Pantanosa
+3538709,Piracicaba,21,15,15.4103,Mosaico de usos,Pastagem
+3538709,Piracicaba,21,20,37.6625,Mosaico de usos,Cana
+3538709,Piracicaba,21,21,75.4974,Mosaico de usos,Mosaico de usos
+3538709,Piracicaba,21,24,25.0529,Mosaico de usos,Área Urbanizada
+3538709,Piracicaba,21,25,0.7481,Mosaico de usos,Outras Área não Vegetadas
+3538709,Piracicaba,21,33,0.889,Mosaico de usos,"Rio, Lago e Oceano"
+3538709,Piracicaba,21,39,1.9297,Mosaico de usos,Soja
+3538709,Piracicaba,21,41,0.1126,Mosaico de usos,Outras Lavouras Temporárias
+3538709,Piracicaba,21,47,1.8003,Mosaico de usos,Citrus
+3538709,Piracicaba,21,48,0.0505,Mosaico de usos,Outras Lavouras Perenes
+3538709,Piracicaba,24,3,0.0058,Área Urbanizada,Formação Florestal
+3538709,Piracicaba,24,15,0.0099,Área Urbanizada,Pastagem
+3538709,Piracicaba,24,20,0.0025,Área Urbanizada,Cana
+3538709,Piracicaba,24,21,0.0364,Área Urbanizada,Mosaico de usos
+3538709,Piracicaba,24,24,46.0566,Área Urbanizada,Área Urbanizada
+3538709,Piracicaba,24,25,0.0075,Área Urbanizada,Outras Área não Vegetadas
+3538709,Piracicaba,24,33,0.0033,Área Urbanizada,"Rio, Lago e Oceano"
+3538709,Piracicaba,25,3,0.0464,Outras Área não Vegetadas,Formação Florestal
+3538709,Piracicaba,25,9,0.029,Outras Área não Vegetadas,Silvicultura
+3538709,Piracicaba,25,11,0.0348,Outras Área não Vegetadas,Campo Alagado e Área Pantanosa
+3538709,Piracicaba,25,15,0.0555,Outras Área não Vegetadas,Pastagem
+3538709,Piracicaba,25,20,0.2022,Outras Área não Vegetadas,Cana
+3538709,Piracicaba,25,21,0.3959,Outras Área não Vegetadas,Mosaico de usos
+3538709,Piracicaba,25,24,0.1309,Outras Área não Vegetadas,Área Urbanizada
+3538709,Piracicaba,25,25,0.1938,Outras Área não Vegetadas,Outras Área não Vegetadas
+3538709,Piracicaba,25,33,0.005,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3538709,Piracicaba,25,47,0.0414,Outras Área não Vegetadas,Citrus
+3538709,Piracicaba,33,3,1.3289,"Rio, Lago e Oceano",Formação Florestal
+3538709,Piracicaba,33,9,0.2949,"Rio, Lago e Oceano",Silvicultura
+3538709,Piracicaba,33,11,1.5324,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3538709,Piracicaba,33,15,0.2699,"Rio, Lago e Oceano",Pastagem
+3538709,Piracicaba,33,20,0.1367,"Rio, Lago e Oceano",Cana
+3538709,Piracicaba,33,21,3.0481,"Rio, Lago e Oceano",Mosaico de usos
+3538709,Piracicaba,33,24,0.3736,"Rio, Lago e Oceano",Área Urbanizada
+3538709,Piracicaba,33,25,0.0456,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3538709,Piracicaba,33,33,17.9962,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3538709,Piracicaba,33,39,0.0058,"Rio, Lago e Oceano",Soja
+3538709,Piracicaba,39,3,0.0041,Soja,Formação Florestal
+3538709,Piracicaba,39,9,0.0116,Soja,Silvicultura
+3538709,Piracicaba,39,15,0.1201,Soja,Pastagem
+3538709,Piracicaba,39,20,0.6477,Soja,Cana
+3538709,Piracicaba,39,21,0.2203,Soja,Mosaico de usos
+3538709,Piracicaba,39,24,0.0514,Soja,Área Urbanizada
+3538709,Piracicaba,39,39,0.1772,Soja,Soja
+3538709,Piracicaba,39,47,0.3923,Soja,Citrus
+3538709,Piracicaba,39,48,0.0157,Soja,Outras Lavouras Perenes
+3538709,Piracicaba,41,3,0.1433,Outras Lavouras Temporárias,Formação Florestal
+3538709,Piracicaba,41,11,0.0108,Outras Lavouras Temporárias,Campo Alagado e Área Pantanosa
+3538709,Piracicaba,41,15,0.3039,Outras Lavouras Temporárias,Pastagem
+3538709,Piracicaba,41,20,0.4273,Outras Lavouras Temporárias,Cana
+3538709,Piracicaba,41,21,0.3156,Outras Lavouras Temporárias,Mosaico de usos
+3538709,Piracicaba,41,24,0.1558,Outras Lavouras Temporárias,Área Urbanizada
+3538709,Piracicaba,41,25,0.0224,Outras Lavouras Temporárias,Outras Área não Vegetadas
+3538709,Piracicaba,41,39,0.1176,Outras Lavouras Temporárias,Soja
+3538709,Piracicaba,41,41,0.0232,Outras Lavouras Temporárias,Outras Lavouras Temporárias
+3538709,Piracicaba,41,47,0.0604,Outras Lavouras Temporárias,Citrus
+3538709,Piracicaba,47,15,0.0008,Citrus,Pastagem
+3538709,Piracicaba,47,20,0.0497,Citrus,Cana
+3538709,Piracicaba,47,39,0.1481,Citrus,Soja
+3538709,Piracicaba,47,41,0.0083,Citrus,Outras Lavouras Temporárias
+3538709,Piracicaba,47,47,0.6729,Citrus,Citrus
+3538709,Piracicaba,48,20,0.14,Outras Lavouras Perenes,Cana
+3538709,Piracicaba,48,21,0.0008,Outras Lavouras Perenes,Mosaico de usos
+3538709,Piracicaba,48,48,0.0133,Outras Lavouras Perenes,Outras Lavouras Perenes
+3539301,Pirassununga,3,3,80.3449,Formação Florestal,Formação Florestal
+3539301,Pirassununga,3,4,0.2706,Formação Florestal,Formação Savânica
+3539301,Pirassununga,3,9,0.2315,Formação Florestal,Silvicultura
+3539301,Pirassununga,3,11,0.7378,Formação Florestal,Campo Alagado e Área Pantanosa
+3539301,Pirassununga,3,15,1.0325,Formação Florestal,Pastagem
+3539301,Pirassununga,3,20,22.4155,Formação Florestal,Cana
+3539301,Pirassununga,3,21,9.1099,Formação Florestal,Mosaico de usos
+3539301,Pirassununga,3,24,0.6853,Formação Florestal,Área Urbanizada
+3539301,Pirassununga,3,25,0.025,Formação Florestal,Outras Área não Vegetadas
+3539301,Pirassununga,3,33,0.2015,Formação Florestal,"Rio, Lago e Oceano"
+3539301,Pirassununga,3,39,5.0031,Formação Florestal,Soja
+3539301,Pirassununga,3,41,0.294,Formação Florestal,Outras Lavouras Temporárias
+3539301,Pirassununga,3,46,0.0017,Formação Florestal,Café
+3539301,Pirassununga,3,47,3.5722,Formação Florestal,Citrus
+3539301,Pirassununga,3,48,0.025,Formação Florestal,Outras Lavouras Perenes
+3539301,Pirassununga,4,3,0.9525,Formação Savânica,Formação Florestal
+3539301,Pirassununga,4,4,0.3363,Formação Savânica,Formação Savânica
+3539301,Pirassununga,4,9,0.0316,Formação Savânica,Silvicultura
+3539301,Pirassununga,4,11,0.0799,Formação Savânica,Campo Alagado e Área Pantanosa
+3539301,Pirassununga,4,12,0.0025,Formação Savânica,Formação Campestre
+3539301,Pirassununga,4,15,0.1357,Formação Savânica,Pastagem
+3539301,Pirassununga,4,20,7.2195,Formação Savânica,Cana
+3539301,Pirassununga,4,21,0.8918,Formação Savânica,Mosaico de usos
+3539301,Pirassununga,4,24,0.3081,Formação Savânica,Área Urbanizada
+3539301,Pirassununga,4,25,0.0108,Formação Savânica,Outras Área não Vegetadas
+3539301,Pirassununga,4,39,1.6381,Formação Savânica,Soja
+3539301,Pirassununga,4,41,0.1408,Formação Savânica,Outras Lavouras Temporárias
+3539301,Pirassununga,4,47,1.119,Formação Savânica,Citrus
+3539301,Pirassununga,9,3,0.1782,Silvicultura,Formação Florestal
+3539301,Pirassununga,9,4,0.045,Silvicultura,Formação Savânica
+3539301,Pirassununga,9,9,0.0441,Silvicultura,Silvicultura
+3539301,Pirassununga,9,12,0.0167,Silvicultura,Formação Campestre
+3539301,Pirassununga,9,15,0.0391,Silvicultura,Pastagem
+3539301,Pirassununga,9,20,0.0466,Silvicultura,Cana
+3539301,Pirassununga,9,21,0.0341,Silvicultura,Mosaico de usos
+3539301,Pirassununga,11,3,3.8482,Campo Alagado e Área Pantanosa,Formação Florestal
+3539301,Pirassununga,11,4,0.3047,Campo Alagado e Área Pantanosa,Formação Savânica
+3539301,Pirassununga,11,9,0.0341,Campo Alagado e Área Pantanosa,Silvicultura
+3539301,Pirassununga,11,11,5.0203,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3539301,Pirassununga,11,12,0.0949,Campo Alagado e Área Pantanosa,Formação Campestre
+3539301,Pirassununga,11,15,0.5079,Campo Alagado e Área Pantanosa,Pastagem
+3539301,Pirassununga,11,20,2.4061,Campo Alagado e Área Pantanosa,Cana
+3539301,Pirassununga,11,21,3.0385,Campo Alagado e Área Pantanosa,Mosaico de usos
+3539301,Pirassununga,11,24,0.0758,Campo Alagado e Área Pantanosa,Área Urbanizada
+3539301,Pirassununga,11,25,0.005,Campo Alagado e Área Pantanosa,Outras Área não Vegetadas
+3539301,Pirassununga,11,33,0.1308,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3539301,Pirassununga,11,39,0.7662,Campo Alagado e Área Pantanosa,Soja
+3539301,Pirassununga,11,41,0.005,Campo Alagado e Área Pantanosa,Outras Lavouras Temporárias
+3539301,Pirassununga,11,47,1.4157,Campo Alagado e Área Pantanosa,Citrus
+3539301,Pirassununga,11,48,0.0067,Campo Alagado e Área Pantanosa,Outras Lavouras Perenes
+3539301,Pirassununga,12,3,0.015,Formação Campestre,Formação Florestal
+3539301,Pirassununga,12,4,0.0233,Formação Campestre,Formação Savânica
+3539301,Pirassununga,12,11,0.0092,Formação Campestre,Campo Alagado e Área Pantanosa
+3539301,Pirassununga,12,12,0.0999,Formação Campestre,Formação Campestre
+3539301,Pirassununga,12,20,0.0483,Formação Campestre,Cana
+3539301,Pirassununga,12,21,0.0183,Formação Campestre,Mosaico de usos
+3539301,Pirassununga,12,24,0.0266,Formação Campestre,Área Urbanizada
+3539301,Pirassununga,12,39,0.0233,Formação Campestre,Soja
+3539301,Pirassununga,15,3,6.0296,Pastagem,Formação Florestal
+3539301,Pirassununga,15,4,0.5337,Pastagem,Formação Savânica
+3539301,Pirassununga,15,9,2.0276,Pastagem,Silvicultura
+3539301,Pirassununga,15,11,0.4561,Pastagem,Campo Alagado e Área Pantanosa
+3539301,Pirassununga,15,12,0.005,Pastagem,Formação Campestre
+3539301,Pirassununga,15,15,19.6906,Pastagem,Pastagem
+3539301,Pirassununga,15,20,62.9244,Pastagem,Cana
+3539301,Pirassununga,15,21,37.1145,Pastagem,Mosaico de usos
+3539301,Pirassununga,15,24,2.5345,Pastagem,Área Urbanizada
+3539301,Pirassununga,15,25,0.0566,Pastagem,Outras Área não Vegetadas
+3539301,Pirassununga,15,33,0.0574,Pastagem,"Rio, Lago e Oceano"
+3539301,Pirassununga,15,39,13.3282,Pastagem,Soja
+3539301,Pirassununga,15,41,0.7268,Pastagem,Outras Lavouras Temporárias
+3539301,Pirassununga,15,46,0.0208,Pastagem,Café
+3539301,Pirassununga,15,47,5.0855,Pastagem,Citrus
+3539301,Pirassununga,15,48,0.0949,Pastagem,Outras Lavouras Perenes
+3539301,Pirassununga,20,3,0.5846,Cana,Formação Florestal
+3539301,Pirassununga,20,4,0.0758,Cana,Formação Savânica
+3539301,Pirassununga,20,9,0.2239,Cana,Silvicultura
+3539301,Pirassununga,20,11,0.1523,Cana,Campo Alagado e Área Pantanosa
+3539301,Pirassununga,20,15,1.447,Cana,Pastagem
+3539301,Pirassununga,20,20,120.3305,Cana,Cana
+3539301,Pirassununga,20,21,7.2551,Cana,Mosaico de usos
+3539301,Pirassununga,20,24,0.8762,Cana,Área Urbanizada
+3539301,Pirassununga,20,25,0.08,Cana,Outras Área não Vegetadas
+3539301,Pirassununga,20,33,0.0225,Cana,"Rio, Lago e Oceano"
+3539301,Pirassununga,20,39,13.0944,Cana,Soja
+3539301,Pirassununga,20,41,0.8995,Cana,Outras Lavouras Temporárias
+3539301,Pirassununga,20,47,0.6302,Cana,Citrus
+3539301,Pirassununga,20,48,0.1515,Cana,Outras Lavouras Perenes
+3539301,Pirassununga,21,3,6.0283,Mosaico de usos,Formação Florestal
+3539301,Pirassununga,21,4,0.214,Mosaico de usos,Formação Savânica
+3539301,Pirassununga,21,9,0.7292,Mosaico de usos,Silvicultura
+3539301,Pirassununga,21,11,0.7359,Mosaico de usos,Campo Alagado e Área Pantanosa
+3539301,Pirassununga,21,12,0.035,Mosaico de usos,Formação Campestre
+3539301,Pirassununga,21,15,4.0798,Mosaico de usos,Pastagem
+3539301,Pirassununga,21,20,59.7015,Mosaico de usos,Cana
+3539301,Pirassununga,21,21,32.8207,Mosaico de usos,Mosaico de usos
+3539301,Pirassununga,21,24,4.529,Mosaico de usos,Área Urbanizada
+3539301,Pirassununga,21,25,0.0275,Mosaico de usos,Outras Área não Vegetadas
+3539301,Pirassununga,21,33,0.1465,Mosaico de usos,"Rio, Lago e Oceano"
+3539301,Pirassununga,21,39,27.363,Mosaico de usos,Soja
+3539301,Pirassununga,21,41,1.403,Mosaico de usos,Outras Lavouras Temporárias
+3539301,Pirassununga,21,46,0.015,Mosaico de usos,Café
+3539301,Pirassununga,21,47,2.3223,Mosaico de usos,Citrus
+3539301,Pirassununga,21,48,0.119,Mosaico de usos,Outras Lavouras Perenes
+3539301,Pirassununga,24,3,0.0008,Área Urbanizada,Formação Florestal
+3539301,Pirassununga,24,4,0.0008,Área Urbanizada,Formação Savânica
+3539301,Pirassununga,24,15,0.0083,Área Urbanizada,Pastagem
+3539301,Pirassununga,24,20,0.0017,Área Urbanizada,Cana
+3539301,Pirassununga,24,21,0.015,Área Urbanizada,Mosaico de usos
+3539301,Pirassununga,24,24,13.3342,Área Urbanizada,Área Urbanizada
+3539301,Pirassununga,24,25,0.0142,Área Urbanizada,Outras Área não Vegetadas
+3539301,Pirassununga,24,39,0.0075,Área Urbanizada,Soja
+3539301,Pirassununga,25,3,0.0816,Outras Área não Vegetadas,Formação Florestal
+3539301,Pirassununga,25,4,0.04,Outras Área não Vegetadas,Formação Savânica
+3539301,Pirassununga,25,9,0.0008,Outras Área não Vegetadas,Silvicultura
+3539301,Pirassununga,25,11,0.0042,Outras Área não Vegetadas,Campo Alagado e Área Pantanosa
+3539301,Pirassununga,25,15,0.0774,Outras Área não Vegetadas,Pastagem
+3539301,Pirassununga,25,20,3.7519,Outras Área não Vegetadas,Cana
+3539301,Pirassununga,25,21,0.9091,Outras Área não Vegetadas,Mosaico de usos
+3539301,Pirassununga,25,24,0.7253,Outras Área não Vegetadas,Área Urbanizada
+3539301,Pirassununga,25,25,0.0466,Outras Área não Vegetadas,Outras Área não Vegetadas
+3539301,Pirassununga,25,33,0.0008,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3539301,Pirassununga,25,39,1.1181,Outras Área não Vegetadas,Soja
+3539301,Pirassununga,25,41,0.0133,Outras Área não Vegetadas,Outras Lavouras Temporárias
+3539301,Pirassununga,25,47,0.1016,Outras Área não Vegetadas,Citrus
+3539301,Pirassununga,33,3,0.9418,"Rio, Lago e Oceano",Formação Florestal
+3539301,Pirassununga,33,4,0.02,"Rio, Lago e Oceano",Formação Savânica
+3539301,Pirassununga,33,11,0.4462,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3539301,Pirassununga,33,12,0.0217,"Rio, Lago e Oceano",Formação Campestre
+3539301,Pirassununga,33,15,0.0158,"Rio, Lago e Oceano",Pastagem
+3539301,Pirassununga,33,20,0.025,"Rio, Lago e Oceano",Cana
+3539301,Pirassununga,33,21,1.1999,"Rio, Lago e Oceano",Mosaico de usos
+3539301,Pirassununga,33,24,0.1241,"Rio, Lago e Oceano",Área Urbanizada
+3539301,Pirassununga,33,33,5.0574,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3539301,Pirassununga,33,39,0.0067,"Rio, Lago e Oceano",Soja
+3539301,Pirassununga,33,47,0.0017,"Rio, Lago e Oceano",Citrus
+3539301,Pirassununga,39,3,0.1473,Soja,Formação Florestal
+3539301,Pirassununga,39,4,0.0866,Soja,Formação Savânica
+3539301,Pirassununga,39,9,0.0633,Soja,Silvicultura
+3539301,Pirassununga,39,15,0.4688,Soja,Pastagem
+3539301,Pirassununga,39,20,36.5189,Soja,Cana
+3539301,Pirassununga,39,21,5.0587,Soja,Mosaico de usos
+3539301,Pirassununga,39,24,2.8071,Soja,Área Urbanizada
+3539301,Pirassununga,39,25,0.0633,Soja,Outras Área não Vegetadas
+3539301,Pirassununga,39,39,33.0405,Soja,Soja
+3539301,Pirassununga,39,41,1.8191,Soja,Outras Lavouras Temporárias
+3539301,Pirassununga,39,46,0.0033,Soja,Café
+3539301,Pirassununga,39,47,2.3442,Soja,Citrus
+3539301,Pirassununga,39,48,0.114,Soja,Outras Lavouras Perenes
+3539301,Pirassununga,41,3,0.0033,Outras Lavouras Temporárias,Formação Florestal
+3539301,Pirassununga,41,4,0.0008,Outras Lavouras Temporárias,Formação Savânica
+3539301,Pirassununga,41,11,0.005,Outras Lavouras Temporárias,Campo Alagado e Área Pantanosa
+3539301,Pirassununga,41,15,0.1374,Outras Lavouras Temporárias,Pastagem
+3539301,Pirassununga,41,20,6.3305,Outras Lavouras Temporárias,Cana
+3539301,Pirassununga,41,21,1.1264,Outras Lavouras Temporárias,Mosaico de usos
+3539301,Pirassununga,41,24,0.3106,Outras Lavouras Temporárias,Área Urbanizada
+3539301,Pirassununga,41,39,7.8456,Outras Lavouras Temporárias,Soja
+3539301,Pirassununga,41,41,0.3522,Outras Lavouras Temporárias,Outras Lavouras Temporárias
+3539301,Pirassununga,41,47,0.5819,Outras Lavouras Temporárias,Citrus
+3539301,Pirassununga,41,48,0.0183,Outras Lavouras Temporárias,Outras Lavouras Perenes
+3539301,Pirassununga,46,3,0.0017,Café,Formação Florestal
+3539301,Pirassununga,46,21,0.0008,Café,Mosaico de usos
+3539301,Pirassununga,46,46,0.01,Café,Café
+3539301,Pirassununga,47,3,0.09,Citrus,Formação Florestal
+3539301,Pirassununga,47,4,0.0008,Citrus,Formação Savânica
+3539301,Pirassununga,47,11,0.0075,Citrus,Campo Alagado e Área Pantanosa
+3539301,Pirassununga,47,15,0.0142,Citrus,Pastagem
+3539301,Pirassununga,47,20,4.1437,Citrus,Cana
+3539301,Pirassununga,47,21,0.3446,Citrus,Mosaico de usos
+3539301,Pirassununga,47,24,0.0042,Citrus,Área Urbanizada
+3539301,Pirassununga,47,39,2.7315,Citrus,Soja
+3539301,Pirassununga,47,41,0.1707,Citrus,Outras Lavouras Temporárias
+3539301,Pirassununga,47,47,1.3903,Citrus,Citrus
+3539301,Pirassununga,48,15,0.0241,Outras Lavouras Perenes,Pastagem
+3539301,Pirassununga,48,20,0.1957,Outras Lavouras Perenes,Cana
+3539301,Pirassununga,48,21,0.1656,Outras Lavouras Perenes,Mosaico de usos
+3539301,Pirassununga,48,39,0.4311,Outras Lavouras Perenes,Soja
+3539301,Pirassununga,48,47,0.0042,Outras Lavouras Perenes,Citrus
+3539301,Pirassununga,48,48,0.0325,Outras Lavouras Perenes,Outras Lavouras Perenes
+3542107,Rafard,3,3,7.2559,Formação Florestal,Formação Florestal
+3542107,Rafard,3,9,0.0025,Formação Florestal,Silvicultura
+3542107,Rafard,3,11,0.0008,Formação Florestal,Campo Alagado e Área Pantanosa
+3542107,Rafard,3,15,0.233,Formação Florestal,Pastagem
+3542107,Rafard,3,20,0.2372,Formação Florestal,Cana
+3542107,Rafard,3,21,1.9419,Formação Florestal,Mosaico de usos
+3542107,Rafard,3,24,0.0066,Formação Florestal,Área Urbanizada
+3542107,Rafard,3,33,0.024,Formação Florestal,"Rio, Lago e Oceano"
+3542107,Rafard,11,3,0.005,Campo Alagado e Área Pantanosa,Formação Florestal
+3542107,Rafard,11,11,0.0421,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3542107,Rafard,11,15,0.005,Campo Alagado e Área Pantanosa,Pastagem
+3542107,Rafard,11,20,0.0107,Campo Alagado e Área Pantanosa,Cana
+3542107,Rafard,11,21,0.1992,Campo Alagado e Área Pantanosa,Mosaico de usos
+3542107,Rafard,11,33,0.0132,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3542107,Rafard,12,15,0.0091,Formação Campestre,Pastagem
+3542107,Rafard,12,21,0.0107,Formação Campestre,Mosaico de usos
+3542107,Rafard,15,3,0.4479,Pastagem,Formação Florestal
+3542107,Rafard,15,9,0.3536,Pastagem,Silvicultura
+3542107,Rafard,15,11,0.0066,Pastagem,Campo Alagado e Área Pantanosa
+3542107,Rafard,15,15,7.1118,Pastagem,Pastagem
+3542107,Rafard,15,20,7.6738,Pastagem,Cana
+3542107,Rafard,15,21,4.1875,Pastagem,Mosaico de usos
+3542107,Rafard,15,24,0.1677,Pastagem,Área Urbanizada
+3542107,Rafard,15,25,0.0099,Pastagem,Outras Área não Vegetadas
+3542107,Rafard,15,33,0.0752,Pastagem,"Rio, Lago e Oceano"
+3542107,Rafard,15,39,0.0264,Pastagem,Soja
+3542107,Rafard,20,3,0.2554,Cana,Formação Florestal
+3542107,Rafard,20,9,0.2098,Cana,Silvicultura
+3542107,Rafard,20,11,0.0149,Cana,Campo Alagado e Área Pantanosa
+3542107,Rafard,20,15,4.2544,Cana,Pastagem
+3542107,Rafard,20,20,53.6647,Cana,Cana
+3542107,Rafard,20,21,6.9232,Cana,Mosaico de usos
+3542107,Rafard,20,24,0.5619,Cana,Área Urbanizada
+3542107,Rafard,20,25,0.3496,Cana,Outras Área não Vegetadas
+3542107,Rafard,20,33,0.1503,Cana,"Rio, Lago e Oceano"
+3542107,Rafard,20,39,0.133,Cana,Soja
+3542107,Rafard,21,3,1.4081,Mosaico de usos,Formação Florestal
+3542107,Rafard,21,9,0.2495,Mosaico de usos,Silvicultura
+3542107,Rafard,21,11,0.1917,Mosaico de usos,Campo Alagado e Área Pantanosa
+3542107,Rafard,21,15,1.4294,Mosaico de usos,Pastagem
+3542107,Rafard,21,20,8.769,Mosaico de usos,Cana
+3542107,Rafard,21,21,9.9567,Mosaico de usos,Mosaico de usos
+3542107,Rafard,21,24,0.7521,Mosaico de usos,Área Urbanizada
+3542107,Rafard,21,25,0.1248,Mosaico de usos,Outras Área não Vegetadas
+3542107,Rafard,21,33,0.1305,Mosaico de usos,"Rio, Lago e Oceano"
+3542107,Rafard,21,39,0.0298,Mosaico de usos,Soja
+3542107,Rafard,24,11,0.0066,Área Urbanizada,Campo Alagado e Área Pantanosa
+3542107,Rafard,24,21,0.0008,Área Urbanizada,Mosaico de usos
+3542107,Rafard,24,24,1.3563,Área Urbanizada,Área Urbanizada
+3542107,Rafard,25,3,0.0074,Outras Área não Vegetadas,Formação Florestal
+3542107,Rafard,25,20,0.0289,Outras Área não Vegetadas,Cana
+3542107,Rafard,25,21,0.0818,Outras Área não Vegetadas,Mosaico de usos
+3542107,Rafard,25,24,0.0562,Outras Área não Vegetadas,Área Urbanizada
+3542107,Rafard,25,25,0.0017,Outras Área não Vegetadas,Outras Área não Vegetadas
+3542107,Rafard,33,3,0.0917,"Rio, Lago e Oceano",Formação Florestal
+3542107,Rafard,33,11,0.0281,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3542107,Rafard,33,15,0.0091,"Rio, Lago e Oceano",Pastagem
+3542107,Rafard,33,21,0.0611,"Rio, Lago e Oceano",Mosaico de usos
+3542107,Rafard,33,24,0.0107,"Rio, Lago e Oceano",Área Urbanizada
+3542107,Rafard,33,25,0.0066,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3542107,Rafard,33,33,0.157,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3542107,Rafard,39,20,0.2371,Soja,Cana
+3542107,Rafard,41,15,0.0058,Outras Lavouras Temporárias,Pastagem
+3542107,Rafard,41,20,0.1033,Outras Lavouras Temporárias,Cana
+3542107,Rafard,41,21,0.062,Outras Lavouras Temporárias,Mosaico de usos
+3543907,Rio Claro,3,3,49.0094,Formação Florestal,Formação Florestal
+3543907,Rio Claro,3,4,0.0158,Formação Florestal,Formação Savânica
+3543907,Rio Claro,3,9,1.0361,Formação Florestal,Silvicultura
+3543907,Rio Claro,3,11,0.2981,Formação Florestal,Campo Alagado e Área Pantanosa
+3543907,Rio Claro,3,12,0.0066,Formação Florestal,Formação Campestre
+3543907,Rio Claro,3,15,5.0495,Formação Florestal,Pastagem
+3543907,Rio Claro,3,20,3.7697,Formação Florestal,Cana
+3543907,Rio Claro,3,21,7.6173,Formação Florestal,Mosaico de usos
+3543907,Rio Claro,3,24,0.2848,Formação Florestal,Área Urbanizada
+3543907,Rio Claro,3,25,0.2375,Formação Florestal,Outras Área não Vegetadas
+3543907,Rio Claro,3,30,0.2945,Formação Florestal,Mineração
+3543907,Rio Claro,3,33,0.0241,Formação Florestal,"Rio, Lago e Oceano"
+3543907,Rio Claro,3,39,0.0873,Formação Florestal,Soja
+3543907,Rio Claro,3,47,1.1396,Formação Florestal,Citrus
+3543907,Rio Claro,3,48,0.4544,Formação Florestal,Outras Lavouras Perenes
+3543907,Rio Claro,9,3,1.4231,Silvicultura,Formação Florestal
+3543907,Rio Claro,9,4,0.0133,Silvicultura,Formação Savânica
+3543907,Rio Claro,9,9,2.9878,Silvicultura,Silvicultura
+3543907,Rio Claro,9,11,0.0008,Silvicultura,Campo Alagado e Área Pantanosa
+3543907,Rio Claro,9,12,0.034,Silvicultura,Formação Campestre
+3543907,Rio Claro,9,15,0.392,Silvicultura,Pastagem
+3543907,Rio Claro,9,20,0.0723,Silvicultura,Cana
+3543907,Rio Claro,9,21,0.9158,Silvicultura,Mosaico de usos
+3543907,Rio Claro,9,33,0.0083,Silvicultura,"Rio, Lago e Oceano"
+3543907,Rio Claro,9,47,0.0075,Silvicultura,Citrus
+3543907,Rio Claro,11,3,0.309,Campo Alagado e Área Pantanosa,Formação Florestal
+3543907,Rio Claro,11,11,0.6518,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3543907,Rio Claro,11,15,0.5175,Campo Alagado e Área Pantanosa,Pastagem
+3543907,Rio Claro,11,20,0.0257,Campo Alagado e Área Pantanosa,Cana
+3543907,Rio Claro,11,21,0.72,Campo Alagado e Área Pantanosa,Mosaico de usos
+3543907,Rio Claro,11,24,0.0075,Campo Alagado e Área Pantanosa,Área Urbanizada
+3543907,Rio Claro,11,33,0.0166,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3543907,Rio Claro,12,3,0.0025,Formação Campestre,Formação Florestal
+3543907,Rio Claro,12,11,0.005,Formação Campestre,Campo Alagado e Área Pantanosa
+3543907,Rio Claro,12,12,0.0839,Formação Campestre,Formação Campestre
+3543907,Rio Claro,12,15,0.0133,Formação Campestre,Pastagem
+3543907,Rio Claro,12,20,0.0008,Formação Campestre,Cana
+3543907,Rio Claro,12,21,0.1412,Formação Campestre,Mosaico de usos
+3543907,Rio Claro,12,24,0.0398,Formação Campestre,Área Urbanizada
+3543907,Rio Claro,12,25,0.0017,Formação Campestre,Outras Área não Vegetadas
+3543907,Rio Claro,15,3,7.2352,Pastagem,Formação Florestal
+3543907,Rio Claro,15,4,0.0623,Pastagem,Formação Savânica
+3543907,Rio Claro,15,9,0.8979,Pastagem,Silvicultura
+3543907,Rio Claro,15,11,0.1735,Pastagem,Campo Alagado e Área Pantanosa
+3543907,Rio Claro,15,12,0.0017,Pastagem,Formação Campestre
+3543907,Rio Claro,15,15,70.318,Pastagem,Pastagem
+3543907,Rio Claro,15,20,38.5402,Pastagem,Cana
+3543907,Rio Claro,15,21,46.7073,Pastagem,Mosaico de usos
+3543907,Rio Claro,15,24,8.5683,Pastagem,Área Urbanizada
+3543907,Rio Claro,15,25,0.5854,Pastagem,Outras Área não Vegetadas
+3543907,Rio Claro,15,30,1.4017,Pastagem,Mineração
+3543907,Rio Claro,15,33,0.49,Pastagem,"Rio, Lago e Oceano"
+3543907,Rio Claro,15,39,0.6008,Pastagem,Soja
+3543907,Rio Claro,15,41,0.0864,Pastagem,Outras Lavouras Temporárias
+3543907,Rio Claro,15,47,1.8168,Pastagem,Citrus
+3543907,Rio Claro,15,48,0.476,Pastagem,Outras Lavouras Perenes
+3543907,Rio Claro,20,3,0.9641,Cana,Formação Florestal
+3543907,Rio Claro,20,9,0.2792,Cana,Silvicultura
+3543907,Rio Claro,20,11,0.0822,Cana,Campo Alagado e Área Pantanosa
+3543907,Rio Claro,20,15,9.4322,Cana,Pastagem
+3543907,Rio Claro,20,20,82.7518,Cana,Cana
+3543907,Rio Claro,20,21,13.7897,Cana,Mosaico de usos
+3543907,Rio Claro,20,24,2.8291,Cana,Área Urbanizada
+3543907,Rio Claro,20,25,0.5462,Cana,Outras Área não Vegetadas
+3543907,Rio Claro,20,30,3.0852,Cana,Mineração
+3543907,Rio Claro,20,33,0.6391,Cana,"Rio, Lago e Oceano"
+3543907,Rio Claro,20,39,0.8006,Cana,Soja
+3543907,Rio Claro,20,41,0.0714,Cana,Outras Lavouras Temporárias
+3543907,Rio Claro,20,46,0.0116,Cana,Café
+3543907,Rio Claro,20,47,2.1685,Cana,Citrus
+3543907,Rio Claro,20,48,0.1637,Cana,Outras Lavouras Perenes
+3543907,Rio Claro,21,3,13.0691,Mosaico de usos,Formação Florestal
+3543907,Rio Claro,21,4,0.0017,Mosaico de usos,Formação Savânica
+3543907,Rio Claro,21,9,1.4296,Mosaico de usos,Silvicultura
+3543907,Rio Claro,21,11,0.6773,Mosaico de usos,Campo Alagado e Área Pantanosa
+3543907,Rio Claro,21,15,6.6893,Mosaico de usos,Pastagem
+3543907,Rio Claro,21,20,20.184,Mosaico de usos,Cana
+3543907,Rio Claro,21,21,33.1831,Mosaico de usos,Mosaico de usos
+3543907,Rio Claro,21,24,6.7427,Mosaico de usos,Área Urbanizada
+3543907,Rio Claro,21,25,0.3512,Mosaico de usos,Outras Área não Vegetadas
+3543907,Rio Claro,21,30,2.0309,Mosaico de usos,Mineração
+3543907,Rio Claro,21,33,0.2067,Mosaico de usos,"Rio, Lago e Oceano"
+3543907,Rio Claro,21,39,1.1773,Mosaico de usos,Soja
+3543907,Rio Claro,21,41,0.0058,Mosaico de usos,Outras Lavouras Temporárias
+3543907,Rio Claro,21,47,1.4537,Mosaico de usos,Citrus
+3543907,Rio Claro,21,48,0.402,Mosaico de usos,Outras Lavouras Perenes
+3543907,Rio Claro,24,15,0.0025,Área Urbanizada,Pastagem
+3543907,Rio Claro,24,21,0.0498,Área Urbanizada,Mosaico de usos
+3543907,Rio Claro,24,24,30.291,Área Urbanizada,Área Urbanizada
+3543907,Rio Claro,25,3,0.2199,Outras Área não Vegetadas,Formação Florestal
+3543907,Rio Claro,25,4,0.0017,Outras Área não Vegetadas,Formação Savânica
+3543907,Rio Claro,25,15,0.1121,Outras Área não Vegetadas,Pastagem
+3543907,Rio Claro,25,20,0.0681,Outras Área não Vegetadas,Cana
+3543907,Rio Claro,25,21,0.8433,Outras Área não Vegetadas,Mosaico de usos
+3543907,Rio Claro,25,24,0.166,Outras Área não Vegetadas,Área Urbanizada
+3543907,Rio Claro,25,25,0.0473,Outras Área não Vegetadas,Outras Área não Vegetadas
+3543907,Rio Claro,25,30,0.0282,Outras Área não Vegetadas,Mineração
+3543907,Rio Claro,25,33,0.005,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3543907,Rio Claro,30,3,0.0017,Mineração,Formação Florestal
+3543907,Rio Claro,30,11,0.0025,Mineração,Campo Alagado e Área Pantanosa
+3543907,Rio Claro,30,15,0.0008,Mineração,Pastagem
+3543907,Rio Claro,30,20,0.0008,Mineração,Cana
+3543907,Rio Claro,30,21,0.1103,Mineração,Mosaico de usos
+3543907,Rio Claro,30,24,0.0232,Mineração,Área Urbanizada
+3543907,Rio Claro,30,30,1.2492,Mineração,Mineração
+3543907,Rio Claro,33,3,0.4083,"Rio, Lago e Oceano",Formação Florestal
+3543907,Rio Claro,33,11,0.2931,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3543907,Rio Claro,33,12,0.0116,"Rio, Lago e Oceano",Formação Campestre
+3543907,Rio Claro,33,15,0.0648,"Rio, Lago e Oceano",Pastagem
+3543907,Rio Claro,33,20,0.0091,"Rio, Lago e Oceano",Cana
+3543907,Rio Claro,33,21,0.4742,"Rio, Lago e Oceano",Mosaico de usos
+3543907,Rio Claro,33,24,0.0498,"Rio, Lago e Oceano",Área Urbanizada
+3543907,Rio Claro,33,25,0.0124,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3543907,Rio Claro,33,30,0.1253,"Rio, Lago e Oceano",Mineração
+3543907,Rio Claro,33,33,0.7716,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3543907,Rio Claro,39,15,0.059,Soja,Pastagem
+3543907,Rio Claro,39,20,1.2225,Soja,Cana
+3543907,Rio Claro,39,21,0.1653,Soja,Mosaico de usos
+3543907,Rio Claro,39,24,0.0274,Soja,Área Urbanizada
+3543907,Rio Claro,39,25,0.0008,Soja,Outras Área não Vegetadas
+3543907,Rio Claro,39,30,0.0664,Soja,Mineração
+3543907,Rio Claro,39,33,0.0025,Soja,"Rio, Lago e Oceano"
+3543907,Rio Claro,39,39,0.0257,Soja,Soja
+3543907,Rio Claro,41,3,0.0224,Outras Lavouras Temporárias,Formação Florestal
+3543907,Rio Claro,41,15,0.0199,Outras Lavouras Temporárias,Pastagem
+3543907,Rio Claro,41,20,0.6044,Outras Lavouras Temporárias,Cana
+3543907,Rio Claro,41,21,0.0863,Outras Lavouras Temporárias,Mosaico de usos
+3543907,Rio Claro,41,39,0.005,Outras Lavouras Temporárias,Soja
+3543907,Rio Claro,47,3,0.0025,Citrus,Formação Florestal
+3543907,Rio Claro,47,20,0.545,Citrus,Cana
+3543907,Rio Claro,47,21,0.0216,Citrus,Mosaico de usos
+3543907,Rio Claro,47,47,0.3198,Citrus,Citrus
+3543907,Rio Claro,47,48,0.0083,Citrus,Outras Lavouras Perenes
+3543907,Rio Claro,48,20,0.0507,Outras Lavouras Perenes,Cana
+3543907,Rio Claro,48,21,0.0158,Outras Lavouras Perenes,Mosaico de usos
+3543907,Rio Claro,48,48,0.0723,Outras Lavouras Perenes,Outras Lavouras Perenes
+3544004,Rio das Pedras,3,3,8.4924,Formação Florestal,Formação Florestal
+3544004,Rio das Pedras,3,9,0.0471,Formação Florestal,Silvicultura
+3544004,Rio das Pedras,3,15,0.5546,Formação Florestal,Pastagem
+3544004,Rio das Pedras,3,20,1.2674,Formação Florestal,Cana
+3544004,Rio das Pedras,3,21,2.0562,Formação Florestal,Mosaico de usos
+3544004,Rio das Pedras,3,24,0.0737,Formação Florestal,Área Urbanizada
+3544004,Rio das Pedras,3,25,0.0017,Formação Florestal,Outras Área não Vegetadas
+3544004,Rio das Pedras,3,30,0.0141,Formação Florestal,Mineração
+3544004,Rio das Pedras,3,33,0.0199,Formação Florestal,"Rio, Lago e Oceano"
+3544004,Rio das Pedras,3,39,0.0017,Formação Florestal,Soja
+3544004,Rio das Pedras,11,3,0.0116,Campo Alagado e Área Pantanosa,Formação Florestal
+3544004,Rio das Pedras,11,11,0.1647,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3544004,Rio das Pedras,11,15,0.0199,Campo Alagado e Área Pantanosa,Pastagem
+3544004,Rio das Pedras,11,20,0.024,Campo Alagado e Área Pantanosa,Cana
+3544004,Rio das Pedras,11,21,0.1622,Campo Alagado e Área Pantanosa,Mosaico de usos
+3544004,Rio das Pedras,11,33,0.0041,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3544004,Rio das Pedras,12,39,0.019,Formação Campestre,Soja
+3544004,Rio das Pedras,15,3,2.1314,Pastagem,Formação Florestal
+3544004,Rio das Pedras,15,11,0.1821,Pastagem,Campo Alagado e Área Pantanosa
+3544004,Rio das Pedras,15,15,5.3534,Pastagem,Pastagem
+3544004,Rio das Pedras,15,20,6.8796,Pastagem,Cana
+3544004,Rio das Pedras,15,21,6.9211,Pastagem,Mosaico de usos
+3544004,Rio das Pedras,15,24,0.2036,Pastagem,Área Urbanizada
+3544004,Rio das Pedras,15,25,0.1034,Pastagem,Outras Área não Vegetadas
+3544004,Rio das Pedras,15,30,0.2101,Pastagem,Mineração
+3544004,Rio das Pedras,15,33,0.0314,Pastagem,"Rio, Lago e Oceano"
+3544004,Rio das Pedras,15,39,0.1001,Pastagem,Soja
+3544004,Rio das Pedras,20,3,1.0883,Cana,Formação Florestal
+3544004,Rio das Pedras,20,9,0.067,Cana,Silvicultura
+3544004,Rio das Pedras,20,11,0.1944,Cana,Campo Alagado e Área Pantanosa
+3544004,Rio das Pedras,20,15,4.2307,Cana,Pastagem
+3544004,Rio das Pedras,20,20,122.4865,Cana,Cana
+3544004,Rio das Pedras,20,21,12.9353,Cana,Mosaico de usos
+3544004,Rio das Pedras,20,24,4.3151,Cana,Área Urbanizada
+3544004,Rio das Pedras,20,25,0.2151,Cana,Outras Área não Vegetadas
+3544004,Rio das Pedras,20,30,0.1671,Cana,Mineração
+3544004,Rio das Pedras,20,33,0.1382,Cana,"Rio, Lago e Oceano"
+3544004,Rio das Pedras,20,39,6.1728,Cana,Soja
+3544004,Rio das Pedras,20,41,0.2623,Cana,Outras Lavouras Temporárias
+3544004,Rio das Pedras,21,3,4.2086,Mosaico de usos,Formação Florestal
+3544004,Rio das Pedras,21,9,0.0083,Mosaico de usos,Silvicultura
+3544004,Rio das Pedras,21,11,0.5213,Mosaico de usos,Campo Alagado e Área Pantanosa
+3544004,Rio das Pedras,21,15,2.4348,Mosaico de usos,Pastagem
+3544004,Rio das Pedras,21,20,8.7975,Mosaico de usos,Cana
+3544004,Rio das Pedras,21,21,14.7761,Mosaico de usos,Mosaico de usos
+3544004,Rio das Pedras,21,24,1.599,Mosaico de usos,Área Urbanizada
+3544004,Rio das Pedras,21,25,0.1862,Mosaico de usos,Outras Área não Vegetadas
+3544004,Rio das Pedras,21,30,0.163,Mosaico de usos,Mineração
+3544004,Rio das Pedras,21,33,0.1225,Mosaico de usos,"Rio, Lago e Oceano"
+3544004,Rio das Pedras,21,39,0.4428,Mosaico de usos,Soja
+3544004,Rio das Pedras,21,41,0.005,Mosaico de usos,Outras Lavouras Temporárias
+3544004,Rio das Pedras,24,3,0.0008,Área Urbanizada,Formação Florestal
+3544004,Rio das Pedras,24,21,0.0083,Área Urbanizada,Mosaico de usos
+3544004,Rio das Pedras,24,24,3.7895,Área Urbanizada,Área Urbanizada
+3544004,Rio das Pedras,25,3,0.1473,Outras Área não Vegetadas,Formação Florestal
+3544004,Rio das Pedras,25,15,0.0596,Outras Área não Vegetadas,Pastagem
+3544004,Rio das Pedras,25,20,0.0058,Outras Área não Vegetadas,Cana
+3544004,Rio das Pedras,25,21,0.0778,Outras Área não Vegetadas,Mosaico de usos
+3544004,Rio das Pedras,25,24,0.0232,Outras Área não Vegetadas,Área Urbanizada
+3544004,Rio das Pedras,25,30,0.0149,Outras Área não Vegetadas,Mineração
+3544004,Rio das Pedras,30,3,0.0124,Mineração,Formação Florestal
+3544004,Rio das Pedras,30,15,0.0008,Mineração,Pastagem
+3544004,Rio das Pedras,30,20,0.0017,Mineração,Cana
+3544004,Rio das Pedras,30,21,0.0223,Mineração,Mosaico de usos
+3544004,Rio das Pedras,30,24,0.0232,Mineração,Área Urbanizada
+3544004,Rio das Pedras,30,30,0.7338,Mineração,Mineração
+3544004,Rio das Pedras,33,3,0.1638,"Rio, Lago e Oceano",Formação Florestal
+3544004,Rio das Pedras,33,9,0.0099,"Rio, Lago e Oceano",Silvicultura
+3544004,Rio das Pedras,33,11,0.0248,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3544004,Rio das Pedras,33,15,0.0207,"Rio, Lago e Oceano",Pastagem
+3544004,Rio das Pedras,33,20,0.0157,"Rio, Lago e Oceano",Cana
+3544004,Rio das Pedras,33,21,0.3252,"Rio, Lago e Oceano",Mosaico de usos
+3544004,Rio das Pedras,33,24,0.0281,"Rio, Lago e Oceano",Área Urbanizada
+3544004,Rio das Pedras,33,30,0.0066,"Rio, Lago e Oceano",Mineração
+3544004,Rio das Pedras,33,33,0.7853,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3544004,Rio das Pedras,33,39,0.0017,"Rio, Lago e Oceano",Soja
+3544004,Rio das Pedras,39,20,0.1191,Soja,Cana
+3544004,Rio das Pedras,39,21,0.0008,Soja,Mosaico de usos
+3544004,Rio das Pedras,39,39,0.0877,Soja,Soja
+3544004,Rio das Pedras,41,20,0.096,Outras Lavouras Temporárias,Cana
+3544004,Rio das Pedras,41,21,0.0074,Outras Lavouras Temporárias,Mosaico de usos
+3544004,Rio das Pedras,41,39,0.0273,Outras Lavouras Temporárias,Soja
+3545159,Saltinho,3,3,7.2431,Formação Florestal,Formação Florestal
+3545159,Saltinho,3,11,0.0025,Formação Florestal,Campo Alagado e Área Pantanosa
+3545159,Saltinho,3,15,0.3309,Formação Florestal,Pastagem
+3545159,Saltinho,3,20,0.1746,Formação Florestal,Cana
+3545159,Saltinho,3,21,0.3889,Formação Florestal,Mosaico de usos
+3545159,Saltinho,3,25,0.0008,Formação Florestal,Outras Área não Vegetadas
+3545159,Saltinho,3,30,0.0116,Formação Florestal,Mineração
+3545159,Saltinho,3,33,0.0116,Formação Florestal,"Rio, Lago e Oceano"
+3545159,Saltinho,11,3,0.0025,Campo Alagado e Área Pantanosa,Formação Florestal
+3545159,Saltinho,11,11,0.1233,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3545159,Saltinho,11,15,0.0397,Campo Alagado e Área Pantanosa,Pastagem
+3545159,Saltinho,11,20,0.0165,Campo Alagado e Área Pantanosa,Cana
+3545159,Saltinho,11,21,0.0703,Campo Alagado e Área Pantanosa,Mosaico de usos
+3545159,Saltinho,11,33,0.0108,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3545159,Saltinho,15,3,1.807,Pastagem,Formação Florestal
+3545159,Saltinho,15,9,0.0927,Pastagem,Silvicultura
+3545159,Saltinho,15,11,0.235,Pastagem,Campo Alagado e Área Pantanosa
+3545159,Saltinho,15,15,21.2544,Pastagem,Pastagem
+3545159,Saltinho,15,20,9.4749,Pastagem,Cana
+3545159,Saltinho,15,21,5.4613,Pastagem,Mosaico de usos
+3545159,Saltinho,15,24,0.1829,Pastagem,Área Urbanizada
+3545159,Saltinho,15,25,0.0372,Pastagem,Outras Área não Vegetadas
+3545159,Saltinho,15,30,0.4128,Pastagem,Mineração
+3545159,Saltinho,15,33,0.1348,Pastagem,"Rio, Lago e Oceano"
+3545159,Saltinho,15,39,0.0769,Pastagem,Soja
+3545159,Saltinho,20,3,0.3574,Cana,Formação Florestal
+3545159,Saltinho,20,9,0.0124,Cana,Silvicultura
+3545159,Saltinho,20,11,0.053,Cana,Campo Alagado e Área Pantanosa
+3545159,Saltinho,20,15,4.9047,Cana,Pastagem
+3545159,Saltinho,20,20,28.2005,Cana,Cana
+3545159,Saltinho,20,21,4.9621,Cana,Mosaico de usos
+3545159,Saltinho,20,24,1.747,Cana,Área Urbanizada
+3545159,Saltinho,20,25,0.2201,Cana,Outras Área não Vegetadas
+3545159,Saltinho,20,30,0.7403,Cana,Mineração
+3545159,Saltinho,20,33,0.0521,Cana,"Rio, Lago e Oceano"
+3545159,Saltinho,20,39,0.2193,Cana,Soja
+3545159,Saltinho,20,41,0.0248,Cana,Outras Lavouras Temporárias
+3545159,Saltinho,21,3,1.1773,Mosaico de usos,Formação Florestal
+3545159,Saltinho,21,9,0.0108,Mosaico de usos,Silvicultura
+3545159,Saltinho,21,11,0.1895,Mosaico de usos,Campo Alagado e Área Pantanosa
+3545159,Saltinho,21,15,1.721,Mosaico de usos,Pastagem
+3545159,Saltinho,21,20,1.4645,Mosaico de usos,Cana
+3545159,Saltinho,21,21,3.0481,Mosaico de usos,Mosaico de usos
+3545159,Saltinho,21,24,0.5818,Mosaico de usos,Área Urbanizada
+3545159,Saltinho,21,25,0.0108,Mosaico de usos,Outras Área não Vegetadas
+3545159,Saltinho,21,30,0.1092,Mosaico de usos,Mineração
+3545159,Saltinho,21,33,0.0521,Mosaico de usos,"Rio, Lago e Oceano"
+3545159,Saltinho,24,3,0.0017,Área Urbanizada,Formação Florestal
+3545159,Saltinho,24,21,0.0025,Área Urbanizada,Mosaico de usos
+3545159,Saltinho,24,24,1.0568,Área Urbanizada,Área Urbanizada
+3545159,Saltinho,24,33,0.0008,Área Urbanizada,"Rio, Lago e Oceano"
+3545159,Saltinho,25,3,0.163,Outras Área não Vegetadas,Formação Florestal
+3545159,Saltinho,25,15,0.0306,Outras Área não Vegetadas,Pastagem
+3545159,Saltinho,25,21,0.0711,Outras Área não Vegetadas,Mosaico de usos
+3545159,Saltinho,25,24,0.0116,Outras Área não Vegetadas,Área Urbanizada
+3545159,Saltinho,25,25,0.0132,Outras Área não Vegetadas,Outras Área não Vegetadas
+3545159,Saltinho,25,30,0.0207,Outras Área não Vegetadas,Mineração
+3545159,Saltinho,30,3,0.0132,Mineração,Formação Florestal
+3545159,Saltinho,30,15,0.0008,Mineração,Pastagem
+3545159,Saltinho,30,21,0.0041,Mineração,Mosaico de usos
+3545159,Saltinho,30,25,0.0008,Mineração,Outras Área não Vegetadas
+3545159,Saltinho,30,30,0.5551,Mineração,Mineração
+3545159,Saltinho,30,33,0.0017,Mineração,"Rio, Lago e Oceano"
+3545159,Saltinho,33,3,0.1158,"Rio, Lago e Oceano",Formação Florestal
+3545159,Saltinho,33,11,0.0008,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3545159,Saltinho,33,15,0.0215,"Rio, Lago e Oceano",Pastagem
+3545159,Saltinho,33,20,0.0008,"Rio, Lago e Oceano",Cana
+3545159,Saltinho,33,21,0.0629,"Rio, Lago e Oceano",Mosaico de usos
+3545159,Saltinho,33,25,0.0008,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3545159,Saltinho,33,30,0.0017,"Rio, Lago e Oceano",Mineração
+3545159,Saltinho,33,33,0.1845,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3545159,Saltinho,39,15,0.0199,Soja,Pastagem
+3545159,Saltinho,39,20,0.0736,Soja,Cana
+3545159,Saltinho,39,30,0.0174,Soja,Mineração
+3545159,Saltinho,41,15,0.0017,Outras Lavouras Temporárias,Pastagem
+3545159,Saltinho,41,20,0.0108,Outras Lavouras Temporárias,Cana
+3545159,Saltinho,41,30,0.0149,Outras Lavouras Temporárias,Mineração
+3545159,Saltinho,48,20,0.053,Outras Lavouras Perenes,Cana
+3545159,Saltinho,48,21,0.0017,Outras Lavouras Perenes,Mosaico de usos
+3546207,Santa Cruz da Conceição,3,3,18.7356,Formação Florestal,Formação Florestal
+3546207,Santa Cruz da Conceição,3,4,0.0316,Formação Florestal,Formação Savânica
+3546207,Santa Cruz da Conceição,3,9,0.0616,Formação Florestal,Silvicultura
+3546207,Santa Cruz da Conceição,3,11,0.2379,Formação Florestal,Campo Alagado e Área Pantanosa
+3546207,Santa Cruz da Conceição,3,15,0.8061,Formação Florestal,Pastagem
+3546207,Santa Cruz da Conceição,3,20,1.548,Formação Florestal,Cana
+3546207,Santa Cruz da Conceição,3,21,1.5214,Formação Florestal,Mosaico de usos
+3546207,Santa Cruz da Conceição,3,24,0.0008,Formação Florestal,Área Urbanizada
+3546207,Santa Cruz da Conceição,3,33,0.0299,Formação Florestal,"Rio, Lago e Oceano"
+3546207,Santa Cruz da Conceição,3,39,0.3003,Formação Florestal,Soja
+3546207,Santa Cruz da Conceição,3,41,0.0125,Formação Florestal,Outras Lavouras Temporárias
+3546207,Santa Cruz da Conceição,4,3,0.0033,Formação Savânica,Formação Florestal
+3546207,Santa Cruz da Conceição,4,9,0.0632,Formação Savânica,Silvicultura
+3546207,Santa Cruz da Conceição,4,20,0.1372,Formação Savânica,Cana
+3546207,Santa Cruz da Conceição,4,21,0.0449,Formação Savânica,Mosaico de usos
+3546207,Santa Cruz da Conceição,4,24,0.0058,Formação Savânica,Área Urbanizada
+3546207,Santa Cruz da Conceição,4,39,0.0508,Formação Savânica,Soja
+3546207,Santa Cruz da Conceição,11,3,0.2795,Campo Alagado e Área Pantanosa,Formação Florestal
+3546207,Santa Cruz da Conceição,11,4,0.0474,Campo Alagado e Área Pantanosa,Formação Savânica
+3546207,Santa Cruz da Conceição,11,11,0.4183,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3546207,Santa Cruz da Conceição,11,15,0.2338,Campo Alagado e Área Pantanosa,Pastagem
+3546207,Santa Cruz da Conceição,11,20,0.0507,Campo Alagado e Área Pantanosa,Cana
+3546207,Santa Cruz da Conceição,11,21,0.4883,Campo Alagado e Área Pantanosa,Mosaico de usos
+3546207,Santa Cruz da Conceição,11,24,0.0008,Campo Alagado e Área Pantanosa,Área Urbanizada
+3546207,Santa Cruz da Conceição,11,33,0.0033,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3546207,Santa Cruz da Conceição,11,39,0.0025,Campo Alagado e Área Pantanosa,Soja
+3546207,Santa Cruz da Conceição,11,41,0.0191,Campo Alagado e Área Pantanosa,Outras Lavouras Temporárias
+3546207,Santa Cruz da Conceição,15,3,3.2154,Pastagem,Formação Florestal
+3546207,Santa Cruz da Conceição,15,4,0.2246,Pastagem,Formação Savânica
+3546207,Santa Cruz da Conceição,15,9,1.2553,Pastagem,Silvicultura
+3546207,Santa Cruz da Conceição,15,11,0.025,Pastagem,Campo Alagado e Área Pantanosa
+3546207,Santa Cruz da Conceição,15,15,25.6548,Pastagem,Pastagem
+3546207,Santa Cruz da Conceição,15,20,17.9626,Pastagem,Cana
+3546207,Santa Cruz da Conceição,15,21,17.3231,Pastagem,Mosaico de usos
+3546207,Santa Cruz da Conceição,15,24,0.7611,Pastagem,Área Urbanizada
+3546207,Santa Cruz da Conceição,15,25,0.1198,Pastagem,Outras Área não Vegetadas
+3546207,Santa Cruz da Conceição,15,30,0.3534,Pastagem,Mineração
+3546207,Santa Cruz da Conceição,15,33,0.505,Pastagem,"Rio, Lago e Oceano"
+3546207,Santa Cruz da Conceição,15,39,1.9519,Pastagem,Soja
+3546207,Santa Cruz da Conceição,15,41,0.1173,Pastagem,Outras Lavouras Temporárias
+3546207,Santa Cruz da Conceição,15,48,0.0108,Pastagem,Outras Lavouras Perenes
+3546207,Santa Cruz da Conceição,20,3,0.0923,Cana,Formação Florestal
+3546207,Santa Cruz da Conceição,20,4,0.0191,Cana,Formação Savânica
+3546207,Santa Cruz da Conceição,20,9,0.0183,Cana,Silvicultura
+3546207,Santa Cruz da Conceição,20,11,0.0008,Cana,Campo Alagado e Área Pantanosa
+3546207,Santa Cruz da Conceição,20,15,1.979,Cana,Pastagem
+3546207,Santa Cruz da Conceição,20,20,14.008,Cana,Cana
+3546207,Santa Cruz da Conceição,20,21,2.3567,Cana,Mosaico de usos
+3546207,Santa Cruz da Conceição,20,24,0.0699,Cana,Área Urbanizada
+3546207,Santa Cruz da Conceição,20,25,0.0882,Cana,Outras Área não Vegetadas
+3546207,Santa Cruz da Conceição,20,33,0.0008,Cana,"Rio, Lago e Oceano"
+3546207,Santa Cruz da Conceição,20,39,1.7729,Cana,Soja
+3546207,Santa Cruz da Conceição,20,41,0.0108,Cana,Outras Lavouras Temporárias
+3546207,Santa Cruz da Conceição,21,3,1.2372,Mosaico de usos,Formação Florestal
+3546207,Santa Cruz da Conceição,21,4,0.0033,Mosaico de usos,Formação Savânica
+3546207,Santa Cruz da Conceição,21,9,0.2005,Mosaico de usos,Silvicultura
+3546207,Santa Cruz da Conceição,21,11,0.0025,Mosaico de usos,Campo Alagado e Área Pantanosa
+3546207,Santa Cruz da Conceição,21,15,1.1247,Mosaico de usos,Pastagem
+3546207,Santa Cruz da Conceição,21,20,7.2361,Mosaico de usos,Cana
+3546207,Santa Cruz da Conceição,21,21,5.3484,Mosaico de usos,Mosaico de usos
+3546207,Santa Cruz da Conceição,21,24,0.2063,Mosaico de usos,Área Urbanizada
+3546207,Santa Cruz da Conceição,21,25,0.1464,Mosaico de usos,Outras Área não Vegetadas
+3546207,Santa Cruz da Conceição,21,30,0.0025,Mosaico de usos,Mineração
+3546207,Santa Cruz da Conceição,21,33,0.0341,Mosaico de usos,"Rio, Lago e Oceano"
+3546207,Santa Cruz da Conceição,21,39,4.0403,Mosaico de usos,Soja
+3546207,Santa Cruz da Conceição,21,41,0.2388,Mosaico de usos,Outras Lavouras Temporárias
+3546207,Santa Cruz da Conceição,21,47,0.0008,Mosaico de usos,Citrus
+3546207,Santa Cruz da Conceição,24,21,0.0042,Área Urbanizada,Mosaico de usos
+3546207,Santa Cruz da Conceição,24,24,0.7637,Área Urbanizada,Área Urbanizada
+3546207,Santa Cruz da Conceição,24,33,0.0008,Área Urbanizada,"Rio, Lago e Oceano"
+3546207,Santa Cruz da Conceição,25,3,0.0042,Outras Área não Vegetadas,Formação Florestal
+3546207,Santa Cruz da Conceição,25,4,0.0183,Outras Área não Vegetadas,Formação Savânica
+3546207,Santa Cruz da Conceição,25,9,0.0432,Outras Área não Vegetadas,Silvicultura
+3546207,Santa Cruz da Conceição,25,20,0.5599,Outras Área não Vegetadas,Cana
+3546207,Santa Cruz da Conceição,25,21,0.213,Outras Área não Vegetadas,Mosaico de usos
+3546207,Santa Cruz da Conceição,25,24,0.01,Outras Área não Vegetadas,Área Urbanizada
+3546207,Santa Cruz da Conceição,25,25,0.0308,Outras Área não Vegetadas,Outras Área não Vegetadas
+3546207,Santa Cruz da Conceição,25,39,0.3237,Outras Área não Vegetadas,Soja
+3546207,Santa Cruz da Conceição,25,41,0.0141,Outras Área não Vegetadas,Outras Lavouras Temporárias
+3546207,Santa Cruz da Conceição,33,3,0.0283,"Rio, Lago e Oceano",Formação Florestal
+3546207,Santa Cruz da Conceição,33,11,0.0333,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3546207,Santa Cruz da Conceição,33,15,0.0108,"Rio, Lago e Oceano",Pastagem
+3546207,Santa Cruz da Conceição,33,20,0.0008,"Rio, Lago e Oceano",Cana
+3546207,Santa Cruz da Conceição,33,21,0.1872,"Rio, Lago e Oceano",Mosaico de usos
+3546207,Santa Cruz da Conceição,33,24,0.0399,"Rio, Lago e Oceano",Área Urbanizada
+3546207,Santa Cruz da Conceição,33,25,0.0017,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3546207,Santa Cruz da Conceição,33,33,1.1338,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3546207,Santa Cruz da Conceição,39,3,0.0042,Soja,Formação Florestal
+3546207,Santa Cruz da Conceição,39,9,0.0724,Soja,Silvicultura
+3546207,Santa Cruz da Conceição,39,15,0.0699,Soja,Pastagem
+3546207,Santa Cruz da Conceição,39,20,4.7321,Soja,Cana
+3546207,Santa Cruz da Conceição,39,21,0.7487,Soja,Mosaico de usos
+3546207,Santa Cruz da Conceição,39,24,0.0474,Soja,Área Urbanizada
+3546207,Santa Cruz da Conceição,39,25,0.02,Soja,Outras Área não Vegetadas
+3546207,Santa Cruz da Conceição,39,39,4.0983,Soja,Soja
+3546207,Santa Cruz da Conceição,39,41,0.0557,Soja,Outras Lavouras Temporárias
+3546207,Santa Cruz da Conceição,39,47,0.089,Soja,Citrus
+3546207,Santa Cruz da Conceição,41,3,0.0025,Outras Lavouras Temporárias,Formação Florestal
+3546207,Santa Cruz da Conceição,41,20,0.282,Outras Lavouras Temporárias,Cana
+3546207,Santa Cruz da Conceição,41,21,0.1464,Outras Lavouras Temporárias,Mosaico de usos
+3546207,Santa Cruz da Conceição,41,25,0.0216,Outras Lavouras Temporárias,Outras Área não Vegetadas
+3546207,Santa Cruz da Conceição,41,39,0.183,Outras Lavouras Temporárias,Soja
+3546207,Santa Cruz da Conceição,47,15,0.005,Citrus,Pastagem
+3546207,Santa Cruz da Conceição,47,20,0.495,Citrus,Cana
+3546207,Santa Cruz da Conceição,47,21,0.0641,Citrus,Mosaico de usos
+3546207,Santa Cruz da Conceição,47,39,0.9859,Citrus,Soja
+3546207,Santa Cruz da Conceição,47,41,0.0732,Citrus,Outras Lavouras Temporárias
+3546207,Santa Cruz da Conceição,48,3,0.0008,Outras Lavouras Perenes,Formação Florestal
+3546207,Santa Cruz da Conceição,48,20,0.0083,Outras Lavouras Perenes,Cana
+3546207,Santa Cruz da Conceição,48,21,0.01,Outras Lavouras Perenes,Mosaico de usos
+3546207,Santa Cruz da Conceição,48,41,0.0299,Outras Lavouras Perenes,Outras Lavouras Temporárias
+3546702,Santa Gertrudes,3,3,3.2936,Formação Florestal,Formação Florestal
+3546702,Santa Gertrudes,3,15,0.0058,Formação Florestal,Pastagem
+3546702,Santa Gertrudes,3,20,0.1634,Formação Florestal,Cana
+3546702,Santa Gertrudes,3,21,0.5344,Formação Florestal,Mosaico de usos
+3546702,Santa Gertrudes,3,24,0.0689,Formação Florestal,Área Urbanizada
+3546702,Santa Gertrudes,3,33,0.0017,Formação Florestal,"Rio, Lago e Oceano"
+3546702,Santa Gertrudes,3,39,0.083,Formação Florestal,Soja
+3546702,Santa Gertrudes,9,9,0.005,Silvicultura,Silvicultura
+3546702,Santa Gertrudes,9,15,0.0332,Silvicultura,Pastagem
+3546702,Santa Gertrudes,9,20,0.0432,Silvicultura,Cana
+3546702,Santa Gertrudes,9,21,0.1602,Silvicultura,Mosaico de usos
+3546702,Santa Gertrudes,9,24,0.0249,Silvicultura,Área Urbanizada
+3546702,Santa Gertrudes,9,33,0.0008,Silvicultura,"Rio, Lago e Oceano"
+3546702,Santa Gertrudes,9,39,0.0871,Silvicultura,Soja
+3546702,Santa Gertrudes,11,3,0.0075,Campo Alagado e Área Pantanosa,Formação Florestal
+3546702,Santa Gertrudes,11,11,0.351,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3546702,Santa Gertrudes,11,15,0.0133,Campo Alagado e Área Pantanosa,Pastagem
+3546702,Santa Gertrudes,11,20,0.0091,Campo Alagado e Área Pantanosa,Cana
+3546702,Santa Gertrudes,11,21,0.3178,Campo Alagado e Área Pantanosa,Mosaico de usos
+3546702,Santa Gertrudes,11,24,0.0324,Campo Alagado e Área Pantanosa,Área Urbanizada
+3546702,Santa Gertrudes,11,25,0.0017,Campo Alagado e Área Pantanosa,Outras Área não Vegetadas
+3546702,Santa Gertrudes,11,33,0.0415,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3546702,Santa Gertrudes,11,39,0.0183,Campo Alagado e Área Pantanosa,Soja
+3546702,Santa Gertrudes,15,3,0.0523,Pastagem,Formação Florestal
+3546702,Santa Gertrudes,15,11,0.0888,Pastagem,Campo Alagado e Área Pantanosa
+3546702,Santa Gertrudes,15,15,0.6348,Pastagem,Pastagem
+3546702,Santa Gertrudes,15,20,0.7294,Pastagem,Cana
+3546702,Santa Gertrudes,15,21,1.9079,Pastagem,Mosaico de usos
+3546702,Santa Gertrudes,15,24,0.0589,Pastagem,Área Urbanizada
+3546702,Santa Gertrudes,15,25,0.1411,Pastagem,Outras Área não Vegetadas
+3546702,Santa Gertrudes,15,33,0.0681,Pastagem,"Rio, Lago e Oceano"
+3546702,Santa Gertrudes,15,39,0.1676,Pastagem,Soja
+3546702,Santa Gertrudes,15,41,0.0008,Pastagem,Outras Lavouras Temporárias
+3546702,Santa Gertrudes,20,3,0.3967,Cana,Formação Florestal
+3546702,Santa Gertrudes,20,9,0.1087,Cana,Silvicultura
+3546702,Santa Gertrudes,20,11,0.0821,Cana,Campo Alagado e Área Pantanosa
+3546702,Santa Gertrudes,20,15,0.41,Cana,Pastagem
+3546702,Santa Gertrudes,20,20,50.0345,Cana,Cana
+3546702,Santa Gertrudes,20,21,7.3181,Cana,Mosaico de usos
+3546702,Santa Gertrudes,20,24,3.6349,Cana,Área Urbanizada
+3546702,Santa Gertrudes,20,25,2.4908,Cana,Outras Área não Vegetadas
+3546702,Santa Gertrudes,20,30,0.2729,Cana,Mineração
+3546702,Santa Gertrudes,20,33,0.5734,Cana,"Rio, Lago e Oceano"
+3546702,Santa Gertrudes,20,39,1.8804,Cana,Soja
+3546702,Santa Gertrudes,20,41,0.1079,Cana,Outras Lavouras Temporárias
+3546702,Santa Gertrudes,21,3,1.21,Mosaico de usos,Formação Florestal
+3546702,Santa Gertrudes,21,9,0.0647,Mosaico de usos,Silvicultura
+3546702,Santa Gertrudes,21,11,0.7725,Mosaico de usos,Campo Alagado e Área Pantanosa
+3546702,Santa Gertrudes,21,15,0.6564,Mosaico de usos,Pastagem
+3546702,Santa Gertrudes,21,20,3.6834,Mosaico de usos,Cana
+3546702,Santa Gertrudes,21,21,7.932,Mosaico de usos,Mosaico de usos
+3546702,Santa Gertrudes,21,24,1.2996,Mosaico de usos,Área Urbanizada
+3546702,Santa Gertrudes,21,25,0.2796,Mosaico de usos,Outras Área não Vegetadas
+3546702,Santa Gertrudes,21,30,0.0606,Mosaico de usos,Mineração
+3546702,Santa Gertrudes,21,33,0.4506,Mosaico de usos,"Rio, Lago e Oceano"
+3546702,Santa Gertrudes,21,39,0.8092,Mosaico de usos,Soja
+3546702,Santa Gertrudes,21,41,0.0133,Mosaico de usos,Outras Lavouras Temporárias
+3546702,Santa Gertrudes,24,15,0.0008,Área Urbanizada,Pastagem
+3546702,Santa Gertrudes,24,21,0.0008,Área Urbanizada,Mosaico de usos
+3546702,Santa Gertrudes,24,24,2.4274,Área Urbanizada,Área Urbanizada
+3546702,Santa Gertrudes,25,3,0.0382,Outras Área não Vegetadas,Formação Florestal
+3546702,Santa Gertrudes,25,11,0.0058,Outras Área não Vegetadas,Campo Alagado e Área Pantanosa
+3546702,Santa Gertrudes,25,15,0.034,Outras Área não Vegetadas,Pastagem
+3546702,Santa Gertrudes,25,20,0.0025,Outras Área não Vegetadas,Cana
+3546702,Santa Gertrudes,25,21,0.1253,Outras Área não Vegetadas,Mosaico de usos
+3546702,Santa Gertrudes,25,24,0.039,Outras Área não Vegetadas,Área Urbanizada
+3546702,Santa Gertrudes,25,25,0.0589,Outras Área não Vegetadas,Outras Área não Vegetadas
+3546702,Santa Gertrudes,25,33,0.0149,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3546702,Santa Gertrudes,33,3,0.0307,"Rio, Lago e Oceano",Formação Florestal
+3546702,Santa Gertrudes,33,9,0.0008,"Rio, Lago e Oceano",Silvicultura
+3546702,Santa Gertrudes,33,11,0.0598,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3546702,Santa Gertrudes,33,15,0.0041,"Rio, Lago e Oceano",Pastagem
+3546702,Santa Gertrudes,33,20,0.0058,"Rio, Lago e Oceano",Cana
+3546702,Santa Gertrudes,33,21,0.317,"Rio, Lago e Oceano",Mosaico de usos
+3546702,Santa Gertrudes,33,24,0.0498,"Rio, Lago e Oceano",Área Urbanizada
+3546702,Santa Gertrudes,33,25,0.0017,"Rio, Lago e Oceano",Outras Área não Vegetadas
+3546702,Santa Gertrudes,33,30,0.0041,"Rio, Lago e Oceano",Mineração
+3546702,Santa Gertrudes,33,33,0.6348,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3546702,Santa Gertrudes,33,39,0.0008,"Rio, Lago e Oceano",Soja
+3546702,Santa Gertrudes,39,20,0.0423,Soja,Cana
+3546702,Santa Gertrudes,39,21,0.0224,Soja,Mosaico de usos
+3546702,Santa Gertrudes,39,24,0.1685,Soja,Área Urbanizada
+3546702,Santa Gertrudes,39,33,0.0066,Soja,"Rio, Lago e Oceano"
+3546702,Santa Gertrudes,41,20,0.4323,Outras Lavouras Temporárias,Cana
+3546702,Santa Gertrudes,41,21,0.0481,Outras Lavouras Temporárias,Mosaico de usos
+3546702,Santa Gertrudes,41,24,0.0697,Outras Lavouras Temporárias,Área Urbanizada
+3546702,Santa Gertrudes,41,25,0.0133,Outras Lavouras Temporárias,Outras Área não Vegetadas
+3546702,Santa Gertrudes,41,33,0.0017,Outras Lavouras Temporárias,"Rio, Lago e Oceano"
+3546702,Santa Gertrudes,41,39,0.1784,Outras Lavouras Temporárias,Soja
+3546702,Santa Gertrudes,47,21,0.0017,Citrus,Mosaico de usos
+3546702,Santa Gertrudes,47,39,0.0116,Citrus,Soja
+3547007,Santa Maria da Serra,3,3,34.9114,Formação Florestal,Formação Florestal
+3547007,Santa Maria da Serra,3,4,0.0166,Formação Florestal,Formação Savânica
+3547007,Santa Maria da Serra,3,9,0.4436,Formação Florestal,Silvicultura
+3547007,Santa Maria da Serra,3,11,0.4038,Formação Florestal,Campo Alagado e Área Pantanosa
+3547007,Santa Maria da Serra,3,15,2.7255,Formação Florestal,Pastagem
+3547007,Santa Maria da Serra,3,20,2.6005,Formação Florestal,Cana
+3547007,Santa Maria da Serra,3,21,2.24,Formação Florestal,Mosaico de usos
+3547007,Santa Maria da Serra,3,24,0.0075,Formação Florestal,Área Urbanizada
+3547007,Santa Maria da Serra,3,33,0.0099,Formação Florestal,"Rio, Lago e Oceano"
+3547007,Santa Maria da Serra,3,39,1.2281,Formação Florestal,Soja
+3547007,Santa Maria da Serra,3,41,0.0191,Formação Florestal,Outras Lavouras Temporárias
+3547007,Santa Maria da Serra,3,47,0.3407,Formação Florestal,Citrus
+3547007,Santa Maria da Serra,9,3,0.0224,Silvicultura,Formação Florestal
+3547007,Santa Maria da Serra,9,9,0.01,Silvicultura,Silvicultura
+3547007,Santa Maria da Serra,9,15,0.0348,Silvicultura,Pastagem
+3547007,Santa Maria da Serra,9,20,0.0257,Silvicultura,Cana
+3547007,Santa Maria da Serra,9,21,0.0216,Silvicultura,Mosaico de usos
+3547007,Santa Maria da Serra,11,3,0.4387,Campo Alagado e Área Pantanosa,Formação Florestal
+3547007,Santa Maria da Serra,11,4,0.0116,Campo Alagado e Área Pantanosa,Formação Savânica
+3547007,Santa Maria da Serra,11,9,0.1376,Campo Alagado e Área Pantanosa,Silvicultura
+3547007,Santa Maria da Serra,11,11,0.7687,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3547007,Santa Maria da Serra,11,15,0.5706,Campo Alagado e Área Pantanosa,Pastagem
+3547007,Santa Maria da Serra,11,20,0.0381,Campo Alagado e Área Pantanosa,Cana
+3547007,Santa Maria da Serra,11,21,1.4603,Campo Alagado e Área Pantanosa,Mosaico de usos
+3547007,Santa Maria da Serra,11,24,0.0033,Campo Alagado e Área Pantanosa,Área Urbanizada
+3547007,Santa Maria da Serra,11,33,0.0108,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3547007,Santa Maria da Serra,11,39,0.0124,Campo Alagado e Área Pantanosa,Soja
+3547007,Santa Maria da Serra,15,3,3.3318,Pastagem,Formação Florestal
+3547007,Santa Maria da Serra,15,4,0.0149,Pastagem,Formação Savânica
+3547007,Santa Maria da Serra,15,9,9.3578,Pastagem,Silvicultura
+3547007,Santa Maria da Serra,15,11,0.0199,Pastagem,Campo Alagado e Área Pantanosa
+3547007,Santa Maria da Serra,15,12,0.0846,Pastagem,Formação Campestre
+3547007,Santa Maria da Serra,15,15,38.2201,Pastagem,Pastagem
+3547007,Santa Maria da Serra,15,20,35.189,Pastagem,Cana
+3547007,Santa Maria da Serra,15,21,30.0236,Pastagem,Mosaico de usos
+3547007,Santa Maria da Serra,15,24,0.6973,Pastagem,Área Urbanizada
+3547007,Santa Maria da Serra,15,25,0.1518,Pastagem,Outras Área não Vegetadas
+3547007,Santa Maria da Serra,15,33,0.1194,Pastagem,"Rio, Lago e Oceano"
+3547007,Santa Maria da Serra,15,39,2.1966,Pastagem,Soja
+3547007,Santa Maria da Serra,15,41,0.8534,Pastagem,Outras Lavouras Temporárias
+3547007,Santa Maria da Serra,15,47,0.9892,Pastagem,Citrus
+3547007,Santa Maria da Serra,15,48,0.1103,Pastagem,Outras Lavouras Perenes
+3547007,Santa Maria da Serra,20,3,0.029,Cana,Formação Florestal
+3547007,Santa Maria da Serra,20,9,0.5274,Cana,Silvicultura
+3547007,Santa Maria da Serra,20,11,0.0025,Cana,Campo Alagado e Área Pantanosa
+3547007,Santa Maria da Serra,20,15,4.3977,Cana,Pastagem
+3547007,Santa Maria da Serra,20,20,21.9537,Cana,Cana
+3547007,Santa Maria da Serra,20,21,3.4178,Cana,Mosaico de usos
+3547007,Santa Maria da Serra,20,24,0.1542,Cana,Área Urbanizada
+3547007,Santa Maria da Serra,20,25,0.0207,Cana,Outras Área não Vegetadas
+3547007,Santa Maria da Serra,20,33,0.0025,Cana,"Rio, Lago e Oceano"
+3547007,Santa Maria da Serra,20,39,1.5423,Cana,Soja
+3547007,Santa Maria da Serra,20,41,0.1659,Cana,Outras Lavouras Temporárias
+3547007,Santa Maria da Serra,20,47,1.5486,Cana,Citrus
+3547007,Santa Maria da Serra,20,48,0.0754,Cana,Outras Lavouras Perenes
+3547007,Santa Maria da Serra,21,3,0.7407,Mosaico de usos,Formação Florestal
+3547007,Santa Maria da Serra,21,9,1.2671,Mosaico de usos,Silvicultura
+3547007,Santa Maria da Serra,21,11,0.0083,Mosaico de usos,Campo Alagado e Área Pantanosa
+3547007,Santa Maria da Serra,21,12,0.0522,Mosaico de usos,Formação Campestre
+3547007,Santa Maria da Serra,21,15,2.8184,Mosaico de usos,Pastagem
+3547007,Santa Maria da Serra,21,20,2.8842,Mosaico de usos,Cana
+3547007,Santa Maria da Serra,21,21,5.2412,Mosaico de usos,Mosaico de usos
+3547007,Santa Maria da Serra,21,24,0.1907,Mosaico de usos,Área Urbanizada
+3547007,Santa Maria da Serra,21,25,0.0481,Mosaico de usos,Outras Área não Vegetadas
+3547007,Santa Maria da Serra,21,33,0.0365,Mosaico de usos,"Rio, Lago e Oceano"
+3547007,Santa Maria da Serra,21,39,0.6062,Mosaico de usos,Soja
+3547007,Santa Maria da Serra,21,41,0.0323,Mosaico de usos,Outras Lavouras Temporárias
+3547007,Santa Maria da Serra,21,47,0.034,Mosaico de usos,Citrus
+3547007,Santa Maria da Serra,24,21,0.0075,Área Urbanizada,Mosaico de usos
+3547007,Santa Maria da Serra,24,24,0.8134,Área Urbanizada,Área Urbanizada
+3547007,Santa Maria da Serra,25,9,0.0323,Outras Área não Vegetadas,Silvicultura
+3547007,Santa Maria da Serra,25,15,0.0514,Outras Área não Vegetadas,Pastagem
+3547007,Santa Maria da Serra,25,20,0.1294,Outras Área não Vegetadas,Cana
+3547007,Santa Maria da Serra,25,21,0.2512,Outras Área não Vegetadas,Mosaico de usos
+3547007,Santa Maria da Serra,25,24,0.0066,Outras Área não Vegetadas,Área Urbanizada
+3547007,Santa Maria da Serra,25,25,0.0166,Outras Área não Vegetadas,Outras Área não Vegetadas
+3547007,Santa Maria da Serra,25,33,0.005,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3547007,Santa Maria da Serra,25,39,0.0945,Outras Área não Vegetadas,Soja
+3547007,Santa Maria da Serra,25,41,0.0406,Outras Área não Vegetadas,Outras Lavouras Temporárias
+3547007,Santa Maria da Serra,25,48,0.005,Outras Área não Vegetadas,Outras Lavouras Perenes
+3547007,Santa Maria da Serra,33,3,0.0871,"Rio, Lago e Oceano",Formação Florestal
+3547007,Santa Maria da Serra,33,9,0.0547,"Rio, Lago e Oceano",Silvicultura
+3547007,Santa Maria da Serra,33,11,0.0033,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3547007,Santa Maria da Serra,33,15,0.0705,"Rio, Lago e Oceano",Pastagem
+3547007,Santa Maria da Serra,33,21,0.3905,"Rio, Lago e Oceano",Mosaico de usos
+3547007,Santa Maria da Serra,33,24,0.0075,"Rio, Lago e Oceano",Área Urbanizada
+3547007,Santa Maria da Serra,33,33,28.4183,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3547007,Santa Maria da Serra,39,9,0.0282,Soja,Silvicultura
+3547007,Santa Maria da Serra,39,15,0.2737,Soja,Pastagem
+3547007,Santa Maria da Serra,39,20,0.3192,Soja,Cana
+3547007,Santa Maria da Serra,39,21,0.2529,Soja,Mosaico de usos
+3547007,Santa Maria da Serra,39,24,0.029,Soja,Área Urbanizada
+3547007,Santa Maria da Serra,39,25,0.0025,Soja,Outras Área não Vegetadas
+3547007,Santa Maria da Serra,39,41,0.0357,Soja,Outras Lavouras Temporárias
+3547007,Santa Maria da Serra,41,9,0.0564,Outras Lavouras Temporárias,Silvicultura
+3547007,Santa Maria da Serra,41,15,0.0274,Outras Lavouras Temporárias,Pastagem
+3547007,Santa Maria da Serra,41,20,0.0564,Outras Lavouras Temporárias,Cana
+3547007,Santa Maria da Serra,41,21,0.0448,Outras Lavouras Temporárias,Mosaico de usos
+3547007,Santa Maria da Serra,41,24,0.0124,Outras Lavouras Temporárias,Área Urbanizada
+3547007,Santa Maria da Serra,41,39,0.0597,Outras Lavouras Temporárias,Soja
+3547007,Santa Maria da Serra,47,15,0.1244,Citrus,Pastagem
+3547007,Santa Maria da Serra,47,20,0.1717,Citrus,Cana
+3547007,Santa Maria da Serra,47,21,0.1318,Citrus,Mosaico de usos
+3547007,Santa Maria da Serra,47,39,0.1832,Citrus,Soja
+3547007,Santa Maria da Serra,47,41,0.0174,Citrus,Outras Lavouras Temporárias
+3547007,Santa Maria da Serra,47,47,0.4394,Citrus,Citrus
+3547007,Santa Maria da Serra,48,3,0.0075,Outras Lavouras Perenes,Formação Florestal
+3547007,Santa Maria da Serra,48,11,0.0298,Outras Lavouras Perenes,Campo Alagado e Área Pantanosa
+3547007,Santa Maria da Serra,48,15,1.479,Outras Lavouras Perenes,Pastagem
+3547007,Santa Maria da Serra,48,20,0.2455,Outras Lavouras Perenes,Cana
+3547007,Santa Maria da Serra,48,21,0.844,Outras Lavouras Perenes,Mosaico de usos
+3547007,Santa Maria da Serra,48,33,0.0058,Outras Lavouras Perenes,"Rio, Lago e Oceano"
+3547007,Santa Maria da Serra,48,39,0.16,Outras Lavouras Perenes,Soja
+3547007,Santa Maria da Serra,48,41,0.0357,Outras Lavouras Perenes,Outras Lavouras Temporárias
+3550407,São Pedro,3,3,92.6703,Formação Florestal,Formação Florestal
+3550407,São Pedro,3,4,0.1684,Formação Florestal,Formação Savânica
+3550407,São Pedro,3,9,1.5403,Formação Florestal,Silvicultura
+3550407,São Pedro,3,11,0.2952,Formação Florestal,Campo Alagado e Área Pantanosa
+3550407,São Pedro,3,15,5.3389,Formação Florestal,Pastagem
+3550407,São Pedro,3,20,1.391,Formação Florestal,Cana
+3550407,São Pedro,3,21,4.8137,Formação Florestal,Mosaico de usos
+3550407,São Pedro,3,24,0.3052,Formação Florestal,Área Urbanizada
+3550407,São Pedro,3,25,0.0058,Formação Florestal,Outras Área não Vegetadas
+3550407,São Pedro,3,33,0.0191,Formação Florestal,"Rio, Lago e Oceano"
+3550407,São Pedro,3,39,0.0614,Formação Florestal,Soja
+3550407,São Pedro,3,41,0.0066,Formação Florestal,Outras Lavouras Temporárias
+3550407,São Pedro,3,46,0.0125,Formação Florestal,Café
+3550407,São Pedro,3,47,0.1252,Formação Florestal,Citrus
+3550407,São Pedro,3,48,0.0033,Formação Florestal,Outras Lavouras Perenes
+3550407,São Pedro,4,3,0.0017,Formação Savânica,Formação Florestal
+3550407,São Pedro,4,9,0.0332,Formação Savânica,Silvicultura
+3550407,São Pedro,4,15,0.0075,Formação Savânica,Pastagem
+3550407,São Pedro,4,20,0.1485,Formação Savânica,Cana
+3550407,São Pedro,4,21,0.0141,Formação Savânica,Mosaico de usos
+3550407,São Pedro,4,25,0.0116,Formação Savânica,Outras Área não Vegetadas
+3550407,São Pedro,4,47,0.0116,Formação Savânica,Citrus
+3550407,São Pedro,4,48,0.0017,Formação Savânica,Outras Lavouras Perenes
+3550407,São Pedro,9,3,0.0581,Silvicultura,Formação Florestal
+3550407,São Pedro,9,4,0.0083,Silvicultura,Formação Savânica
+3550407,São Pedro,9,9,0.2082,Silvicultura,Silvicultura
+3550407,São Pedro,9,11,0.0133,Silvicultura,Campo Alagado e Área Pantanosa
+3550407,São Pedro,9,15,0.0979,Silvicultura,Pastagem
+3550407,São Pedro,9,20,0.1535,Silvicultura,Cana
+3550407,São Pedro,9,21,0.0606,Silvicultura,Mosaico de usos
+3550407,São Pedro,11,3,1.5035,Campo Alagado e Área Pantanosa,Formação Florestal
+3550407,São Pedro,11,4,0.0091,Campo Alagado e Área Pantanosa,Formação Savânica
+3550407,São Pedro,11,9,0.6663,Campo Alagado e Área Pantanosa,Silvicultura
+3550407,São Pedro,11,11,9.5048,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa
+3550407,São Pedro,11,15,4.2411,Campo Alagado e Área Pantanosa,Pastagem
+3550407,São Pedro,11,20,0.3963,Campo Alagado e Área Pantanosa,Cana
+3550407,São Pedro,11,21,6.0146,Campo Alagado e Área Pantanosa,Mosaico de usos
+3550407,São Pedro,11,24,0.1152,Campo Alagado e Área Pantanosa,Área Urbanizada
+3550407,São Pedro,11,25,0.073,Campo Alagado e Área Pantanosa,Outras Área não Vegetadas
+3550407,São Pedro,11,33,1.0053,Campo Alagado e Área Pantanosa,"Rio, Lago e Oceano"
+3550407,São Pedro,11,39,0.0108,Campo Alagado e Área Pantanosa,Soja
+3550407,São Pedro,11,47,0.0158,Campo Alagado e Área Pantanosa,Citrus
+3550407,São Pedro,11,48,0.0025,Campo Alagado e Área Pantanosa,Outras Lavouras Perenes
+3550407,São Pedro,15,3,12.5007,Pastagem,Formação Florestal
+3550407,São Pedro,15,4,0.4414,Pastagem,Formação Savânica
+3550407,São Pedro,15,9,17.0105,Pastagem,Silvicultura
+3550407,São Pedro,15,11,1.5392,Pastagem,Campo Alagado e Área Pantanosa
+3550407,São Pedro,15,15,141.9729,Pastagem,Pastagem
+3550407,São Pedro,15,20,69.3653,Pastagem,Cana
+3550407,São Pedro,15,21,73.7541,Pastagem,Mosaico de usos
+3550407,São Pedro,15,24,4.89,Pastagem,Área Urbanizada
+3550407,São Pedro,15,25,0.2612,Pastagem,Outras Área não Vegetadas
+3550407,São Pedro,15,33,0.2753,Pastagem,"Rio, Lago e Oceano"
+3550407,São Pedro,15,39,4.289,Pastagem,Soja
+3550407,São Pedro,15,41,0.5855,Pastagem,Outras Lavouras Temporárias
+3550407,São Pedro,15,47,4.3932,Pastagem,Citrus
+3550407,São Pedro,15,48,0.8317,Pastagem,Outras Lavouras Perenes
+3550407,São Pedro,20,3,0.3789,Cana,Formação Florestal
+3550407,São Pedro,20,4,0.0008,Cana,Formação Savânica
+3550407,São Pedro,20,9,4.3692,Cana,Silvicultura
+3550407,São Pedro,20,11,0.0249,Cana,Campo Alagado e Área Pantanosa
+3550407,São Pedro,20,15,9.4105,Cana,Pastagem
+3550407,São Pedro,20,20,55.5332,Cana,Cana
+3550407,São Pedro,20,21,9.4332,Cana,Mosaico de usos
+3550407,São Pedro,20,24,0.4088,Cana,Área Urbanizada
+3550407,São Pedro,20,25,0.034,Cana,Outras Área não Vegetadas
+3550407,São Pedro,20,33,0.0141,Cana,"Rio, Lago e Oceano"
+3550407,São Pedro,20,39,1.927,Cana,Soja
+3550407,São Pedro,20,41,0.0738,Cana,Outras Lavouras Temporárias
+3550407,São Pedro,20,47,2.1142,Cana,Citrus
+3550407,São Pedro,20,48,0.2753,Cana,Outras Lavouras Perenes
+3550407,São Pedro,21,3,2.8676,Mosaico de usos,Formação Florestal
+3550407,São Pedro,21,4,0.0589,Mosaico de usos,Formação Savânica
+3550407,São Pedro,21,9,1.32,Mosaico de usos,Silvicultura
+3550407,São Pedro,21,11,0.7318,Mosaico de usos,Campo Alagado e Área Pantanosa
+3550407,São Pedro,21,15,5.7336,Mosaico de usos,Pastagem
+3550407,São Pedro,21,20,12.2179,Mosaico de usos,Cana
+3550407,São Pedro,21,21,14.9714,Mosaico de usos,Mosaico de usos
+3550407,São Pedro,21,24,1.2927,Mosaico de usos,Área Urbanizada
+3550407,São Pedro,21,25,0.1741,Mosaico de usos,Outras Área não Vegetadas
+3550407,São Pedro,21,33,0.1401,Mosaico de usos,"Rio, Lago e Oceano"
+3550407,São Pedro,21,39,0.5169,Mosaico de usos,Soja
+3550407,São Pedro,21,41,0.044,Mosaico de usos,Outras Lavouras Temporárias
+3550407,São Pedro,21,47,1.6348,Mosaico de usos,Citrus
+3550407,São Pedro,21,48,0.0216,Mosaico de usos,Outras Lavouras Perenes
+3550407,São Pedro,24,11,0.0017,Área Urbanizada,Campo Alagado e Área Pantanosa
+3550407,São Pedro,24,15,0.0216,Área Urbanizada,Pastagem
+3550407,São Pedro,24,20,0.0008,Área Urbanizada,Cana
+3550407,São Pedro,24,21,0.0672,Área Urbanizada,Mosaico de usos
+3550407,São Pedro,24,24,8.8963,Área Urbanizada,Área Urbanizada
+3550407,São Pedro,25,3,0.0249,Outras Área não Vegetadas,Formação Florestal
+3550407,São Pedro,25,9,0.005,Outras Área não Vegetadas,Silvicultura
+3550407,São Pedro,25,11,0.0008,Outras Área não Vegetadas,Campo Alagado e Área Pantanosa
+3550407,São Pedro,25,15,0.2181,Outras Área não Vegetadas,Pastagem
+3550407,São Pedro,25,20,1.0303,Outras Área não Vegetadas,Cana
+3550407,São Pedro,25,21,1.4188,Outras Área não Vegetadas,Mosaico de usos
+3550407,São Pedro,25,24,0.2579,Outras Área não Vegetadas,Área Urbanizada
+3550407,São Pedro,25,25,0.039,Outras Área não Vegetadas,Outras Área não Vegetadas
+3550407,São Pedro,25,33,0.0025,Outras Área não Vegetadas,"Rio, Lago e Oceano"
+3550407,São Pedro,25,39,0.0083,Outras Área não Vegetadas,Soja
+3550407,São Pedro,25,41,0.0025,Outras Área não Vegetadas,Outras Lavouras Temporárias
+3550407,São Pedro,25,47,1.42,Outras Área não Vegetadas,Citrus
+3550407,São Pedro,25,48,0.0108,Outras Área não Vegetadas,Outras Lavouras Perenes
+3550407,São Pedro,33,3,0.3133,"Rio, Lago e Oceano",Formação Florestal
+3550407,São Pedro,33,9,0.3232,"Rio, Lago e Oceano",Silvicultura
+3550407,São Pedro,33,11,1.3492,"Rio, Lago e Oceano",Campo Alagado e Área Pantanosa
+3550407,São Pedro,33,15,0.2338,"Rio, Lago e Oceano",Pastagem
+3550407,São Pedro,33,20,0.0124,"Rio, Lago e Oceano",Cana
+3550407,São Pedro,33,21,1.3212,"Rio, Lago e Oceano",Mosaico de usos
+3550407,São Pedro,33,24,0.029,"Rio, Lago e Oceano",Área Urbanizada
+3550407,São Pedro,33,33,5.3289,"Rio, Lago e Oceano","Rio, Lago e Oceano"
+3550407,São Pedro,33,48,0.0025,"Rio, Lago e Oceano",Outras Lavouras Perenes
+3550407,São Pedro,39,9,0.0224,Soja,Silvicultura
+3550407,São Pedro,39,15,0.068,Soja,Pastagem
+3550407,São Pedro,39,20,0.3723,Soja,Cana
+3550407,São Pedro,39,21,0.1319,Soja,Mosaico de usos
+3550407,São Pedro,39,25,0.0075,Soja,Outras Área não Vegetadas
+3550407,São Pedro,39,39,0.0348,Soja,Soja
+3550407,São Pedro,39,41,0.0017,Soja,Outras Lavouras Temporárias
+3550407,São Pedro,39,47,0.0158,Soja,Citrus
+3550407,São Pedro,41,3,0.0075,Outras Lavouras Temporárias,Formação Florestal
+3550407,São Pedro,41,9,0.0008,Outras Lavouras Temporárias,Silvicultura
+3550407,São Pedro,41,15,0.1693,Outras Lavouras Temporárias,Pastagem
+3550407,São Pedro,41,20,0.1402,Outras Lavouras Temporárias,Cana
+3550407,São Pedro,41,21,0.0705,Outras Lavouras Temporárias,Mosaico de usos
+3550407,São Pedro,41,39,0.0207,Outras Lavouras Temporárias,Soja
+3550407,São Pedro,41,41,0.0124,Outras Lavouras Temporárias,Outras Lavouras Temporárias
+3550407,São Pedro,41,47,0.0672,Outras Lavouras Temporárias,Citrus
+3550407,São Pedro,47,20,0.2205,Citrus,Cana
+3550407,São Pedro,47,21,0.0158,Citrus,Mosaico de usos
+3550407,São Pedro,47,47,0.1252,Citrus,Citrus
+3550407,São Pedro,48,20,0.0224,Outras Lavouras Perenes,Cana

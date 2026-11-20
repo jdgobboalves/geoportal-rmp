@@ -1,0 +1,34 @@
+﻿class_id,class_name_pt_br,class_name_en,hex_code,grupo
+3,Formação Florestal,Forest Formation,#1f8d49,Floresta
+6,Floresta Alagável,Floodable Forest,#007785,Floresta
+4,Formação Savânica,Savanna Formation,#7dc975,Floresta
+7,Savana Alagada (beta),Flooded Savanna (beta),#228c70,Formação natural não florestal
+5,Mangue,Mangrove,#04381d,Floresta
+49,Restinga Arbórea,Wooded Sandbank Vegetation,#02d659,Floresta
+12,Formação Campestre,Grassland Formation,#d6bc74,Formação natural não florestal
+77,Formação Herbáceo Arbustiva,Herbaceous and Shrub Formation,#86b074,Formação natural não florestal
+11,Campo Alagado e Área Pantanosa,Wetland,#519799,Formação natural não florestal
+84,Marismas (beta),Salt Marsh (beta),#81dbbf,Formação natural não florestal
+50,Restinga Herbácea ou Arbustiva,Herbaceous Sandbank Vegetation,#ffaa5f,Formação natural não florestal
+32,Apicum,Hypersaline Tidal Flat,#fc8114,Formação natural não florestal
+29,Afloramento Rochoso,Rocky Outrcrop,#ad5100,Formação natural não florestal
+15,Pastagem,Pasture,#edde8e,Agropecuária
+39,Soja,Soybean,#f5b3c8,Agropecuária
+20,Cana,Sugar cane,#db7093,Agropecuária
+40,Arroz,Rice,#c71585,Agropecuária
+62,Algodão (beta),Cotton (beta),#ff69b4,Agropecuária
+41,Outras Lavouras Temporárias,Other Temporary Crops,#f54ca9,Agropecuária
+46,Café,Coffe,#d68fe2,Agropecuária
+47,Citrus,Citrus,#9932cc,Agropecuária
+35,Dendê,Palm Oil,#9065d0,Agropecuária
+48,Outras Lavouras Perenes,Other Perennial Crops,#e6ccff,Agropecuária
+9,Silvicultura,Forest Plantation,#7a5900,Agropecuária
+21,Mosaico de usos,Mosaic of Uses,#ffefc3,Agropecuária
+23,"Praia, Duna e Areal","Beach, Dune and Sand Spot",#ffa07a,Área não vegetada
+24,Área Urbanizada,Urban Area,#d4271e,Área não vegetada
+30,Mineração,Mining,#9c0027,Área não vegetada
+75,Usina Fotovoltaica,Photovoltaic Power Plant,#757272,Área não vegetada
+91,Parque eólico (beta),Wind farm (beta),#403d3e,Área não vegetada
+25,Outras Área não Vegetadas,Other non Vegetated Areas,#db4d4f,Área não vegetada
+33,"Rio, Lago e Oceano","River, Lake and Ocean",#2532e4,Corpo d'água
+31,Aquicultura,Aquaculture,#091077,Corpo d'água
