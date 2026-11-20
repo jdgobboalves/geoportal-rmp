@@ -379,3 +379,4 @@ select:focus, .campo:focus { outline: 2px solid color-mix(in srgb, var(--destaqu
 .email::before { content: "✉"; }
 .email:hover { text-decoration: underline; }
 .citacao a { color: var(--destaque); }
+.caixa p + p { margin-top: 10px; }
