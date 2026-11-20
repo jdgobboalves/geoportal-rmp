@@ -372,3 +372,10 @@ select:focus, .campo:focus { outline: 2px solid color-mix(in srgb, var(--destaqu
   .tab-fontes td { display: block; border: 0; padding: 1px 0; }
   .tab-fontes td:first-child { font-size: .75rem; color: var(--suave); text-transform: uppercase; }
 }
+
+/* Mais informações: citação e contato */
+.citacao { background: var(--bg); border-left: 3px solid var(--destaque); padding: 10px 12px; border-radius: 0 6px 6px 0; font-size: .9rem; line-height: 1.5; overflow-wrap: anywhere; }
+.email { display: inline-flex; align-items: center; gap: 6px; font-weight: 500; color: var(--destaque); text-decoration: none; }
+.email::before { content: "✉"; }
+.email:hover { text-decoration: underline; }
+.citacao a { color: var(--destaque); }
