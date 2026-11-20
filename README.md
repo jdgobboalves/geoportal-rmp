@@ -115,9 +115,19 @@ Depois rode `scripts\preparar_mapbiomas.py`.
 
 ## Publicar no GitHub Pages
 
-1. Crie um repositório e envie esta pasta (o `.gitignore` deixa `dados_brutos/` de fora).
-2. Settings → Pages → Branch `main` / pasta raiz.
-3. O site fica em `https://<usuario>.github.io/<repo>/`.
+Publicado em **https://jdgobboalves.github.io/geoportal-rmp/** (repositório `jdgobboalves/geoportal-rmp`,
+branch `main`, pasta raiz). O `.gitignore` deixa `dados_brutos/` de fora; o `.nojekyll` faz o Pages servir
+arquivos que começam com `_`.
+
+Para atualizar o site depois de mudar arquivos (o Pages republica em 1–2 minutos):
+
+```
+git add -A
+git commit -m "descrição da mudança"
+git push
+```
+
+Ao mudar arquivos JS/CSS, aumente o `?v=N` em `index.html` para os navegadores não usarem a versão antiga.
 
 Se os dados ficarem em outro repositório, troque `BASE_DADOS` em `js/config.js`.
 
