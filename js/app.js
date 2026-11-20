@@ -42,7 +42,7 @@
   // transparência do fundo vale para qualquer mapa de fundo escolhido
   let opacFundo = 1 - (CONFIG.transparencia_fundo || 0);
   Object.values(fundos).forEach(l => l.setOpacity(opacFundo));
-  L.control.layers(fundos, null, { position: "topright" }).addTo(mapa);
+  L.control.layers(fundos, null, { position: "topleft" }).addTo(mapa);   // canto direito fica com o cartão do município
   L.control.scale({ imperial: false }).addTo(mapa);
 
   const hover = L.control({ position: "bottomright" });
@@ -589,11 +589,17 @@
       <tr><td>Setores</td><td>${fmt(p.n_setores)}</td></tr>${vias}</table>`;
     usoMunicipio();
   }
+  // margem para o enquadramento não ficar atrás do cartão do município (canto superior direito)
+  function folga() {
+    const pm = $("painel-mun"), w = mapa.getSize().x;
+    if (!pm || pm.hidden || pm.classList.contains("minimizado") || w < 700) return { padding: [20, 20] };
+    return { paddingTopLeft: [20, 20], paddingBottomRight: [pm.offsetWidth + 24, 20] };
+  }
   function selecionarMunicipio(cd) {
     estado.municipio = cd; $("sel-mun").value = cd; infoMunicipio(); redesenhar();
     mapa.invalidateSize();
-    if (cd) camadaMun.eachLayer(l => { if (l.feature.properties.CD_MUN === cd) mapa.fitBounds(l.getBounds(), { padding: [20, 20] }); });
-    else mapa.fitBounds(camadaMun.getBounds());
+    if (cd) camadaMun.eachLayer(l => { if (l.feature.properties.CD_MUN === cd) mapa.fitBounds(l.getBounds(), folga()); });
+    else mapa.fitBounds(camadaMun.getBounds(), folga());
   }
 
   // ---------- Carregamento inicial ----------
@@ -690,7 +696,7 @@
       const vistaInicial = () => {
         vistaPendente = false;
         if (h.length === 3 && h.every(n => !isNaN(n)) && h[0] >= 7) mapa.setView([h[1], h[2]], h[0]);
-        else mapa.fitBounds(camadaMun.getBounds());
+        else mapa.fitBounds(camadaMun.getBounds(), folga());
         vistaPendente = false;
       };
       vistaPendente = true;

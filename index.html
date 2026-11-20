@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-  <link rel="stylesheet" href="css/style.css?v=14">
+  <link rel="stylesheet" href="css/style.css?v=15">
 </head>
 <body>
   <!-- ================= Barra superior ================= -->
@@ -42,18 +42,8 @@
 
       <!-- ---------- Aba CAMADAS ---------- -->
       <div id="painel-camadas" class="painel-aba">
-        <div class="painel-cab">
-          <label class="rotulo" for="sel-mun" style="margin-top:0">Município</label>
-          <select id="sel-mun"><option value="">Toda a RMP (24 municípios)</option></select>
-          <section class="cartoes" id="resumo"></section>
-          <details class="bloco perfil">
-            <summary>Perfil do município</summary>
-            <div id="info-mun" class="info-mun"></div>
-          </details>
-        </div>
-
         <!-- Tema 1 · Limites territoriais -->
-        <details class="tema" style="--cor-tema:#3f8fa8" open>
+        <details class="tema" style="--cor-tema:#3f8fa8">
           <summary>
             <span class="tema-ico"><svg viewBox="0 0 24 24"><path d="M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2z M9 4v14 M15 6v14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></span>
             <span class="tema-tit"><b>Limites Territoriais</b><small>Municípios e divisão censitária</small></span>
@@ -100,7 +90,7 @@
             <span class="tema-tit"><b>Economia e Infraestrutura</b><small>PIB, empresas, equipamentos urbanos e vias</small></span>
           </summary>
           <div class="tema-corpo">
-            <details class="bloco" id="bloco-eco" open>
+            <details class="bloco" id="bloco-eco">
               <summary>Indicadores econômicos por município</summary>
               <div id="eco-indisp" class="aviso" hidden>Dados econômicos ainda não processados (scripts/preparar_economia.py).</div>
               <label class="chk"><input type="checkbox" id="chk-eco"><span>Mostrar no mapa</span></label>
@@ -140,7 +130,7 @@
           </summary>
           <div class="tema-corpo">
             <!-- Uso da terra -->
-            <details class="bloco" id="bloco-uso" open>
+            <details class="bloco" id="bloco-uso">
               <summary>Uso e cobertura da terra · MapBiomas</summary>
               <div id="uso-indisp" class="aviso" hidden></div>
               <div id="uso-controles">
@@ -236,6 +226,22 @@
     </aside>
 
     <div id="mapa" class="mapa" role="region" aria-label="Mapa"></div>
+
+    <!-- ================= Município (canto superior direito do mapa) ================= -->
+    <section id="painel-mun" class="painel-mun" aria-label="Município">
+      <div class="pm-cab">
+        <label class="rotulo" for="sel-mun">Município</label>
+        <button id="btn-mun-min" class="pm-min" aria-expanded="true" aria-controls="pm-corpo" title="Minimizar">–</button>
+      </div>
+      <select id="sel-mun"><option value="">Toda a RMP (24 municípios)</option></select>
+      <div id="pm-corpo" class="pm-corpo">
+        <section class="cartoes" id="resumo"></section>
+        <details class="bloco perfil">
+          <summary>Perfil do município</summary>
+          <div id="info-mun" class="info-mun"></div>
+        </details>
+      </div>
+    </section>
     <button id="btn-painel" class="btn-painel" aria-label="Mostrar/ocultar camadas">Camadas</button>
 
     <!-- ================= Página DOWNLOAD ================= -->
@@ -325,9 +331,9 @@
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <!-- aumente o ?v= ao alterar os arquivos, para o navegador não usar a versão em cache -->
-  <script src="js/config.js?v=14"></script>
-  <script src="js/app.js?v=14"></script>
-  <script src="js/interface.js?v=14"></script>
-  <script src="js/monte-mapa.js?v=14"></script>
+  <script src="js/config.js?v=15"></script>
+  <script src="js/app.js?v=15"></script>
+  <script src="js/interface.js?v=15"></script>
+  <script src="js/monte-mapa.js?v=15"></script>
 </body>
 </html>

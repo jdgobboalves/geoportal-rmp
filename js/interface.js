@@ -23,6 +23,7 @@
     $("pagina-info").hidden = aba !== "info";
     $("painel-camadas").hidden = aba !== "camadas";
     $("painel-monte").hidden = aba !== "monte";
+    $("painel-mun").hidden = aba === "monte";   // deixa o mapa livre para enquadrar a imagem
     $("btn-painel").textContent = aba === "monte" ? "Monte seu mapa" : "Camadas";
     $("nav").classList.remove("aberto"); $("btn-menu").setAttribute("aria-expanded", "false");
     if (aba === "monte") document.dispatchEvent(new CustomEvent("aba-monte"));
@@ -33,6 +34,18 @@
     if (matchMedia("(max-width: 820px)").matches) $("painel").classList.toggle("aberto", aba === "camadas" || aba === "monte");
   }
   document.querySelectorAll(".nav-item").forEach(b => b.addEventListener("click", () => abrirAba(b.dataset.aba)));
+  // cartão do município: minimizar/expandir (no celular começa minimizado)
+  function minimizaMun(min) {
+    $("painel-mun").classList.toggle("minimizado", min);
+    $("btn-mun-min").textContent = min ? "+" : "–";
+    $("btn-mun-min").title = min ? "Expandir" : "Minimizar";
+    $("btn-mun-min").setAttribute("aria-expanded", String(!min));
+  }
+  $("btn-mun-min").onclick = () => minimizaMun(!$("painel-mun").classList.contains("minimizado"));
+  if (matchMedia("(max-width: 820px)").matches) minimizaMun(true);
+  // cartão sobre o mapa: rolar/clicar nele não mexe no mapa
+  if (window.L) { L.DomEvent.disableClickPropagation($("painel-mun")); L.DomEvent.disableScrollPropagation($("painel-mun")); }
+
   $("btn-menu").onclick = () => {
     const ab = $("nav").classList.toggle("aberto"); $("btn-menu").setAttribute("aria-expanded", String(ab));
   };
