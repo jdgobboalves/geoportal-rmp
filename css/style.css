@@ -380,3 +380,13 @@ select:focus, .campo:focus { outline: 2px solid color-mix(in srgb, var(--destaqu
 .email:hover { text-decoration: underline; }
 .citacao a { color: var(--destaque); }
 .caixa p + p { margin-top: 10px; }
+
+/* Mais informações: fonte um pouco menor */
+#pagina-info .faixa-lead { font-size: 1.25rem !important; }
+#pagina-info .caixa h3 { font-size: 1rem; }
+#pagina-info .caixa p, #pagina-info .caixa li { font-size: .9rem; }
+#pagina-info .citacao { font-size: .84rem; }
+#pagina-info .formacao li { font-size: .82rem; }
+#pagina-info .pessoa.autor b { font-size: .95rem; }
+#pagina-info .tab-fontes { font-size: .84rem; }
+@media (max-width: 820px) { #pagina-info .faixa-lead { font-size: 1rem !important; } }
