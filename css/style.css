@@ -253,6 +253,12 @@ select:focus, .campo:focus { outline: 2px solid color-mix(in srgb, var(--destaqu
 .pessoa { display: flex; align-items: center; gap: 12px; margin: 10px 0; }
 .pessoa .avatar { width: 42px; height: 42px; border-radius: 50%; background: var(--bg); display: grid; place-items: center; color: var(--suave); }
 .pessoa b, .pessoa small { display: block; }
+.pessoa.autor { align-items: flex-start; gap: 16px; }
+.pessoa.autor .avatar { width: 96px; height: 96px; flex: 0 0 96px; object-fit: cover; border: 3px solid #e9f4ef; }
+.pessoa.autor b { font-size: 1.05rem; margin: 6px 0 6px; }
+.formacao { margin: 0; padding: 0; list-style: none; font-size: .88rem; color: var(--suave); line-height: 1.45; }
+.formacao li { padding-left: 14px; position: relative; }
+.formacao li::before { content: ""; position: absolute; left: 0; top: .6em; width: 6px; height: 6px; border-radius: 50%; background: var(--destaque); }
 .lista { margin: 0; padding-left: 20px; line-height: 1.6; }
 .tab-fontes { width: 100%; border-collapse: collapse; font-size: .9rem; }
 .tab-fontes th { text-align: left; font-weight: 500; color: var(--suave); font-size: .8rem; text-transform: uppercase; letter-spacing: .04em; }
